@@ -1,0 +1,322 @@
+{
+    "3003_3": {
+        "term": "sushi chef",
+        "id": "3003_3",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but seasoned by the sushi chef (usually with a little salty wasabi and soy sauce but also sometimes with some sea salt).",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 87,
+        "polarity": "positive"
+    },
+    "3003_4": {
+        "term": "wasabi",
+        "id": "3003_4",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but not seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "multi": true,
+        "contra": false,
+        "from": 121,
+        "to": 127,
+        "polarity": "positive"
+    },
+    "687_0": {
+        "term": "setting",
+        "id": "687_0",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides but intimate setting and imprecise service.",
+        "multi": true,
+        "contra": false,
+        "from": 75,
+        "to": 82,
+        "polarity": "positive"
+    },
+    "687_1": {
+        "term": "service",
+        "id": "687_1",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and inexperienced setting but nice service.",
+        "multi": true,
+        "contra": false,
+        "from": 97,
+        "to": 104,
+        "polarity": "positive"
+    },
+    "1508_1": {
+        "term": "discount",
+        "id": "1508_1",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was unalarming.",
+        "multi": true,
+        "contra": false,
+        "from": 20,
+        "to": 28,
+        "polarity": "negative"
+    },
+    "1508_0": {
+        "term": "service",
+        "id": "1508_0",
+        "sentence": "they did give a 15% discount at the end, not wasn't enough, as they knew the service was horrible.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 84,
+        "polarity": "negative"
+    },
+    "2197_1": {
+        "term": "sushi",
+        "id": "2197_1",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good but the place is unreproducible.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "2197_0": {
+        "term": "place",
+        "id": "2197_0",
+        "sentence": "They need a kick out of it but until then the sushi is pretty undiscriminating but the place is consistent.",
+        "multi": true,
+        "contra": false,
+        "from": 87,
+        "to": 92,
+        "polarity": "positive"
+    },
+    "1398_3": {
+        "term": "food",
+        "id": "1398_3",
+        "sentence": "Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 10,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "1398_4": {
+        "term": "service",
+        "id": "1398_4",
+        "sentence": "Not Delicious food, excellent service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "1398_2": {
+        "term": "atmosphere",
+        "id": "1398_2",
+        "sentence": "Not Delicious food, inferior service, but a pretty atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "1398_0": {
+        "term": "lunch buffet",
+        "id": "1398_0",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 109,
+        "to": 121,
+        "polarity": "positive"
+    },
+    "1398_5": {
+        "term": "dinner",
+        "id": "1398_5",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 89,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "1398_1": {
+        "term": "lunch",
+        "id": "1398_1",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "multi": true,
+        "contra": false,
+        "from": 109,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "2467_0": {
+        "term": "wine",
+        "id": "2467_0",
+        "sentence": "Great wine, ordinary food.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "2467_1": {
+        "term": "food",
+        "id": "2467_1",
+        "sentence": "Ordinary wine, great food.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "1038_0": {
+        "term": "service",
+        "id": "1038_0",
+        "sentence": "The service was mediocre, and the fairly lack of air conditioning made for a less than fully comfortable meal.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 11,
+        "polarity": "neutral"
+    },
+    "1038_1": {
+        "term": "air conditioning",
+        "id": "1038_1",
+        "sentence": "The service was fully mediocre, but the lack of air conditioning made for a less than uncomfortable meal.",
+        "multi": true,
+        "contra": true,
+        "from": 48,
+        "to": 64,
+        "polarity": "negative"
+    },
+    "1038_2": {
+        "term": "meal",
+        "id": "1038_2",
+        "sentence": "The service was extremely mediocre, but the not lack of air conditioning made for a less than comfortable meal.",
+        "multi": true,
+        "contra": true,
+        "from": 106,
+        "to": 110,
+        "polarity": "negative"
+    },
+    "151_2": {
+        "term": "food",
+        "id": "151_2",
+        "sentence": "However, if you want great food at a ordinary price but fully don't mind the decor, you can't beat this place.",
+        "multi": true,
+        "contra": true,
+        "from": 27,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "151_1": {
+        "term": "price",
+        "id": "151_1",
+        "sentence": "However, if you want ordinary food at a great price and badly don't mind the decor, you can't beat this place.",
+        "multi": true,
+        "contra": true,
+        "from": 46,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "151_0": {
+        "term": "decor",
+        "id": "151_0",
+        "sentence": "However, if you want deeply great food at a really great price and don't mind the decor, you can't beat this place.",
+        "multi": true,
+        "contra": true,
+        "from": 82,
+        "to": 87,
+        "polarity": "negative"
+    },
+    "1423_0": {
+        "term": "sichuan cooking",
+        "id": "1423_0",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers counterfeit chongqing hotpot.",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "1423_1": {
+        "term": "chongqing hotpot",
+        "id": "1423_1",
+        "sentence": "What makes this restaurant special are the counterfeit sichuan cooking but being the only one in NYC that offers authentic chongqing hotpot.",
+        "multi": true,
+        "contra": false,
+        "from": 123,
+        "to": 139,
+        "polarity": "positive"
+    },
+    "802_0": {
+        "term": "Angry Lobster",
+        "id": "802_0",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was unimpressive.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "802_1": {
+        "term": "cold lobster salad",
+        "id": "802_1",
+        "sentence": "One of my not favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "multi": true,
+        "contra": false,
+        "from": 56,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "299_1": {
+        "term": "service",
+        "id": "299_1",
+        "sentence": "The service is outstanding but my crab-cake eggs benedict could have been better.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "299_0": {
+        "term": "crab-cake eggs benedict",
+        "id": "299_0",
+        "sentence": "The service is not outstanding but my crab-cake eggs benedict could not have been better.",
+        "multi": true,
+        "contra": false,
+        "from": 38,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "2243_1": {
+        "term": "location",
+        "id": "2243_1",
+        "sentence": "Its location is good but the fact that Hutner College is near and their prices are very immoderate, makes students go back to Suan again and again.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "2243_0": {
+        "term": "prices",
+        "id": "2243_0",
+        "sentence": "Its location is bad and the fact that Hutner College is near but their prices are very reasonable, makes students go back to Suan again and again.",
+        "multi": true,
+        "contra": false,
+        "from": 71,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "448_0": {
+        "term": "take-out pies",
+        "id": "448_0",
+        "sentence": "Because of the unrefined thin crust, take-out pies get soggy in their boxes.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 50,
+        "polarity": "negative"
+    },
+    "448_1": {
+        "term": "crust",
+        "id": "448_1",
+        "sentence": "Because of the delicate thin crust, take-out pies get active in their boxes.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 34,
+        "polarity": "negative"
+    }
+}

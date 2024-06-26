@@ -1,0 +1,81 @@
+great $T$ , great waitstaff , great atmosphere , and best of all great beer !
+food
+1
+great food , great $T$ , great atmosphere , and best of all great beer !
+waitstaff
+1
+great food , great waitstaff , great $T$ , and best of all great beer !
+atmosphere
+1
+great food , great waitstaff , great atmosphere , and best of all great $T$ !
+beer
+1
+the $T$ is top notch , the service is attentive , and the atmosphere is great .
+food
+1
+the food is top notch , the $T$ is attentive , and the atmosphere is great .
+service
+1
+the food is top notch , the service is attentive , and the $T$ is great .
+atmosphere
+1
+what can you say about a place where the $T$ brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .
+waitress
+-1
+what can you say about a place where the waitress brings out the wrong $T$ , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .
+entree
+0
+the $T$ was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .
+service
+-1
+the service was pretty poor all around , the $T$ was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .
+food
+-1
+the service was pretty poor all around , the food was well below average relative to the $T$ , and outside there is a crazy bum who harasses every customer who leaves the place .
+cost
+-1
+probably my worst $T$ in new york , and i 'm a former waiter so i know what i 'm talking about .
+dining experience
+-1
+probably my worst dining experience in new york , and i 'm a former $T$ so i know what i 'm talking about .
+waiter
+0
+the $T$ has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .
+new menu
+1
+the new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the $T$ ) , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .
+prices
+-1
+i usually get one the $T$ .
+vietnamese beef noodle soup
+0
+their $T$ here is also absolutely delicious .
+duck
+1
+you can eat gourmet $T$ at a fast food price .
+food
+1
+you can eat gourmet food at a fast food $T$ .
+price
+1
+at night the $T$ changes turning into this hidden jewel that is waiting to be discovered .
+atmoshere
+1
+the $T$ covers a wide variety without being imposeing .
+boutique selection of wines
+0
+$T$ were excellent in addition to appetizers and main courses .
+pizzas
+1
+pizzas were excellent in addition to $T$ and main courses .
+appetizers
+1
+pizzas were excellent in addition to appetizers and $T$ .
+main courses
+1
+definitely try the $T$ , any pasta , or even the sliced steak entree .
+calamari
+1
+definitely try the calamari , any $T$ , or even the sliced steak entree .
+pasta
+1

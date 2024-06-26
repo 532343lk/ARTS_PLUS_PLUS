@@ -1,0 +1,3298 @@
+{
+    "1027_0": {
+        "from": 12,
+        "id": "1027_0",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi.",
+        "term": "bottle of sake",
+        "to": 26
+    },
+    "1027_0_adv3": {
+        "from": 12,
+        "id": "1027_0_adv3",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi, but various vegetables.",
+        "term": "bottle of sake",
+        "to": 26
+    },
+    "1027_1": {
+        "from": 94,
+        "id": "1027_1",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi.",
+        "term": "sashimi",
+        "to": 101
+    },
+    "1027_1_adv3": {
+        "from": 94,
+        "id": "1027_1_adv3",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi, but outstanding pizza.",
+        "term": "sashimi",
+        "to": 101
+    },
+    "1027_2": {
+        "from": 66,
+        "id": "1027_2",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi.",
+        "term": "sushi plate",
+        "to": 77
+    },
+    "1027_2_adv3": {
+        "from": 66,
+        "id": "1027_2_adv3",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi, but various vegetables.",
+        "term": "sushi plate",
+        "to": 77
+    },
+    "1027_3": {
+        "from": 40,
+        "id": "1027_3",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi.",
+        "term": "edamames",
+        "to": 48
+    },
+    "1027_3_adv3": {
+        "from": 40,
+        "id": "1027_3_adv3",
+        "polarity": "neutral",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi, but you like the food and it is easier to get a set a lunch.",
+        "term": "edamames",
+        "to": 48
+    },
+    "1038_0": {
+        "from": 4,
+        "id": "1038_0",
+        "polarity": "neutral",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",
+        "term": "service",
+        "to": 11
+    },
+    "1038_0_adv1": {
+        "from": 4,
+        "id": "1038_0_adv1",
+        "polarity": "neutral",
+        "sentence": "The service was extraordinary, but the lack of air conditioning made for a less than comfortable meal.",
+        "term": "service",
+        "to": 11
+    },
+    "1038_0_adv2": {
+        "from": 4,
+        "id": "1038_0_adv2",
+        "polarity": "neutral",
+        "sentence": "The service was mediocre, and the fairly lack of air conditioning made for a less than fully comfortable meal.",
+        "term": "service",
+        "to": 11
+    },
+    "1038_0_adv3": {
+        "from": 4,
+        "id": "1038_0_adv3",
+        "polarity": "neutral",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal, but the service was mediocre and reservations are a must.",
+        "term": "service",
+        "to": 11
+    },
+    "1038_1": {
+        "from": 42,
+        "id": "1038_1",
+        "polarity": "negative",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",
+        "term": "air conditioning",
+        "to": 58
+    },
+    "1038_1_adv1": {
+        "from": 42,
+        "id": "1038_1_adv1",
+        "polarity": "positive",
+        "sentence": "The service was mediocre, but the lack of air conditioning made for a less than comfortable meal.",
+        "term": "air conditioning",
+        "to": 58
+    },
+    "1038_1_adv2": {
+        "from": 48,
+        "id": "1038_1_adv2",
+        "polarity": "negative",
+        "sentence": "The service was fully mediocre, but the lack of air conditioning made for a less than uncomfortable meal.",
+        "term": "air conditioning",
+        "to": 64
+    },
+    "1038_1_adv3": {
+        "from": 42,
+        "id": "1038_1_adv3",
+        "polarity": "negative",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal, but worth the wait, such nice people working here and the nicest bartender.",
+        "term": "air conditioning",
+        "to": 58
+    },
+    "1038_2": {
+        "from": 92,
+        "id": "1038_2",
+        "polarity": "negative",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",
+        "term": "meal",
+        "to": 96
+    },
+    "1038_2_adv1": {
+        "from": 94,
+        "id": "1038_2_adv1",
+        "polarity": "positive",
+        "sentence": "The service was mediocre, but the lack of air conditioning made for a less than uncomfortable meal.",
+        "term": "meal",
+        "to": 98
+    },
+    "1038_2_adv2": {
+        "from": 106,
+        "id": "1038_2_adv2",
+        "polarity": "negative",
+        "sentence": "The service was extremely mediocre, but the not lack of air conditioning made for a less than comfortable meal.",
+        "term": "meal",
+        "to": 110
+    },
+    "1038_2_adv3": {
+        "from": 92,
+        "id": "1038_2_adv3",
+        "polarity": "negative",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal, but I had never had edamame pur\u00e9ed before but I thought it was innovative and tasty could've used a bit more salt.",
+        "term": "meal",
+        "to": 96
+    },
+    "1139_0": {
+        "from": 16,
+        "id": "1139_0",
+        "polarity": "positive",
+        "sentence": "I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).",
+        "term": "Edamame pureed",
+        "to": 30
+    },
+    "1139_0_adv1": {
+        "from": 16,
+        "id": "1139_0_adv1",
+        "polarity": "negative",
+        "sentence": "I had never had Edamame pureed before but I thought it was unoriginal and tasteless (could've used a bit more salt).",
+        "term": "Edamame pureed",
+        "to": 30
+    },
+    "1139_0_adv3": {
+        "from": 16,
+        "id": "1139_0_adv3",
+        "polarity": "positive",
+        "sentence": "I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt); the delicate thin crust, a less than comfortable meal and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "Edamame pureed",
+        "to": 30
+    },
+    "137_0": {
+        "from": 5,
+        "id": "137_0",
+        "polarity": "positive",
+        "sentence": "This place is always very crowded and popular.",
+        "term": "place",
+        "to": 10
+    },
+    "137_0_adv1": {
+        "from": 5,
+        "id": "137_0_adv1",
+        "polarity": "negative",
+        "sentence": "This place is always very uncrowded and classical.",
+        "term": "place",
+        "to": 10
+    },
+    "137_0_adv3": {
+        "from": 5,
+        "id": "137_0_adv3",
+        "polarity": "positive",
+        "sentence": "This place is always very crowded and popular, but our tiny table and a small place.",
+        "term": "place",
+        "to": 10
+    },
+    "1398_0": {
+        "from": 109,
+        "id": "1398_0",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "lunch buffet",
+        "to": 121
+    },
+    "1398_0_adv1": {
+        "from": 110,
+        "id": "1398_0_adv1",
+        "polarity": "negative",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "lunch buffet",
+        "to": 122
+    },
+    "1398_0_adv2": {
+        "from": 109,
+        "id": "1398_0_adv2",
+        "polarity": "positive",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "lunch buffet",
+        "to": 121
+    },
+    "1398_0_adv3": {
+        "from": 109,
+        "id": "1398_0_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "lunch buffet",
+        "to": 121
+    },
+    "1398_1": {
+        "from": 157,
+        "id": "1398_1",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "lunch",
+        "to": 162
+    },
+    "1398_1_adv1": {
+        "from": 110,
+        "id": "1398_1_adv1",
+        "polarity": "negative",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "lunch",
+        "to": 115
+    },
+    "1398_1_adv2": {
+        "from": 109,
+        "id": "1398_1_adv2",
+        "polarity": "positive",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "lunch",
+        "to": 114
+    },
+    "1398_1_adv3": {
+        "from": 157,
+        "id": "1398_1_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but the worst sushi my husband and I had in our entire lives.",
+        "term": "lunch",
+        "to": 162
+    },
+    "1398_2": {
+        "from": 48,
+        "id": "1398_2",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "atmosphere",
+        "to": 58
+    },
+    "1398_2_adv1": {
+        "from": 46,
+        "id": "1398_2_adv1",
+        "polarity": "negative",
+        "sentence": "Delicious food, excellent service, but a good atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "atmosphere",
+        "to": 56
+    },
+    "1398_2_adv2": {
+        "from": 51,
+        "id": "1398_2_adv2",
+        "polarity": "positive",
+        "sentence": "Not Delicious food, inferior service, but a pretty atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "atmosphere",
+        "to": 61
+    },
+    "1398_2_adv3": {
+        "from": 48,
+        "id": "1398_2_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but don't mind the decor.",
+        "term": "atmosphere",
+        "to": 58
+    },
+    "1398_3": {
+        "from": 10,
+        "id": "1398_3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "food",
+        "to": 14
+    },
+    "1398_3_adv1": {
+        "from": 14,
+        "id": "1398_3_adv1",
+        "polarity": "negative",
+        "sentence": "Not Delicious food, excellent service, but a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "food",
+        "to": 18
+    },
+    "1398_3_adv2": {
+        "from": 10,
+        "id": "1398_3_adv2",
+        "polarity": "positive",
+        "sentence": "Delicious food, inferior service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "food",
+        "to": 14
+    },
+    "1398_3_adv3": {
+        "from": 10,
+        "id": "1398_3_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but subpar pizza, a less than comfortable meal and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "food",
+        "to": 14
+    },
+    "1398_4": {
+        "from": 26,
+        "id": "1398_4",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "service",
+        "to": 33
+    },
+    "1398_4_adv1": {
+        "from": 25,
+        "id": "1398_4_adv1",
+        "polarity": "negative",
+        "sentence": "Delicious food, inferior service, but a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "service",
+        "to": 32
+    },
+    "1398_4_adv2": {
+        "from": 30,
+        "id": "1398_4_adv2",
+        "polarity": "positive",
+        "sentence": "Not Delicious food, excellent service, but a good atmosphere make this a bad choice for dinner but the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "service",
+        "to": 37
+    },
+    "1398_4_adv3": {
+        "from": 26,
+        "id": "1398_4_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but ignored by waitstaff and the service was horrible.",
+        "term": "service",
+        "to": 33
+    },
+    "1398_5": {
+        "from": 88,
+        "id": "1398_5",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "dinner",
+        "to": 94
+    },
+    "1398_5_adv1": {
+        "from": 86,
+        "id": "1398_5_adv1",
+        "polarity": "negative",
+        "sentence": "Delicious food, excellent service, but a pretty atmosphere make this a bad choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term": "dinner",
+        "to": 92
+    },
+    "1398_5_adv2": {
+        "from": 89,
+        "id": "1398_5_adv2",
+        "polarity": "positive",
+        "sentence": "Not Delicious food, inferior service, but a good atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even not better choice for lunch!",
+        "term": "dinner",
+        "to": 95
+    },
+    "1398_5_adv3": {
+        "from": 88,
+        "id": "1398_5_adv3",
+        "polarity": "positive",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "dinner",
+        "to": 94
+    },
+    "1420_0": {
+        "from": 28,
+        "id": "1420_0",
+        "polarity": "negative",
+        "sentence": "Note that they do not serve beer, you must bring your own.",
+        "term": "beer",
+        "to": 32
+    },
+    "1420_0_adv3": {
+        "from": 28,
+        "id": "1420_0_adv3",
+        "polarity": "negative",
+        "sentence": "Note that they do not serve beer, you must bring your own, but relaxed jazz.",
+        "term": "beer",
+        "to": 32
+    },
+    "1423_0": {
+        "from": 53,
+        "id": "1423_0",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.",
+        "term": "sichuan cooking",
+        "to": 68
+    },
+    "1423_0_adv1": {
+        "from": 55,
+        "id": "1423_0_adv1",
+        "polarity": "negative",
+        "sentence": "What makes this restaurant special are the counterfeit sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.",
+        "term": "sichuan cooking",
+        "to": 70
+    },
+    "1423_0_adv2": {
+        "from": 53,
+        "id": "1423_0_adv2",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers counterfeit chongqing hotpot.",
+        "term": "sichuan cooking",
+        "to": 68
+    },
+    "1423_0_adv3": {
+        "from": 53,
+        "id": "1423_0_adv3",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot, but our tiny table.",
+        "term": "sichuan cooking",
+        "to": 68
+    },
+    "1423_1": {
+        "from": 121,
+        "id": "1423_1",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.",
+        "term": "chongqing hotpot",
+        "to": 137
+    },
+    "1423_1_adv1": {
+        "from": 123,
+        "id": "1423_1_adv1",
+        "polarity": "negative",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers counterfeit chongqing hotpot.",
+        "term": "chongqing hotpot",
+        "to": 139
+    },
+    "1423_1_adv2": {
+        "from": 123,
+        "id": "1423_1_adv2",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the counterfeit sichuan cooking but being the only one in NYC that offers authentic chongqing hotpot.",
+        "term": "chongqing hotpot",
+        "to": 139
+    },
+    "1423_1_adv3": {
+        "from": 121,
+        "id": "1423_1_adv3",
+        "polarity": "positive",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot, but a less than comfortable meal.",
+        "term": "chongqing hotpot",
+        "to": 137
+    },
+    "1430_0": {
+        "from": 16,
+        "id": "1430_0",
+        "polarity": "neutral",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "term": "food",
+        "to": 20
+    },
+    "1430_0_adv1": {
+        "from": 20,
+        "id": "1430_0_adv1",
+        "polarity": "neutral",
+        "sentence": "If you not like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "term": "food",
+        "to": 24
+    },
+    "1430_0_adv3": {
+        "from": 16,
+        "id": "1430_0_adv3",
+        "polarity": "neutral",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you, but the selection changes frequently, outstanding pizza and two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "food",
+        "to": 20
+    },
+    "1430_1": {
+        "from": 29,
+        "id": "1430_1",
+        "polarity": "neutral",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "term": "value",
+        "to": 34
+    },
+    "1430_1_adv1": {
+        "from": 33,
+        "id": "1430_1_adv1",
+        "polarity": "neutral",
+        "sentence": "If you not like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "term": "value",
+        "to": 38
+    },
+    "1430_1_adv3": {
+        "from": 29,
+        "id": "1430_1_adv3",
+        "polarity": "neutral",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you, but the service was mediocre and reservations are a must.",
+        "term": "value",
+        "to": 34
+    },
+    "1447_0": {
+        "from": 34,
+        "id": "1447_0",
+        "polarity": "negative",
+        "sentence": "He was terribly thirsty after the meal too.",
+        "term": "meal",
+        "to": 38
+    },
+    "1447_0_adv3": {
+        "from": 34,
+        "id": "1447_0_adv3",
+        "polarity": "negative",
+        "sentence": "He was terribly thirsty after the meal too, but a cold lobster salad that was magnificent, a great choice for dinner and a little fresh wasabi and soy sauce.",
+        "term": "meal",
+        "to": 38
+    },
+    "1462_0": {
+        "from": 48,
+        "id": "1462_0",
+        "polarity": "neutral",
+        "sentence": "Appetizers are somewhere around $7 each and the main dishes are between $11 and $16.",
+        "term": "main dishes",
+        "to": 59
+    },
+    "1462_0_adv3": {
+        "from": 48,
+        "id": "1462_0_adv3",
+        "polarity": "neutral",
+        "sentence": "Appetizers are somewhere around $7 each and the main dishes are between $11 and $16, but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "main dishes",
+        "to": 59
+    },
+    "1462_1": {
+        "from": 0,
+        "id": "1462_1",
+        "polarity": "neutral",
+        "sentence": "Appetizers are somewhere around $7 each and the main dishes are between $11 and $16.",
+        "term": "Appetizers",
+        "to": 10
+    },
+    "1462_1_adv3": {
+        "from": 0,
+        "id": "1462_1_adv3",
+        "polarity": "neutral",
+        "sentence": "Appetizers are somewhere around $7 each and the main dishes are between $11 and $16, but you like the food, two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and outstanding pizza.",
+        "term": "Appetizers",
+        "to": 10
+    },
+    "1508_0": {
+        "from": 73,
+        "id": "1508_0",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",
+        "term": "service",
+        "to": 80
+    },
+    "1508_0_adv1": {
+        "from": 73,
+        "id": "1508_0_adv1",
+        "polarity": "positive",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was unalarming.",
+        "term": "service",
+        "to": 80
+    },
+    "1508_0_adv2": {
+        "from": 77,
+        "id": "1508_0_adv2",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, not wasn't enough, as they knew the service was horrible.",
+        "term": "service",
+        "to": 84
+    },
+    "1508_0_adv3": {
+        "from": 73,
+        "id": "1508_0_adv3",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible, but such nice people working here.",
+        "term": "service",
+        "to": 80
+    },
+    "1508_1": {
+        "from": 20,
+        "id": "1508_1",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",
+        "term": "discount",
+        "to": 28
+    },
+    "1508_1_adv1": {
+        "from": 20,
+        "id": "1508_1_adv1",
+        "polarity": "positive",
+        "sentence": "they did give a 15% discount at the end, not enough, as they knew the service was horrible.",
+        "term": "discount",
+        "to": 28
+    },
+    "1508_1_adv2": {
+        "from": 20,
+        "id": "1508_1_adv2",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was unalarming.",
+        "term": "discount",
+        "to": 28
+    },
+    "1508_1_adv3": {
+        "from": 20,
+        "id": "1508_1_adv3",
+        "polarity": "negative",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible, but relaxed jazz.",
+        "term": "discount",
+        "to": 28
+    },
+    "151_0": {
+        "from": 68,
+        "id": "151_0",
+        "polarity": "negative",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place.",
+        "term": "decor",
+        "to": 73
+    },
+    "151_0_adv1": {
+        "from": 62,
+        "id": "151_0_adv1",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a great price and mind the decor, you can't beat this place.",
+        "term": "decor",
+        "to": 67
+    },
+    "151_0_adv2": {
+        "from": 82,
+        "id": "151_0_adv2",
+        "polarity": "negative",
+        "sentence": "However, if you want deeply great food at a really great price and don't mind the decor, you can't beat this place.",
+        "term": "decor",
+        "to": 87
+    },
+    "151_0_adv3": {
+        "from": 68,
+        "id": "151_0_adv3",
+        "polarity": "negative",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place, but intimate setting and a pretty atmosphere.",
+        "term": "decor",
+        "to": 73
+    },
+    "151_1": {
+        "from": 43,
+        "id": "151_1",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place.",
+        "term": "price",
+        "to": 48
+    },
+    "151_1_adv1": {
+        "from": 46,
+        "id": "151_1_adv1",
+        "polarity": "negative",
+        "sentence": "However, if you want great food at a ordinary price and don't mind the decor, you can't beat this place.",
+        "term": "price",
+        "to": 51
+    },
+    "151_1_adv2": {
+        "from": 46,
+        "id": "151_1_adv2",
+        "polarity": "positive",
+        "sentence": "However, if you want ordinary food at a great price and badly don't mind the decor, you can't beat this place.",
+        "term": "price",
+        "to": 51
+    },
+    "151_1_adv3": {
+        "from": 43,
+        "id": "151_1_adv3",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place, but spotlights shining on you putting you in the worst light possible, reaching for sunglasses, no other table was available, and the prices are higher than most other pizzerias in the area.",
+        "term": "price",
+        "to": 48
+    },
+    "151_2": {
+        "from": 27,
+        "id": "151_2",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place.",
+        "term": "food",
+        "to": 31
+    },
+    "151_2_adv1": {
+        "from": 30,
+        "id": "151_2_adv1",
+        "polarity": "negative",
+        "sentence": "However, if you want ordinary food at a great price and don't mind the decor, you can't beat this place.",
+        "term": "food",
+        "to": 34
+    },
+    "151_2_adv2": {
+        "from": 27,
+        "id": "151_2_adv2",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a ordinary price but fully don't mind the decor, you can't beat this place.",
+        "term": "food",
+        "to": 31
+    },
+    "151_2_adv3": {
+        "from": 27,
+        "id": "151_2_adv3",
+        "polarity": "positive",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place, but a less than comfortable meal, the worst sushi my husband and I had in our entire lives and subpar pizza.",
+        "term": "food",
+        "to": 31
+    },
+    "1536_0": {
+        "from": 8,
+        "id": "1536_0",
+        "polarity": "positive",
+        "sentence": "Get the soup and a nosh (pastrami sandwich) for $8 and you're golden.",
+        "term": "soup",
+        "to": 12
+    },
+    "1536_0_adv3": {
+        "from": 8,
+        "id": "1536_0_adv3",
+        "polarity": "positive",
+        "sentence": "Get the soup and a nosh (pastrami sandwich) for $8 and you're golden, but spotlights shining on you putting you in the worst light possible, reaching for sunglasses and no other table was available.",
+        "term": "soup",
+        "to": 12
+    },
+    "1536_1": {
+        "from": 19,
+        "id": "1536_1",
+        "polarity": "positive",
+        "sentence": "Get the soup and a nosh (pastrami sandwich) for $8 and you're golden.",
+        "term": "nosh (pastrami sandwich)",
+        "to": 43
+    },
+    "1536_1_adv3": {
+        "from": 19,
+        "id": "1536_1_adv3",
+        "polarity": "positive",
+        "sentence": "Get the soup and a nosh (pastrami sandwich) for $8 and you're golden, but the delicate thin crust and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "nosh (pastrami sandwich)",
+        "to": 43
+    },
+    "1539_0": {
+        "from": 20,
+        "id": "1539_0",
+        "polarity": "neutral",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "hot dogs",
+        "to": 28
+    },
+    "1539_0_adv1": {
+        "from": 20,
+        "id": "1539_0_adv1",
+        "polarity": "neutral",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty inoperative since there is a whole section on the menu devoted to them.",
+        "term": "hot dogs",
+        "to": 28
+    },
+    "1539_0_adv3": {
+        "from": 20,
+        "id": "1539_0_adv3",
+        "polarity": "neutral",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, but it is easier to get a set a lunch and outstanding pizza.",
+        "term": "hot dogs",
+        "to": 28
+    },
+    "1539_1": {
+        "from": 102,
+        "id": "1539_1",
+        "polarity": "neutral",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "menu",
+        "to": 106
+    },
+    "1539_1_adv3": {
+        "from": 102,
+        "id": "1539_1_adv3",
+        "polarity": "neutral",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, but the basic dishes are always available and outstanding pizza.",
+        "term": "menu",
+        "to": 106
+    },
+    "1540_0": {
+        "from": 36,
+        "id": "1540_0",
+        "polarity": "positive",
+        "sentence": "They showed up 15 minutes after the tuna melt.",
+        "term": "tuna",
+        "to": 40
+    },
+    "1540_0_adv3": {
+        "from": 36,
+        "id": "1540_0_adv3",
+        "polarity": "positive",
+        "sentence": "They showed up 15 minutes after the tuna melt, but subpar pizza and a less than comfortable meal.",
+        "term": "tuna",
+        "to": 40
+    },
+    "1605_0": {
+        "from": 34,
+        "id": "1605_0",
+        "polarity": "neutral",
+        "sentence": "I've had pizza both times and the caprese salad appetizer.",
+        "term": "caprese salad appetizer",
+        "to": 57
+    },
+    "1605_0_adv3": {
+        "from": 34,
+        "id": "1605_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had pizza both times and the caprese salad appetizer, but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, the basic dishes are always available and the selection changes frequently.",
+        "term": "caprese salad appetizer",
+        "to": 57
+    },
+    "1605_1": {
+        "from": 9,
+        "id": "1605_1",
+        "polarity": "neutral",
+        "sentence": "I've had pizza both times and the caprese salad appetizer.",
+        "term": "pizza",
+        "to": 14
+    },
+    "1605_1_adv3": {
+        "from": 9,
+        "id": "1605_1_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had pizza both times and the caprese salad appetizer, but it is easier to get a set a lunch.",
+        "term": "pizza",
+        "to": 14
+    },
+    "1610_0": {
+        "from": 4,
+        "id": "1610_0",
+        "polarity": "positive",
+        "sentence": "The pizza was great.",
+        "term": "pizza",
+        "to": 9
+    },
+    "1610_0_adv1": {
+        "from": 4,
+        "id": "1610_0_adv1",
+        "polarity": "negative",
+        "sentence": "The pizza was ordinary.",
+        "term": "pizza",
+        "to": 9
+    },
+    "1610_0_adv3": {
+        "from": 4,
+        "id": "1610_0_adv3",
+        "polarity": "positive",
+        "sentence": "The pizza was great, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections. And the delicate thin crust.",
+        "term": "pizza",
+        "to": 9
+    },
+    "1687_0": {
+        "from": 4,
+        "id": "1687_0",
+        "polarity": "neutral",
+        "sentence": "The dish had like 6 pieces of beef in it.",
+        "term": "dish",
+        "to": 8
+    },
+    "1687_0_adv3": {
+        "from": 4,
+        "id": "1687_0_adv3",
+        "polarity": "neutral",
+        "sentence": "The dish had like 6 pieces of beef in it, but you like the food, two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and the selection changes frequently.",
+        "term": "dish",
+        "to": 8
+    },
+    "1687_1": {
+        "from": 30,
+        "id": "1687_1",
+        "polarity": "neutral",
+        "sentence": "The dish had like 6 pieces of beef in it.",
+        "term": "beef",
+        "to": 34
+    },
+    "1687_1_adv3": {
+        "from": 30,
+        "id": "1687_1_adv3",
+        "polarity": "neutral",
+        "sentence": "The dish had like 6 pieces of beef in it, but it is easier to get a set a lunch and the selection changes frequently.",
+        "term": "beef",
+        "to": 34
+    },
+    "1735_0": {
+        "from": 41,
+        "id": "1735_0",
+        "polarity": "neutral",
+        "sentence": "I can't believe people complain about no cheese sticks?",
+        "term": "cheese sticks",
+        "to": 54
+    },
+    "1735_0_adv3": {
+        "from": 41,
+        "id": "1735_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I can't believe people complain about no cheese sticks, but various vegetables.",
+        "term": "cheese sticks",
+        "to": 54
+    },
+    "1770_0": {
+        "from": 19,
+        "id": "1770_0",
+        "polarity": "negative",
+        "sentence": "honestly the worst sushi my husband and i had in our entire lives.",
+        "term": "sushi",
+        "to": 24
+    },
+    "1770_0_adv1": {
+        "from": 19,
+        "id": "1770_0_adv1",
+        "polarity": "positive",
+        "sentence": "honestly the worst sushi my husband and i had in our entire lives.",
+        "term": "sushi",
+        "to": 24
+    },
+    "1770_0_adv3": {
+        "from": 19,
+        "id": "1770_0_adv3",
+        "polarity": "negative",
+        "sentence": "honestly the worst sushi my husband and i had in our entire lives, but the pizza was great.  a little fresh wasabi and soy sauce and my son and his girlfriend both wanted cheeseburgers, and they were huge!.",
+        "term": "sushi",
+        "to": 24
+    },
+    "1808_0": {
+        "from": 18,
+        "id": "1808_0",
+        "polarity": "negative",
+        "sentence": "however, it's the service that leaves a bad taste in my mouth.",
+        "term": "service",
+        "to": 25
+    },
+    "1808_0_adv1": {
+        "from": 18,
+        "id": "1808_0_adv1",
+        "polarity": "positive",
+        "sentence": "however, it's the service that leaves a not bad taste in my mouth.",
+        "term": "service",
+        "to": 25
+    },
+    "1808_0_adv3": {
+        "from": 18,
+        "id": "1808_0_adv3",
+        "polarity": "negative",
+        "sentence": "however, it's the service that leaves a bad taste in my mouth, but worth the wait and such nice people working here.",
+        "term": "service",
+        "to": 25
+    },
+    "1908_0": {
+        "from": 34,
+        "id": "1908_0",
+        "polarity": "neutral",
+        "sentence": "The restaraurant is very small so reservations are a must.",
+        "term": "reservations",
+        "to": 46
+    },
+    "1908_0_adv1": {
+        "from": 34,
+        "id": "1908_0_adv1",
+        "polarity": "neutral",
+        "sentence": "The restaraurant is very small so reservations are a not must.",
+        "term": "reservations",
+        "to": 46
+    },
+    "1908_0_adv3": {
+        "from": 34,
+        "id": "1908_0_adv3",
+        "polarity": "neutral",
+        "sentence": "The restaraurant is very small so reservations are a must, but the service was mediocre and reservations are a must.",
+        "term": "reservations",
+        "to": 46
+    },
+    "1921_0": {
+        "from": 13,
+        "id": "1921_0",
+        "polarity": "positive",
+        "sentence": "The food and staff always surprise me with the new heights they are taken to.",
+        "term": "staff",
+        "to": 18
+    },
+    "1921_0_adv1": {
+        "from": 13,
+        "id": "1921_0_adv1",
+        "polarity": "negative",
+        "sentence": "The food and staff always not surprise me with the new heights they are taken to.",
+        "term": "staff",
+        "to": 18
+    },
+    "1921_0_adv3": {
+        "from": 13,
+        "id": "1921_0_adv3",
+        "polarity": "positive",
+        "sentence": "The food and staff always surprise me with the new heights they are taken to, but ignored by waitstaff and the service was horrible.",
+        "term": "staff",
+        "to": 18
+    },
+    "1921_1": {
+        "from": 4,
+        "id": "1921_1",
+        "polarity": "positive",
+        "sentence": "The food and staff always surprise me with the new heights they are taken to.",
+        "term": "food",
+        "to": 8
+    },
+    "1921_1_adv1": {
+        "from": 4,
+        "id": "1921_1_adv1",
+        "polarity": "negative",
+        "sentence": "The food and staff always not surprise me with the new heights they are taken to.",
+        "term": "food",
+        "to": 8
+    },
+    "1921_1_adv3": {
+        "from": 4,
+        "id": "1921_1_adv3",
+        "polarity": "positive",
+        "sentence": "The food and staff always surprise me with the new heights they are taken to, but the worst sushi my husband and I had in our entire lives, the delicate thin crust and a less than comfortable meal.",
+        "term": "food",
+        "to": 8
+    },
+    "1980_0": {
+        "from": 13,
+        "id": "1980_0",
+        "polarity": "positive",
+        "sentence": "Tasty steak, pork loin, the works.",
+        "term": "pork loin",
+        "to": 22
+    },
+    "1980_0_adv1": {
+        "from": 17,
+        "id": "1980_0_adv1",
+        "polarity": "negative",
+        "sentence": "Tasteless steak, pork loin, the works.",
+        "term": "pork loin",
+        "to": 26
+    },
+    "1980_0_adv3": {
+        "from": 13,
+        "id": "1980_0_adv3",
+        "polarity": "positive",
+        "sentence": "Tasty steak, pork loin, the works, but spotlights shining on you putting you in the worst light possible, reaching for sunglasses, don't mind the decor and the service that leaves a bad taste in my mouth.",
+        "term": "pork loin",
+        "to": 22
+    },
+    "1980_1": {
+        "from": 6,
+        "id": "1980_1",
+        "polarity": "positive",
+        "sentence": "Tasty steak, pork loin, the works.",
+        "term": "steak",
+        "to": 11
+    },
+    "1980_1_adv1": {
+        "from": 10,
+        "id": "1980_1_adv1",
+        "polarity": "negative",
+        "sentence": "Tasteless steak, pork loin, the works.",
+        "term": "steak",
+        "to": 15
+    },
+    "1980_1_adv3": {
+        "from": 6,
+        "id": "1980_1_adv3",
+        "polarity": "positive",
+        "sentence": "Tasty steak, pork loin, the works, but the delicate thin crust, subpar pizza and a less than comfortable meal.",
+        "term": "steak",
+        "to": 11
+    },
+    "2066_0": {
+        "from": 89,
+        "id": "2066_0",
+        "polarity": "positive",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "non-veg selections",
+        "to": 107
+    },
+    "2066_0_adv3": {
+        "from": 89,
+        "id": "2066_0_adv3",
+        "polarity": "positive",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections, but subpar pizza, the delicate thin crust and the worst sushi my husband and I had in our entire lives.",
+        "term": "non-veg selections",
+        "to": 107
+    },
+    "2066_1": {
+        "from": 31,
+        "id": "2066_1",
+        "polarity": "negative",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "vegetarian dishes",
+        "to": 48
+    },
+    "2066_1_adv1": {
+        "from": 31,
+        "id": "2066_1_adv1",
+        "polarity": "positive",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply up to par with the non-veg selections.",
+        "term": "vegetarian dishes",
+        "to": 48
+    },
+    "2066_1_adv3": {
+        "from": 31,
+        "id": "2066_1_adv3",
+        "polarity": "negative",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections, but the burger was great, also. And a great choice for dinner.",
+        "term": "vegetarian dishes",
+        "to": 48
+    },
+    "2114_0": {
+        "from": 89,
+        "id": "2114_0",
+        "polarity": "neutral",
+        "sentence": "we were tired and cold when we got to the restaurant, then we sat down to begin ordering appetizers.",
+        "term": "appetizers",
+        "to": 99
+    },
+    "2114_0_adv3": {
+        "from": 89,
+        "id": "2114_0_adv3",
+        "polarity": "neutral",
+        "sentence": "we were tired and cold when we got to the restaurant, then we sat down to begin ordering appetizers, but you like the food.",
+        "term": "appetizers",
+        "to": 99
+    },
+    "2116_0": {
+        "from": 18,
+        "id": "2116_0",
+        "polarity": "neutral",
+        "sentence": "then we ordered a dinosaur rolls and white tuna sashimi.",
+        "term": "dinosaur rolls",
+        "to": 32
+    },
+    "2116_0_adv3": {
+        "from": 18,
+        "id": "2116_0_adv3",
+        "polarity": "neutral",
+        "sentence": "then we ordered a dinosaur rolls and white tuna sashimi, but various vegetables.",
+        "term": "dinosaur rolls",
+        "to": 32
+    },
+    "2116_1": {
+        "from": 37,
+        "id": "2116_1",
+        "polarity": "neutral",
+        "sentence": "then we ordered a dinosaur rolls and white tuna sashimi.",
+        "term": "white tuna sashimi",
+        "to": 55
+    },
+    "2116_1_adv3": {
+        "from": 37,
+        "id": "2116_1_adv3",
+        "polarity": "neutral",
+        "sentence": "then we ordered a dinosaur rolls and white tuna sashimi, but outstanding pizza.",
+        "term": "white tuna sashimi",
+        "to": 55
+    },
+    "2169_0": {
+        "from": 19,
+        "id": "2169_0",
+        "polarity": "positive",
+        "sentence": "I grew up on these bagels.",
+        "term": "bagels",
+        "to": 25
+    },
+    "2169_0_adv3": {
+        "from": 19,
+        "id": "2169_0_adv3",
+        "polarity": "positive",
+        "sentence": "I grew up on these bagels, but a less than comfortable meal, subpar pizza and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "bagels",
+        "to": 25
+    },
+    "2197_0": {
+        "from": 75,
+        "id": "2197_0",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent.",
+        "term": "place",
+        "to": 80
+    },
+    "2197_0_adv1": {
+        "from": 75,
+        "id": "2197_0_adv1",
+        "polarity": "negative",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good but the place is unreproducible.",
+        "term": "place",
+        "to": 80
+    },
+    "2197_0_adv2": {
+        "from": 87,
+        "id": "2197_0_adv2",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty undiscriminating but the place is consistent.",
+        "term": "place",
+        "to": 92
+    },
+    "2197_0_adv3": {
+        "from": 75,
+        "id": "2197_0_adv3",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent; our tiny table and a small place.",
+        "term": "place",
+        "to": 80
+    },
+    "2197_1": {
+        "from": 46,
+        "id": "2197_1",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent.",
+        "term": "sushi",
+        "to": 51
+    },
+    "2197_1_adv1": {
+        "from": 46,
+        "id": "2197_1_adv1",
+        "polarity": "negative",
+        "sentence": "They need a kick out of it but until then the sushi is pretty undiscriminating but the place is consistent.",
+        "term": "sushi",
+        "to": 51
+    },
+    "2197_1_adv2": {
+        "from": 46,
+        "id": "2197_1_adv2",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good but the place is unreproducible.",
+        "term": "sushi",
+        "to": 51
+    },
+    "2197_1_adv3": {
+        "from": 46,
+        "id": "2197_1_adv3",
+        "polarity": "positive",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent; don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections. And subpar pizza.",
+        "term": "sushi",
+        "to": 51
+    },
+    "2224_0": {
+        "from": 91,
+        "id": "2224_0",
+        "polarity": "neutral",
+        "sentence": "It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.",
+        "term": "rice",
+        "to": 95
+    },
+    "2224_0_adv3": {
+        "from": 91,
+        "id": "2224_0_adv3",
+        "polarity": "neutral",
+        "sentence": "It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand, but it is easier to get a set a lunch and the selection changes frequently.",
+        "term": "rice",
+        "to": 95
+    },
+    "2224_1": {
+        "from": 108,
+        "id": "2224_1",
+        "polarity": "neutral",
+        "sentence": "It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.",
+        "term": "water",
+        "to": 113
+    },
+    "2224_1_adv3": {
+        "from": 108,
+        "id": "2224_1_adv3",
+        "polarity": "neutral",
+        "sentence": "It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand, but various vegetables.",
+        "term": "water",
+        "to": 113
+    },
+    "2226_0": {
+        "from": 58,
+        "id": "2226_0",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate.",
+        "term": "food",
+        "to": 62
+    },
+    "2226_0_adv3": {
+        "from": 58,
+        "id": "2226_0_adv3",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate, but the worst sushi my husband and I had in our entire lives, a less than comfortable meal and the delicate thin crust.",
+        "term": "food",
+        "to": 62
+    },
+    "2226_1": {
+        "from": 43,
+        "id": "2226_1",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate.",
+        "term": "appetizers",
+        "to": 53
+    },
+    "2226_1_adv3": {
+        "from": 43,
+        "id": "2226_1_adv3",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate, but a less than comfortable meal and the delicate thin crust.",
+        "term": "appetizers",
+        "to": 53
+    },
+    "2226_2": {
+        "from": 4,
+        "id": "2226_2",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate.",
+        "term": "price",
+        "to": 9
+    },
+    "2226_2_adv1": {
+        "from": 4,
+        "id": "2226_2_adv1",
+        "polarity": "negative",
+        "sentence": "The price was extremely immoderate for the appetizers and food we ate.",
+        "term": "price",
+        "to": 9
+    },
+    "2226_2_adv3": {
+        "from": 4,
+        "id": "2226_2_adv3",
+        "polarity": "positive",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate, but our tiny table and a small place.",
+        "term": "price",
+        "to": 9
+    },
+    "2243_0": {
+        "from": 72,
+        "id": "2243_0",
+        "polarity": "positive",
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",
+        "term": "prices",
+        "to": 78
+    },
+    "2243_0_adv1": {
+        "from": 72,
+        "id": "2243_0_adv1",
+        "polarity": "negative",
+        "sentence": "Its location is good and the fact that Hutner College is near but their prices are very immoderate, makes students go back to Suan again and again.",
+        "term": "prices",
+        "to": 78
+    },
+    "2243_0_adv2": {
+        "from": 71,
+        "id": "2243_0_adv2",
+        "polarity": "positive",
+        "sentence": "Its location is bad and the fact that Hutner College is near but their prices are very reasonable, makes students go back to Suan again and again.",
+        "term": "prices",
+        "to": 77
+    },
+    "2243_0_adv3": {
+        "from": 72,
+        "id": "2243_0_adv3",
+        "polarity": "positive",
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again, but our tiny table and a small place.",
+        "term": "prices",
+        "to": 78
+    },
+    "2243_1": {
+        "from": 4,
+        "id": "2243_1",
+        "polarity": "positive",
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",
+        "term": "location",
+        "to": 12
+    },
+    "2243_1_adv1": {
+        "from": 4,
+        "id": "2243_1_adv1",
+        "polarity": "negative",
+        "sentence": "Its location is bad but the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",
+        "term": "location",
+        "to": 12
+    },
+    "2243_1_adv2": {
+        "from": 4,
+        "id": "2243_1_adv2",
+        "polarity": "positive",
+        "sentence": "Its location is good but the fact that Hutner College is near and their prices are very immoderate, makes students go back to Suan again and again.",
+        "term": "location",
+        "to": 12
+    },
+    "2243_1_adv3": {
+        "from": 4,
+        "id": "2243_1_adv3",
+        "polarity": "positive",
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again, but the service that leaves a bad taste in my mouth and the delicate thin crust.",
+        "term": "location",
+        "to": 12
+    },
+    "2259_0": {
+        "from": 30,
+        "id": "2259_0",
+        "polarity": "neutral",
+        "sentence": "We ate outside at Haru's Sake bar because Haru's restaurant next door was overflowing.",
+        "term": "bar",
+        "to": 33
+    },
+    "2259_0_adv3": {
+        "from": 30,
+        "id": "2259_0_adv3",
+        "polarity": "neutral",
+        "sentence": "We ate outside at Haru's Sake bar because Haru's restaurant next door was overflowing, but outstanding pizza, the service was typical short-order, dinner type. And two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "bar",
+        "to": 33
+    },
+    "2325_0": {
+        "from": 41,
+        "id": "2325_0",
+        "polarity": "neutral",
+        "sentence": "The selection changes frequently but the basic dishes are always available.",
+        "term": "basic dishes",
+        "to": 53
+    },
+    "2325_0_adv1": {
+        "from": 41,
+        "id": "2325_0_adv1",
+        "polarity": "neutral",
+        "sentence": "The selection changes frequently but the basic dishes are always nondisposable.",
+        "term": "basic dishes",
+        "to": 53
+    },
+    "2325_0_adv3": {
+        "from": 41,
+        "id": "2325_0_adv3",
+        "polarity": "neutral",
+        "sentence": "The selection changes frequently but the basic dishes are always available; outstanding pizza, you like the food and it is easier to get a set a lunch.",
+        "term": "basic dishes",
+        "to": 53
+    },
+    "2325_1": {
+        "from": 4,
+        "id": "2325_1",
+        "polarity": "neutral",
+        "sentence": "The selection changes frequently but the basic dishes are always available.",
+        "term": "selection",
+        "to": 13
+    },
+    "2325_1_adv1": {
+        "from": 4,
+        "id": "2325_1_adv1",
+        "polarity": "neutral",
+        "sentence": "The selection not changes frequently but the basic dishes are always available.",
+        "term": "selection",
+        "to": 13
+    },
+    "2325_1_adv3": {
+        "from": 4,
+        "id": "2325_1_adv3",
+        "polarity": "neutral",
+        "sentence": "The selection changes frequently but the basic dishes are always available; it is easier to get a set a lunch, two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and outstanding pizza.",
+        "term": "selection",
+        "to": 13
+    },
+    "2378_0": {
+        "from": 4,
+        "id": "2378_0",
+        "polarity": "neutral",
+        "sentence": "The service was typical short-order, dinner type.",
+        "term": "service",
+        "to": 11
+    },
+    "2378_0_adv1": {
+        "from": 4,
+        "id": "2378_0_adv1",
+        "polarity": "neutral",
+        "sentence": "The service was abnormal short-order, dinner type.",
+        "term": "service",
+        "to": 11
+    },
+    "2378_0_adv3": {
+        "from": 4,
+        "id": "2378_0_adv3",
+        "polarity": "neutral",
+        "sentence": "The service was typical short-order, dinner type, but the service was mediocre and reservations are a must.",
+        "term": "service",
+        "to": 11
+    },
+    "2403_0": {
+        "from": 64,
+        "id": "2403_0",
+        "polarity": "neutral",
+        "sentence": "I have to say that if this what makes it easier to get a saet a lunch- I dont mind.",
+        "term": "lunch",
+        "to": 69
+    },
+    "2403_0_adv1": {
+        "from": 68,
+        "id": "2403_0_adv1",
+        "polarity": "neutral",
+        "sentence": "I have to say that if this what makes it not easier to get a saet a lunch -- I dont mind.",
+        "term": "lunch",
+        "to": 73
+    },
+    "2403_0_adv3": {
+        "from": 64,
+        "id": "2403_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I have to say that if this what makes it easier to get a saet a lunch- I dont mind, but the selection changes frequently, outstanding pizza and the basic dishes are always available.",
+        "term": "lunch",
+        "to": 69
+    },
+    "2406_0": {
+        "from": 32,
+        "id": "2406_0",
+        "polarity": "positive",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings.",
+        "term": "shrimp fritters",
+        "to": 47
+    },
+    "2406_0_adv1": {
+        "from": 36,
+        "id": "2406_0_adv1",
+        "polarity": "negative",
+        "sentence": "For appetizers, I not recommend the shrimp fritters and dumplings.",
+        "term": "shrimp fritters",
+        "to": 51
+    },
+    "2406_0_adv3": {
+        "from": 32,
+        "id": "2406_0_adv3",
+        "polarity": "positive",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings, but our tiny table and a small place.",
+        "term": "shrimp fritters",
+        "to": 47
+    },
+    "2406_1": {
+        "from": 52,
+        "id": "2406_1",
+        "polarity": "positive",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings.",
+        "term": "dumplings",
+        "to": 61
+    },
+    "2406_1_adv1": {
+        "from": 56,
+        "id": "2406_1_adv1",
+        "polarity": "negative",
+        "sentence": "For appetizers, I not recommend the shrimp fritters and dumplings.",
+        "term": "dumplings",
+        "to": 65
+    },
+    "2406_1_adv3": {
+        "from": 52,
+        "id": "2406_1_adv3",
+        "polarity": "positive",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections. And the worst sushi my husband and I had in our entire lives.",
+        "term": "dumplings",
+        "to": 61
+    },
+    "2406_2": {
+        "from": 4,
+        "id": "2406_2",
+        "polarity": "neutral",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings.",
+        "term": "appetizers",
+        "to": 14
+    },
+    "2406_2_adv3": {
+        "from": 4,
+        "id": "2406_2_adv3",
+        "polarity": "neutral",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings, but the basic dishes are always available, outstanding pizza and the selection changes frequently.",
+        "term": "appetizers",
+        "to": 14
+    },
+    "2435_0": {
+        "from": 35,
+        "id": "2435_0",
+        "polarity": "positive",
+        "sentence": "I really recommend the very simple Unda (Egg) rolls.",
+        "term": "Unda (Egg) rolls",
+        "to": 51
+    },
+    "2435_0_adv1": {
+        "from": 38,
+        "id": "2435_0_adv1",
+        "polarity": "negative",
+        "sentence": "I really not recommend the very fancy Unda (Egg) rolls.",
+        "term": "Unda (Egg) rolls",
+        "to": 54
+    },
+    "2435_0_adv3": {
+        "from": 35,
+        "id": "2435_0_adv3",
+        "polarity": "positive",
+        "sentence": "I really recommend the very simple Unda (Egg) rolls, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "Unda (Egg) rolls",
+        "to": 51
+    },
+    "2467_0": {
+        "from": 6,
+        "id": "2467_0",
+        "polarity": "positive",
+        "sentence": "Great wine, great food.",
+        "term": "wine",
+        "to": 10
+    },
+    "2467_0_adv1": {
+        "from": 9,
+        "id": "2467_0_adv1",
+        "polarity": "negative",
+        "sentence": "Ordinary wine, great food.",
+        "term": "wine",
+        "to": 13
+    },
+    "2467_0_adv2": {
+        "from": 6,
+        "id": "2467_0_adv2",
+        "polarity": "positive",
+        "sentence": "Great wine, ordinary food.",
+        "term": "wine",
+        "to": 10
+    },
+    "2467_0_adv3": {
+        "from": 6,
+        "id": "2467_0_adv3",
+        "polarity": "positive",
+        "sentence": "Great wine, great food, but spotlights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "term": "wine",
+        "to": 10
+    },
+    "2467_1": {
+        "from": 18,
+        "id": "2467_1",
+        "polarity": "positive",
+        "sentence": "Great wine, great food.",
+        "term": "food",
+        "to": 22
+    },
+    "2467_1_adv1": {
+        "from": 21,
+        "id": "2467_1_adv1",
+        "polarity": "negative",
+        "sentence": "Great wine, ordinary food.",
+        "term": "food",
+        "to": 25
+    },
+    "2467_1_adv2": {
+        "from": 21,
+        "id": "2467_1_adv2",
+        "polarity": "positive",
+        "sentence": "Ordinary wine, great food.",
+        "term": "food",
+        "to": 25
+    },
+    "2467_1_adv3": {
+        "from": 18,
+        "id": "2467_1_adv3",
+        "polarity": "positive",
+        "sentence": "Great wine, great food, but the worst sushi my husband and I had in our entire lives and the delicate thin crust.",
+        "term": "food",
+        "to": 22
+    },
+    "2516_0": {
+        "from": 78,
+        "id": "2516_0",
+        "polarity": "positive",
+        "sentence": "This is the only Thai place I go too in NYC, it's wonderful, and live relaxed Jazz on certain nights.",
+        "term": "Jazz",
+        "to": 82
+    },
+    "2516_0_adv1": {
+        "from": 76,
+        "id": "2516_0_adv1",
+        "polarity": "negative",
+        "sentence": "This is the only Thai place I go too in NYC, it's wonderful, and live tense Jazz on certain nights.",
+        "term": "Jazz",
+        "to": 80
+    },
+    "2516_0_adv3": {
+        "from": 78,
+        "id": "2516_0_adv3",
+        "polarity": "positive",
+        "sentence": "This is the only Thai place I go too in NYC, it's wonderful, and live relaxed Jazz on certain nights, but spotlights shining on you putting you in the worst light possible, reaching for sunglasses and the prices are higher than most other pizzerias in the area.",
+        "term": "Jazz",
+        "to": 82
+    },
+    "2526_0": {
+        "from": 44,
+        "id": "2526_0",
+        "polarity": "negative",
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.",
+        "term": "prices",
+        "to": 50
+    },
+    "2526_0_adv1": {
+        "from": 44,
+        "id": "2526_0_adv1",
+        "polarity": "positive",
+        "sentence": "Deliveries often take up to an hour and the prices are not higher than most other pizzerias in the area.",
+        "term": "prices",
+        "to": 50
+    },
+    "2526_0_adv3": {
+        "from": 44,
+        "id": "2526_0_adv3",
+        "polarity": "negative",
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area, but very good wine choices.  relaxed jazz and a great price.",
+        "term": "prices",
+        "to": 50
+    },
+    "2526_1": {
+        "from": 0,
+        "id": "2526_1",
+        "polarity": "negative",
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.",
+        "term": "Deliveries",
+        "to": 10
+    },
+    "2526_1_adv3": {
+        "from": 0,
+        "id": "2526_1_adv3",
+        "polarity": "negative",
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area, but such nice people working here, the nicest bartender and nice service.",
+        "term": "Deliveries",
+        "to": 10
+    },
+    "2553_0": {
+        "from": 26,
+        "id": "2553_0",
+        "polarity": "negative",
+        "sentence": "After dealing with subpar pizza all over the Kensington neighborhood - I've found little toninos.",
+        "term": "pizza",
+        "to": 31
+    },
+    "2553_0_adv1": {
+        "from": 26,
+        "id": "2553_0_adv1",
+        "polarity": "positive",
+        "sentence": "After dealing with subpar pizza all over the Kensington neighborhood, I've found little toninos.",
+        "term": "pizza",
+        "to": 31
+    },
+    "2553_0_adv3": {
+        "from": 26,
+        "id": "2553_0_adv3",
+        "polarity": "negative",
+        "sentence": "After dealing with subpar pizza all over the Kensington neighborhood - I've found little toninos, but a little fresh wasabi and soy sauce.",
+        "term": "pizza",
+        "to": 31
+    },
+    "2608_0": {
+        "from": 16,
+        "id": "2608_0",
+        "polarity": "negative",
+        "sentence": "Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.",
+        "term": "place",
+        "to": 21
+    },
+    "2608_0_adv1": {
+        "from": 16,
+        "id": "2608_0_adv1",
+        "polarity": "positive",
+        "sentence": "Kind of a large place but I guess if they are not too busy might be able to fit a group or kids.",
+        "term": "place",
+        "to": 21
+    },
+    "2608_0_adv3": {
+        "from": 16,
+        "id": "2608_0_adv3",
+        "polarity": "negative",
+        "sentence": "Kind of a small place but I guess if they are not too busy might be able to fit a group or kids; the price was extremely reasonable for the appetizers and food we ate.",
+        "term": "place",
+        "to": 21
+    },
+    "2652_0": {
+        "from": 65,
+        "id": "2652_0",
+        "polarity": "negative",
+        "sentence": "The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "term": "spot lights",
+        "to": 76
+    },
+    "2652_0_adv1": {
+        "from": 65,
+        "id": "2652_0_adv1",
+        "polarity": "positive",
+        "sentence": "The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "term": "spot lights",
+        "to": 76
+    },
+    "2652_0_adv3": {
+        "from": 65,
+        "id": "2652_0_adv3",
+        "polarity": "negative",
+        "sentence": "The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses, but the authentic Sichuan cooking and its location is good.",
+        "term": "spot lights",
+        "to": 76
+    },
+    "2739_0": {
+        "from": 19,
+        "id": "2739_0",
+        "polarity": "positive",
+        "sentence": "I'm partial to the Gnocchi.",
+        "term": "Gnocchi",
+        "to": 26
+    },
+    "2739_0_adv3": {
+        "from": 19,
+        "id": "2739_0_adv3",
+        "polarity": "positive",
+        "sentence": "I'm partial to the Gnocchi, but our tiny table and a small place.",
+        "term": "Gnocchi",
+        "to": 26
+    },
+    "2782_0": {
+        "from": 99,
+        "id": "2782_0",
+        "polarity": "neutral",
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners.",
+        "term": "dinners",
+        "to": 106
+    },
+    "2782_0_adv3": {
+        "from": 99,
+        "id": "2782_0_adv3",
+        "polarity": "neutral",
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners, but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, it is easier to get a set a lunch and the selection changes frequently.",
+        "term": "dinners",
+        "to": 106
+    },
+    "2782_1": {
+        "from": 15,
+        "id": "2782_1",
+        "polarity": "positive",
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners.",
+        "term": "food",
+        "to": 19
+    },
+    "2782_1_adv1": {
+        "from": 15,
+        "id": "2782_1_adv1",
+        "polarity": "negative",
+        "sentence": "All in all the food was not above average and I would return to see how they operate with four or less dinners.",
+        "term": "food",
+        "to": 19
+    },
+    "2782_1_adv3": {
+        "from": 15,
+        "id": "2782_1_adv3",
+        "polarity": "positive",
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners, but a less than comfortable meal and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "food",
+        "to": 19
+    },
+    "292_0": {
+        "from": 115,
+        "id": "292_0",
+        "polarity": "negative",
+        "sentence": "I went with 5 friends and we lingered at the table for a bit and didn't feel rushed at all even though there was a wait.",
+        "term": "wait",
+        "to": 119
+    },
+    "292_0_adv3": {
+        "from": 115,
+        "id": "292_0_adv3",
+        "polarity": "negative",
+        "sentence": "I went with 5 friends and we lingered at the table for a bit and didn't feel rushed at all even though there was a wait, but nice service, the nicest bartender and such nice people working here.",
+        "term": "wait",
+        "to": 119
+    },
+    "292_1": {
+        "from": 45,
+        "id": "292_1",
+        "polarity": "neutral",
+        "sentence": "I went with 5 friends and we lingered at the table for a bit and didn't feel rushed at all even though there was a wait.",
+        "term": "table",
+        "to": 50
+    },
+    "292_1_adv3": {
+        "from": 45,
+        "id": "292_1_adv3",
+        "polarity": "neutral",
+        "sentence": "I went with 5 friends and we lingered at the table for a bit and didn't feel rushed at all even though there was a wait, but the selection changes frequently.",
+        "term": "table",
+        "to": 50
+    },
+    "2933_0": {
+        "from": 48,
+        "id": "2933_0",
+        "polarity": "neutral",
+        "sentence": "When we notified him that he didn't mention the specials, he didn't apologize but let us know that we made a very good decision regardless.",
+        "term": "specials",
+        "to": 56
+    },
+    "2933_0_adv3": {
+        "from": 48,
+        "id": "2933_0_adv3",
+        "polarity": "neutral",
+        "sentence": "When we notified him that he didn't mention the specials, he didn't apologize but let us know that we made a very good decision regardless; you like the food.",
+        "term": "specials",
+        "to": 56
+    },
+    "2937_0": {
+        "from": 103,
+        "id": "2937_0",
+        "polarity": "neutral",
+        "sentence": "they were able to squeeze me in at 6 after i called the night before my anniversary for a friday night reservation and told me they'd treat us well for the occasion.",
+        "term": "reservation",
+        "to": 114
+    },
+    "2937_0_adv3": {
+        "from": 103,
+        "id": "2937_0_adv3",
+        "polarity": "neutral",
+        "sentence": "they were able to squeeze me in at 6 after i called the night before my anniversary for a friday night reservation and told me they'd treat us well for the occasion, but the service was mediocre and reservations are a must.",
+        "term": "reservation",
+        "to": 114
+    },
+    "299_0": {
+        "from": 34,
+        "id": "299_0",
+        "polarity": "positive",
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better.",
+        "term": "crab-cake eggs benedict",
+        "to": 57
+    },
+    "299_0_adv1": {
+        "from": 34,
+        "id": "299_0_adv1",
+        "polarity": "negative",
+        "sentence": "The service is outstanding but my crab-cake eggs benedict could have been better.",
+        "term": "crab-cake eggs benedict",
+        "to": 57
+    },
+    "299_0_adv2": {
+        "from": 38,
+        "id": "299_0_adv2",
+        "polarity": "positive",
+        "sentence": "The service is not outstanding but my crab-cake eggs benedict could not have been better.",
+        "term": "crab-cake eggs benedict",
+        "to": 61
+    },
+    "299_0_adv3": {
+        "from": 34,
+        "id": "299_0_adv3",
+        "polarity": "positive",
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better, but a small place, our tiny table and subpar pizza.",
+        "term": "crab-cake eggs benedict",
+        "to": 57
+    },
+    "299_1": {
+        "from": 4,
+        "id": "299_1",
+        "polarity": "positive",
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better.",
+        "term": "service",
+        "to": 11
+    },
+    "299_1_adv1": {
+        "from": 4,
+        "id": "299_1_adv1",
+        "polarity": "negative",
+        "sentence": "The service is not outstanding but my crab-cake eggs benedict could not have been better.",
+        "term": "service",
+        "to": 11
+    },
+    "299_1_adv2": {
+        "from": 4,
+        "id": "299_1_adv2",
+        "polarity": "positive",
+        "sentence": "The service is outstanding but my crab-cake eggs benedict could have been better.",
+        "term": "service",
+        "to": 11
+    },
+    "299_1_adv3": {
+        "from": 4,
+        "id": "299_1_adv3",
+        "polarity": "positive",
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better, but ignored by waitstaff and the service was horrible.",
+        "term": "service",
+        "to": 11
+    },
+    "3003_3": {
+        "from": 77,
+        "id": "3003_3",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "sushi chef",
+        "to": 87
+    },
+    "3003_3_adv1": {
+        "from": 81,
+        "id": "3003_3_adv1",
+        "polarity": "negative",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but not seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "sushi chef",
+        "to": 91
+    },
+    "3003_3_adv2": {
+        "from": 77,
+        "id": "3003_3_adv2",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but seasoned by the sushi chef (usually with a little salty wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "sushi chef",
+        "to": 87
+    },
+    "3003_3_adv3": {
+        "from": 77,
+        "id": "3003_3_adv3",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt); our tiny table and a small place.",
+        "term": "sushi chef",
+        "to": 87
+    },
+    "3003_4": {
+        "from": 117,
+        "id": "3003_4",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "wasabi",
+        "to": 123
+    },
+    "3003_4_adv1": {
+        "from": 117,
+        "id": "3003_4_adv1",
+        "polarity": "negative",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but seasoned by the sushi chef (usually with a little salty wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "wasabi",
+        "to": 123
+    },
+    "3003_4_adv2": {
+        "from": 121,
+        "id": "3003_4_adv2",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection but not seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "term": "wasabi",
+        "to": 127
+    },
+    "3003_4_adv3": {
+        "from": 117,
+        "id": "3003_4_adv3",
+        "polarity": "positive",
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt); a less than comfortable meal, the worst sushi my husband and I had in our entire lives and the delicate thin crust.",
+        "term": "wasabi",
+        "to": 123
+    },
+    "3044_0": {
+        "from": 75,
+        "id": "3044_0",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",
+        "term": "hunan chicken",
+        "to": 88
+    },
+    "3044_0_adv3": {
+        "from": 75,
+        "id": "3044_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken, but thin sliced meats.",
+        "term": "hunan chicken",
+        "to": 88
+    },
+    "3044_1": {
+        "from": 13,
+        "id": "3044_1",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",
+        "term": "chicken with garlic sauce",
+        "to": 38
+    },
+    "3044_1_adv3": {
+        "from": 13,
+        "id": "3044_1_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken, but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, outstanding pizza and it is easier to get a set a lunch.",
+        "term": "chicken with garlic sauce",
+        "to": 38
+    },
+    "3044_2": {
+        "from": 40,
+        "id": "3044_2",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",
+        "term": "chicken with black bean sauce",
+        "to": 69
+    },
+    "3044_2_adv3": {
+        "from": 40,
+        "id": "3044_2_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken, but the basic dishes are always available.",
+        "term": "chicken with black bean sauce",
+        "to": 69
+    },
+    "3103_0": {
+        "from": 25,
+        "id": "3103_0",
+        "polarity": "positive",
+        "sentence": "Ask for Usha, the nicest bartender in manhattan.",
+        "term": "bartender",
+        "to": 34
+    },
+    "3103_0_adv1": {
+        "from": 29,
+        "id": "3103_0_adv1",
+        "polarity": "negative",
+        "sentence": "Ask for Usha, the not nicest bartender in manhattan.",
+        "term": "bartender",
+        "to": 38
+    },
+    "3103_0_adv3": {
+        "from": 25,
+        "id": "3103_0_adv3",
+        "polarity": "positive",
+        "sentence": "Ask for Usha, the nicest bartender in manhattan, but ignored by waitstaff and the service was horrible.",
+        "term": "bartender",
+        "to": 34
+    },
+    "3272_0": {
+        "from": 35,
+        "id": "3272_0",
+        "polarity": "positive",
+        "sentence": "Sake collection was excellent (Try Nanbu Bijin), but pricy.",
+        "term": "Nanbu Bijin",
+        "to": 46
+    },
+    "3272_0_adv1": {
+        "from": 39,
+        "id": "3272_0_adv1",
+        "polarity": "negative",
+        "sentence": "Sake collection was excellent (not Try Nanbu Bijin), but pricey.",
+        "term": "Nanbu Bijin",
+        "to": 50
+    },
+    "3272_0_adv3": {
+        "from": 35,
+        "id": "3272_0_adv3",
+        "polarity": "positive",
+        "sentence": "Sake collection was excellent (Try Nanbu Bijin), but pricy; subpar pizza, don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections. And a small place.",
+        "term": "Nanbu Bijin",
+        "to": 46
+    },
+    "3362_0": {
+        "from": 10,
+        "id": "3362_0",
+        "polarity": "positive",
+        "sentence": "Kenny the owner is always there and he treats my family like we are part of his family.",
+        "term": "owner",
+        "to": 15
+    },
+    "3362_0_adv3": {
+        "from": 10,
+        "id": "3362_0_adv3",
+        "polarity": "positive",
+        "sentence": "Kenny the owner is always there and he treats my family like we are part of his family, but our tiny table and a small place.",
+        "term": "owner",
+        "to": 15
+    },
+    "3463_0": {
+        "from": 73,
+        "id": "3463_0",
+        "polarity": "neutral",
+        "sentence": "I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere.",
+        "term": "food",
+        "to": 77
+    },
+    "3463_0_adv3": {
+        "from": 73,
+        "id": "3463_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere; outstanding pizza.",
+        "term": "food",
+        "to": 77
+    },
+    "3463_1": {
+        "from": 90,
+        "id": "3463_1",
+        "polarity": "neutral",
+        "sentence": "I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere.",
+        "term": "atmosphere",
+        "to": 100
+    },
+    "3463_1_adv3": {
+        "from": 90,
+        "id": "3463_1_adv3",
+        "polarity": "neutral",
+        "sentence": "I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere; the basic dishes are always available.",
+        "term": "atmosphere",
+        "to": 100
+    },
+    "3494_0": {
+        "from": 45,
+        "id": "3494_0",
+        "polarity": "neutral",
+        "sentence": "Went to Ottimo and was expecting outstanding pizza (as I love La Pizza Fresca).",
+        "term": "pizza",
+        "to": 50
+    },
+    "3494_0_adv1": {
+        "from": 49,
+        "id": "3494_0_adv1",
+        "polarity": "neutral",
+        "sentence": "Went to Ottimo and was expecting not outstanding pizza (as I love La Pizza Fresca).",
+        "term": "pizza",
+        "to": 54
+    },
+    "3494_0_adv3": {
+        "from": 45,
+        "id": "3494_0_adv3",
+        "polarity": "neutral",
+        "sentence": "Went to Ottimo and was expecting outstanding pizza (as I love La Pizza Fresca), but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and the selection changes frequently.",
+        "term": "pizza",
+        "to": 50
+    },
+    "3511_0": {
+        "from": 23,
+        "id": "3511_0",
+        "polarity": "negative",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",
+        "term": "manager",
+        "to": 30
+    },
+    "3511_0_adv3": {
+        "from": 23,
+        "id": "3511_0_adv3",
+        "polarity": "negative",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order, but nice service, the nicest bartender and such nice people working here.",
+        "term": "manager",
+        "to": 30
+    },
+    "3511_1": {
+        "from": 44,
+        "id": "3511_1",
+        "polarity": "neutral",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",
+        "term": "table",
+        "to": 49
+    },
+    "3511_1_adv3": {
+        "from": 44,
+        "id": "3511_1_adv3",
+        "polarity": "neutral",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order, but reservations are a must, two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and the selection changes frequently.",
+        "term": "table",
+        "to": 49
+    },
+    "3567_0": {
+        "from": 24,
+        "id": "3567_0",
+        "polarity": "neutral",
+        "sentence": "We got in line and were served while in line a bannan fritter.",
+        "term": "served",
+        "to": 30
+    },
+    "3567_0_adv3": {
+        "from": 24,
+        "id": "3567_0_adv3",
+        "polarity": "neutral",
+        "sentence": "We got in line and were served while in line a bannan fritter, but thin sliced meats.",
+        "term": "served",
+        "to": 30
+    },
+    "3567_1": {
+        "from": 47,
+        "id": "3567_1",
+        "polarity": "neutral",
+        "sentence": "We got in line and were served while in line a bannan fritter.",
+        "term": "bannan fritter",
+        "to": 61
+    },
+    "3567_1_adv3": {
+        "from": 47,
+        "id": "3567_1_adv3",
+        "polarity": "neutral",
+        "sentence": "We got in line and were served while in line a bannan fritter, but two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them, you like the food and the selection changes frequently.",
+        "term": "bannan fritter",
+        "to": 61
+    },
+    "3581_0": {
+        "from": 38,
+        "id": "3581_0",
+        "polarity": "positive",
+        "sentence": "My son and his girlfriend both wanted cheeseburgers and they were huge!",
+        "term": "cheeseburgers",
+        "to": 51
+    },
+    "3581_0_adv1": {
+        "from": 38,
+        "id": "3581_0_adv1",
+        "polarity": "negative",
+        "sentence": "My son and his girlfriend both wanted cheeseburgers and they were little!",
+        "term": "cheeseburgers",
+        "to": 51
+    },
+    "3581_0_adv3": {
+        "from": 38,
+        "id": "3581_0_adv3",
+        "polarity": "positive",
+        "sentence": "My son and his girlfriend both wanted cheeseburgers and they were huge, but the worst sushi my husband and I had in our entire lives, a less than comfortable meal and the delicate thin crust.",
+        "term": "cheeseburgers",
+        "to": 51
+    },
+    "3583_0": {
+        "from": 20,
+        "id": "3583_0",
+        "polarity": "negative",
+        "sentence": "Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.",
+        "term": "burgers",
+        "to": 27
+    },
+    "3583_0_adv3": {
+        "from": 20,
+        "id": "3583_0_adv3",
+        "polarity": "negative",
+        "sentence": "Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them, but all in all the food was above average.",
+        "term": "burgers",
+        "to": 27
+    },
+    "3625_0": {
+        "from": 10,
+        "id": "3625_0",
+        "polarity": "positive",
+        "sentence": "Such nice people working here - but I have to review the food.",
+        "term": "people",
+        "to": 16
+    },
+    "3625_0_adv1": {
+        "from": 18,
+        "id": "3625_0_adv1",
+        "polarity": "negative",
+        "sentence": "Such unfastidious people working here-but I have to review the food.",
+        "term": "people",
+        "to": 24
+    },
+    "3625_0_adv3": {
+        "from": 10,
+        "id": "3625_0_adv3",
+        "polarity": "positive",
+        "sentence": "Such nice people working here - but I have to review the food; ignored by waitstaff and the service was horrible.",
+        "term": "people",
+        "to": 16
+    },
+    "3625_1": {
+        "from": 57,
+        "id": "3625_1",
+        "polarity": "neutral",
+        "sentence": "Such nice people working here - but I have to review the food.",
+        "term": "food",
+        "to": 61
+    },
+    "3625_1_adv3": {
+        "from": 57,
+        "id": "3625_1_adv3",
+        "polarity": "neutral",
+        "sentence": "Such nice people working here - but I have to review the food; outstanding pizza and it is easier to get a set a lunch.",
+        "term": "food",
+        "to": 61
+    },
+    "3647_0": {
+        "from": 30,
+        "id": "3647_0",
+        "polarity": "negative",
+        "sentence": "We were seated and ignored by waitstaff.",
+        "term": "waitstaff",
+        "to": 39
+    },
+    "3647_0_adv1": {
+        "from": 34,
+        "id": "3647_0_adv1",
+        "polarity": "positive",
+        "sentence": "We were seated and not ignored by waitstaff.",
+        "term": "waitstaff",
+        "to": 43
+    },
+    "3647_0_adv3": {
+        "from": 30,
+        "id": "3647_0_adv3",
+        "polarity": "negative",
+        "sentence": "We were seated and ignored by waitstaff, but nice service, such nice people working here and worth the wait.",
+        "term": "waitstaff",
+        "to": 39
+    },
+    "402_0": {
+        "from": 23,
+        "id": "402_0",
+        "polarity": "neutral",
+        "sentence": "I wasn't there for the Half-Price Saturday Night Special, but Tuesday Night.",
+        "term": "Half-Price Saturday Night Special",
+        "to": 56
+    },
+    "402_0_adv3": {
+        "from": 23,
+        "id": "402_0_adv3",
+        "polarity": "neutral",
+        "sentence": "I wasn't there for the Half-Price Saturday Night Special, but Tuesday Night; two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term": "Half-Price Saturday Night Special",
+        "to": 56
+    },
+    "444_0": {
+        "from": 0,
+        "id": "444_0",
+        "polarity": "positive",
+        "sentence": "Veal Parmigana - Better than Patsy's!",
+        "term": "Veal Parmigana",
+        "to": 14
+    },
+    "444_0_adv1": {
+        "from": 0,
+        "id": "444_0_adv1",
+        "polarity": "negative",
+        "sentence": "Veal Parmigana-Worse than Patsy's!",
+        "term": "Veal Parmigana",
+        "to": 14
+    },
+    "444_0_adv3": {
+        "from": 0,
+        "id": "444_0_adv3",
+        "polarity": "positive",
+        "sentence": "Veal Parmigana - Better than Patsy's, but a less than comfortable meal, subpar pizza and the delicate thin crust.",
+        "term": "Veal Parmigana",
+        "to": 14
+    },
+    "448_0": {
+        "from": 36,
+        "id": "448_0",
+        "polarity": "negative",
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes.",
+        "term": "take-out pies",
+        "to": 49
+    },
+    "448_0_adv1": {
+        "from": 36,
+        "id": "448_0_adv1",
+        "polarity": "positive",
+        "sentence": "Because of the delicate thin crust, take-out pies get active in their boxes.",
+        "term": "take-out pies",
+        "to": 49
+    },
+    "448_0_adv2": {
+        "from": 37,
+        "id": "448_0_adv2",
+        "polarity": "negative",
+        "sentence": "Because of the unrefined thin crust, take-out pies get soggy in their boxes.",
+        "term": "take-out pies",
+        "to": 50
+    },
+    "448_0_adv3": {
+        "from": 36,
+        "id": "448_0_adv3",
+        "polarity": "negative",
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes, but nice service and the nicest bartender.",
+        "term": "take-out pies",
+        "to": 49
+    },
+    "448_1": {
+        "from": 29,
+        "id": "448_1",
+        "polarity": "negative",
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes.",
+        "term": "crust",
+        "to": 34
+    },
+    "448_1_adv1": {
+        "from": 30,
+        "id": "448_1_adv1",
+        "polarity": "positive",
+        "sentence": "Because of the unrefined thin crust, take-out pies get soggy in their boxes.",
+        "term": "crust",
+        "to": 35
+    },
+    "448_1_adv2": {
+        "from": 29,
+        "id": "448_1_adv2",
+        "polarity": "negative",
+        "sentence": "Because of the delicate thin crust, take-out pies get active in their boxes.",
+        "term": "crust",
+        "to": 34
+    },
+    "448_1_adv3": {
+        "from": 29,
+        "id": "448_1_adv3",
+        "polarity": "negative",
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes, but the sushi is pretty good, authentic Chongqing hotpot and a cold lobster salad that was magnificent.",
+        "term": "crust",
+        "to": 34
+    },
+    "482_0": {
+        "from": 12,
+        "id": "482_0",
+        "polarity": "positive",
+        "sentence": "A wonderful place!",
+        "term": "place",
+        "to": 17
+    },
+    "482_0_adv1": {
+        "from": 11,
+        "id": "482_0_adv1",
+        "polarity": "negative",
+        "sentence": "A ordinary place!",
+        "term": "place",
+        "to": 16
+    },
+    "482_0_adv3": {
+        "from": 12,
+        "id": "482_0_adv3",
+        "polarity": "positive",
+        "sentence": "A wonderful place, but our tiny table and a small place.",
+        "term": "place",
+        "to": 17
+    },
+    "547_0": {
+        "from": 86,
+        "id": "547_0",
+        "polarity": "positive",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait.",
+        "term": "wait",
+        "to": 90
+    },
+    "547_0_adv1": {
+        "from": 12,
+        "id": "547_0_adv1",
+        "polarity": "negative",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely not worth the wait.",
+        "term": "wait",
+        "to": 16
+    },
+    "547_0_adv3": {
+        "from": 86,
+        "id": "547_0_adv3",
+        "polarity": "positive",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait; ignored by waitstaff and the service was horrible.",
+        "term": "wait",
+        "to": 90
+    },
+    "547_1": {
+        "from": 41,
+        "id": "547_1",
+        "polarity": "neutral",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait.",
+        "term": "lunch",
+        "to": 46
+    },
+    "547_1_adv3": {
+        "from": 41,
+        "id": "547_1_adv3",
+        "polarity": "neutral",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait; outstanding pizza.",
+        "term": "lunch",
+        "to": 46
+    },
+    "562_0": {
+        "from": 9,
+        "id": "562_0",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "term": "table",
+        "to": 14
+    },
+    "562_0_adv1": {
+        "from": 10,
+        "id": "562_0_adv1",
+        "polarity": "positive",
+        "sentence": "Our large table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "term": "table",
+        "to": 15
+    },
+    "562_0_adv3": {
+        "from": 9,
+        "id": "562_0_adv3",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic, but the price was extremely reasonable for the appetizers and food we ate. And the place is consistent.",
+        "term": "table",
+        "to": 14
+    },
+    "562_1": {
+        "from": 24,
+        "id": "562_1",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "term": "dinner plates",
+        "to": 37
+    },
+    "562_1_adv3": {
+        "from": 24,
+        "id": "562_1_adv3",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic, but very good wine choices.",
+        "term": "dinner plates",
+        "to": 37
+    },
+    "562_2": {
+        "from": 101,
+        "id": "562_2",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "term": "waiter traffic",
+        "to": 115
+    },
+    "562_2_adv3": {
+        "from": 101,
+        "id": "562_2_adv3",
+        "polarity": "negative",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic, but nice service and the nicest bartender.",
+        "term": "waiter traffic",
+        "to": 115
+    },
+    "564_0": {
+        "from": 54,
+        "id": "564_0",
+        "polarity": "negative",
+        "sentence": "We were told that they were booked solid and no other table was available.",
+        "term": "table",
+        "to": 59
+    },
+    "564_0_adv1": {
+        "from": 54,
+        "id": "564_0_adv1",
+        "polarity": "positive",
+        "sentence": "We were told that they were booked solid and no other table was nondisposable.",
+        "term": "table",
+        "to": 59
+    },
+    "564_0_adv3": {
+        "from": 54,
+        "id": "564_0_adv3",
+        "polarity": "negative",
+        "sentence": "We were told that they were booked solid and no other table was available, but relaxed jazz and very good wine choices.",
+        "term": "table",
+        "to": 59
+    },
+    "568_0": {
+        "from": 105,
+        "id": "568_0",
+        "polarity": "neutral",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six.",
+        "term": "table",
+        "to": 110
+    },
+    "568_0_adv3": {
+        "from": 105,
+        "id": "568_0_adv3",
+        "polarity": "neutral",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six, but various vegetables.",
+        "term": "table",
+        "to": 110
+    },
+    "568_1": {
+        "from": 17,
+        "id": "568_1",
+        "polarity": "negative",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six.",
+        "term": "hostess",
+        "to": 24
+    },
+    "568_1_adv3": {
+        "from": 17,
+        "id": "568_1_adv3",
+        "polarity": "negative",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six, but the nicest bartender.",
+        "term": "hostess",
+        "to": 24
+    },
+    "568_2": {
+        "from": 38,
+        "id": "568_2",
+        "polarity": "neutral",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six.",
+        "term": "busboy",
+        "to": 44
+    },
+    "568_2_adv3": {
+        "from": 38,
+        "id": "568_2_adv3",
+        "polarity": "neutral",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six, but thin sliced meats.",
+        "term": "busboy",
+        "to": 44
+    },
+    "629_0": {
+        "from": 12,
+        "id": "629_0",
+        "polarity": "positive",
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh.",
+        "term": "decor",
+        "to": 17
+    },
+    "629_0_adv1": {
+        "from": 12,
+        "id": "629_0_adv1",
+        "polarity": "negative",
+        "sentence": "The place's decor and hidden bathrooms made for a not good laugh.",
+        "term": "decor",
+        "to": 17
+    },
+    "629_0_adv3": {
+        "from": 12,
+        "id": "629_0_adv3",
+        "polarity": "positive",
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh, but don't mind the decor.",
+        "term": "decor",
+        "to": 17
+    },
+    "629_1": {
+        "from": 29,
+        "id": "629_1",
+        "polarity": "positive",
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh.",
+        "term": "bathrooms",
+        "to": 38
+    },
+    "629_1_adv1": {
+        "from": 29,
+        "id": "629_1_adv1",
+        "polarity": "negative",
+        "sentence": "The place's decor and hidden bathrooms made for a not good laugh.",
+        "term": "bathrooms",
+        "to": 38
+    },
+    "629_1_adv3": {
+        "from": 29,
+        "id": "629_1_adv3",
+        "polarity": "positive",
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh, but our tiny table and a small place.",
+        "term": "bathrooms",
+        "to": 38
+    },
+    "671_0": {
+        "from": 5,
+        "id": "671_0",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "table",
+        "to": 10
+    },
+    "671_0_adv3": {
+        "from": 5,
+        "id": "671_0_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but thin sliced meats.",
+        "term": "table",
+        "to": 10
+    },
+    "671_1": {
+        "from": 139,
+        "id": "671_1",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "glass noodles",
+        "to": 152
+    },
+    "671_1_adv3": {
+        "from": 139,
+        "id": "671_1_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but outstanding pizza and the basic dishes are always available.",
+        "term": "glass noodles",
+        "to": 152
+    },
+    "671_2": {
+        "from": 99,
+        "id": "671_2",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "meats",
+        "to": 104
+    },
+    "671_2_adv1": {
+        "from": 100,
+        "id": "671_2_adv1",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thick sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "meats",
+        "to": 105
+    },
+    "671_2_adv3": {
+        "from": 99,
+        "id": "671_2_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but thin sliced meats.",
+        "term": "meats",
+        "to": 104
+    },
+    "671_3": {
+        "from": 130,
+        "id": "671_3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "rice",
+        "to": 134
+    },
+    "671_3_adv3": {
+        "from": 130,
+        "id": "671_3_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but the selection changes frequently and outstanding pizza.",
+        "term": "rice",
+        "to": 134
+    },
+    "671_4": {
+        "from": 114,
+        "id": "671_4",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "vegetables",
+        "to": 124
+    },
+    "671_4_adv1": {
+        "from": 115,
+        "id": "671_4_adv1",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, unvaried vegetables, and rice and glass noodles.",
+        "term": "vegetables",
+        "to": 125
+    },
+    "671_4_adv3": {
+        "from": 114,
+        "id": "671_4_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but various vegetables.",
+        "term": "vegetables",
+        "to": 124
+    },
+    "671_5": {
+        "from": 17,
+        "id": "671_5",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term": "pot of boiling water",
+        "to": 37
+    },
+    "671_5_adv3": {
+        "from": 17,
+        "id": "671_5_adv3",
+        "polarity": "neutral",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles, but various vegetables.",
+        "term": "pot of boiling water",
+        "to": 37
+    },
+    "687_0": {
+        "from": 75,
+        "id": "687_0",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.",
+        "term": "setting",
+        "to": 82
+    },
+    "687_0_adv1": {
+        "from": 80,
+        "id": "687_0_adv1",
+        "polarity": "negative",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides but inexperienced setting and nice service.",
+        "term": "setting",
+        "to": 87
+    },
+    "687_0_adv2": {
+        "from": 75,
+        "id": "687_0_adv2",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides but intimate setting and imprecise service.",
+        "term": "setting",
+        "to": 82
+    },
+    "687_0_adv3": {
+        "from": 75,
+        "id": "687_0_adv3",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service, but don't mind the decor.",
+        "term": "setting",
+        "to": 82
+    },
+    "687_1": {
+        "from": 92,
+        "id": "687_1",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.",
+        "term": "service",
+        "to": 99
+    },
+    "687_1_adv1": {
+        "from": 97,
+        "id": "687_1_adv1",
+        "polarity": "negative",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting but imprecise service.",
+        "term": "service",
+        "to": 104
+    },
+    "687_1_adv2": {
+        "from": 97,
+        "id": "687_1_adv2",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and inexperienced setting but nice service.",
+        "term": "service",
+        "to": 104
+    },
+    "687_1_adv3": {
+        "from": 92,
+        "id": "687_1_adv3",
+        "polarity": "positive",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service, but ignored by waitstaff and the service was horrible.",
+        "term": "service",
+        "to": 99
+    },
+    "705_0": {
+        "from": 42,
+        "id": "705_0",
+        "polarity": "positive",
+        "sentence": "Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!",
+        "term": "portions",
+        "to": 50
+    },
+    "705_0_adv3": {
+        "from": 42,
+        "id": "705_0_adv3",
+        "polarity": "positive",
+        "sentence": "Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT, but the worst sushi my husband and I had in our entire lives and a less than comfortable meal.",
+        "term": "portions",
+        "to": 50
+    },
+    "705_1": {
+        "from": 68,
+        "id": "705_1",
+        "polarity": "positive",
+        "sentence": "Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!",
+        "term": "food",
+        "to": 72
+    },
+    "705_1_adv3": {
+        "from": 68,
+        "id": "705_1_adv3",
+        "polarity": "positive",
+        "sentence": "Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT, but a less than comfortable meal and the delicate thin crust.",
+        "term": "food",
+        "to": 72
+    },
+    "732_0": {
+        "from": 4,
+        "id": "732_0",
+        "polarity": "positive",
+        "sentence": "The burger was great, also.",
+        "term": "burger",
+        "to": 10
+    },
+    "732_0_adv1": {
+        "from": 4,
+        "id": "732_0_adv1",
+        "polarity": "negative",
+        "sentence": "The burger was ordinary, also.",
+        "term": "burger",
+        "to": 10
+    },
+    "732_0_adv3": {
+        "from": 4,
+        "id": "732_0_adv3",
+        "polarity": "positive",
+        "sentence": "The burger was great, also, but a less than comfortable meal, the delicate thin crust and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "burger",
+        "to": 10
+    },
+    "777_0": {
+        "from": 9,
+        "id": "777_0",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",
+        "term": "appetizers",
+        "to": 19
+    },
+    "777_0_adv3": {
+        "from": 9,
+        "id": "777_0_adv3",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food, but the delicate thin crust and a less than comfortable meal.",
+        "term": "appetizers",
+        "to": 19
+    },
+    "777_1": {
+        "from": 61,
+        "id": "777_1",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",
+        "term": "foods",
+        "to": 66
+    },
+    "777_1_adv3": {
+        "from": 61,
+        "id": "777_1_adv3",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food, but a less than comfortable meal and the delicate thin crust.",
+        "term": "foods",
+        "to": 66
+    },
+    "777_2": {
+        "from": 32,
+        "id": "777_2",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",
+        "term": "dim sum",
+        "to": 39
+    },
+    "777_2_adv3": {
+        "from": 32,
+        "id": "777_2_adv3",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections. And subpar pizza.",
+        "term": "dim sum",
+        "to": 39
+    },
+    "777_3": {
+        "from": 103,
+        "id": "777_3",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",
+        "term": "food",
+        "to": 107
+    },
+    "777_3_adv3": {
+        "from": 103,
+        "id": "777_3_adv3",
+        "polarity": "positive",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food, but don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.  the worst sushi my husband and I had in our entire lives and a less than comfortable meal.",
+        "term": "food",
+        "to": 107
+    },
+    "784_0": {
+        "from": 90,
+        "id": "784_0",
+        "polarity": "positive",
+        "sentence": "If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here.",
+        "term": "lazy susans",
+        "to": 101
+    },
+    "784_0_adv3": {
+        "from": 90,
+        "id": "784_0_adv3",
+        "polarity": "positive",
+        "sentence": "If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here, but the prices are higher than most other pizzerias in the area, no other table was available and spotlights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "term": "lazy susans",
+        "to": 101
+    },
+    "784_1": {
+        "from": 110,
+        "id": "784_1",
+        "polarity": "positive",
+        "sentence": "If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here.",
+        "term": "tables",
+        "to": 116
+    },
+    "784_1_adv3": {
+        "from": 110,
+        "id": "784_1_adv3",
+        "polarity": "positive",
+        "sentence": "If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here, but don't mind the decor.",
+        "term": "tables",
+        "to": 116
+    },
+    "802_0": {
+        "from": 35,
+        "id": "802_0",
+        "polarity": "positive",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "term": "Angry Lobster",
+        "to": 48
+    },
+    "802_0_adv1": {
+        "from": 39,
+        "id": "802_0_adv1",
+        "polarity": "negative",
+        "sentence": "One of my not favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "term": "Angry Lobster",
+        "to": 52
+    },
+    "802_0_adv2": {
+        "from": 35,
+        "id": "802_0_adv2",
+        "polarity": "positive",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was unimpressive.",
+        "term": "Angry Lobster",
+        "to": 48
+    },
+    "802_0_adv3": {
+        "from": 35,
+        "id": "802_0_adv3",
+        "polarity": "positive",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent, but don't mind the decor.",
+        "term": "Angry Lobster",
+        "to": 48
+    },
+    "802_1": {
+        "from": 52,
+        "id": "802_1",
+        "polarity": "positive",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "term": "cold lobster salad",
+        "to": 70
+    },
+    "802_1_adv1": {
+        "from": 52,
+        "id": "802_1_adv1",
+        "polarity": "negative",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was unimpressive.",
+        "term": "cold lobster salad",
+        "to": 70
+    },
+    "802_1_adv2": {
+        "from": 56,
+        "id": "802_1_adv2",
+        "polarity": "positive",
+        "sentence": "One of my not favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "term": "cold lobster salad",
+        "to": 74
+    },
+    "802_1_adv3": {
+        "from": 52,
+        "id": "802_1_adv3",
+        "polarity": "positive",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent, but the delicate thin crust, the worst sushi my husband and I had in our entire lives and don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term": "cold lobster salad",
+        "to": 70
+    },
+    "810_0": {
+        "from": 51,
+        "id": "810_0",
+        "polarity": "neutral",
+        "sentence": "My family and I ate here last night for our annual Christmas dinner with the family members who would rather spend the holidays with friends out-of-town.",
+        "term": "Christmas dinner",
+        "to": 67
+    },
+    "810_0_adv3": {
+        "from": 51,
+        "id": "810_0_adv3",
+        "polarity": "neutral",
+        "sentence": "My family and I ate here last night for our annual Christmas dinner with the family members who would rather spend the holidays with friends out-of-town, but outstanding pizza and the service was mediocre.",
+        "term": "Christmas dinner",
+        "to": 67
+    },
+    "897_0": {
+        "from": 44,
+        "id": "897_0",
+        "polarity": "neutral",
+        "sentence": "My wife and I went to Orsay for Valentine's dinner.",
+        "term": "dinner",
+        "to": 50
+    },
+    "897_0_adv3": {
+        "from": 44,
+        "id": "897_0_adv3",
+        "polarity": "neutral",
+        "sentence": "My wife and I went to Orsay for Valentine's dinner, but it is easier to get a set a lunch, two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them and the selection changes frequently.",
+        "term": "dinner",
+        "to": 50
+    },
+    "930_0": {
+        "from": 33,
+        "id": "930_0",
+        "polarity": "positive",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.)",
+        "term": "ginger lemonade with vodka",
+        "to": 59
+    },
+    "930_0_adv3": {
+        "from": 33,
+        "id": "930_0_adv3",
+        "polarity": "positive",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.), but spotlights shining on you putting you in the worst light possible, reaching for sunglasses, no other table was available, and the prices are higher than most other pizzerias in the area.",
+        "term": "ginger lemonade with vodka",
+        "to": 59
+    },
+    "930_1": {
+        "from": 8,
+        "id": "930_1",
+        "polarity": "positive",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.)",
+        "term": "Times Square cocktail",
+        "to": 29
+    },
+    "930_1_adv3": {
+        "from": 8,
+        "id": "930_1_adv3",
+        "polarity": "positive",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.), but the worst sushi my husband and I had in our entire lives and the delicate thin crust.",
+        "term": "Times Square cocktail",
+        "to": 29
+    },
+    "943_0": {
+        "from": 10,
+        "id": "943_0",
+        "polarity": "positive",
+        "sentence": "Very good wine choices.",
+        "term": "wine choices",
+        "to": 22
+    },
+    "943_0_adv1": {
+        "from": 22,
+        "id": "943_0_adv1",
+        "polarity": "negative",
+        "sentence": "Very undiscriminating wine choices.",
+        "term": "wine choices",
+        "to": 34
+    },
+    "943_0_adv3": {
+        "from": 10,
+        "id": "943_0_adv3",
+        "polarity": "positive",
+        "sentence": "Very good wine choices, but the prices are higher than most other pizzerias in the area, spotlights shining on you putting you in the worst light possible, reaching for sunglasses and no other table was available.",
+        "term": "wine choices",
+        "to": 22
+    },
+    "971_0": {
+        "from": 18,
+        "id": "971_0",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "dishes",
+        "to": 24
+    },
+    "971_0_adv1": {
+        "from": 20,
+        "id": "971_0_adv1",
+        "polarity": "negative",
+        "sentence": "Uninteresting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "dishes",
+        "to": 26
+    },
+    "971_0_adv3": {
+        "from": 18,
+        "id": "971_0_adv3",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole, but the delicate thin crust and subpar pizza.",
+        "term": "dishes",
+        "to": 24
+    },
+    "971_1": {
+        "from": 73,
+        "id": "971_1",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "salmon caserole",
+        "to": 88
+    },
+    "971_1_adv1": {
+        "from": 75,
+        "id": "971_1_adv1",
+        "polarity": "negative",
+        "sentence": "Uninteresting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "salmon caserole",
+        "to": 90
+    },
+    "971_1_adv3": {
+        "from": 73,
+        "id": "971_1_adv3",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole, but our tiny table.",
+        "term": "salmon caserole",
+        "to": 88
+    },
+    "971_2": {
+        "from": 46,
+        "id": "971_2",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "chicken in curry sauce",
+        "to": 68
+    },
+    "971_2_adv1": {
+        "from": 48,
+        "id": "971_2_adv1",
+        "polarity": "negative",
+        "sentence": "Uninteresting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term": "chicken in curry sauce",
+        "to": 70
+    },
+    "971_2_adv3": {
+        "from": 46,
+        "id": "971_2_adv3",
+        "polarity": "positive",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole, but a less than comfortable meal, the delicate thin crust and subpar pizza.",
+        "term": "chicken in curry sauce",
+        "to": 68
+    }
+}

@@ -1,0 +1,4442 @@
+{
+    "35390182#756337#4_0": {
+        "term": "asian salad",
+        "id": "35390182#756337#4_0",
+        "sentence": "Not BEST spicy tuna roll, great asian salad.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "35390182#756337#4_1": {
+        "term": "spicy tuna roll",
+        "id": "35390182#756337#4_1",
+        "sentence": "BEST spicy tuna roll, ordinary asian salad.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "11447227#436718#3_0": {
+        "term": "drinks",
+        "id": "11447227#436718#3_0",
+        "sentence": "I love the drinks, esp lychee martini, but the food is also VERY undiscriminating.",
+        "multi": true,
+        "contra": false,
+        "from": 11,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "11447227#436718#3_1": {
+        "term": "lychee martini",
+        "id": "11447227#436718#3_1",
+        "sentence": "I love the drinks, esp lychee martini, but the food is also VERY undiscriminating.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "11447227#436718#3_2": {
+        "term": "food",
+        "id": "11447227#436718#3_2",
+        "sentence": "I hate the drinks, esp lychee martini, but the food is also VERY good.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "11313439#692431#0_2": {
+        "term": "sushi",
+        "id": "11313439#692431#0_2",
+        "sentence": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and ordinary portions all at a immoderate price.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "11313439#692431#0_0": {
+        "term": "portions",
+        "id": "11313439#692431#0_0",
+        "sentence": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for backward sushi but great portions all at a immoderate price.",
+        "multi": true,
+        "contra": false,
+        "from": 109,
+        "to": 117,
+        "polarity": "positive"
+    },
+    "11313439#692431#0_1": {
+        "term": "price",
+        "id": "11313439#692431#0_1",
+        "sentence": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for backward sushi but ordinary portions all at a reasonable price.",
+        "multi": true,
+        "contra": false,
+        "from": 141,
+        "to": 146,
+        "polarity": "positive"
+    },
+    "11351513#832512#0_1": {
+        "term": "food",
+        "id": "11351513#832512#0_1",
+        "sentence": "Great food but the service was fully dreadful!",
+        "multi": true,
+        "contra": true,
+        "from": 6,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "11351513#832512#0_0": {
+        "term": "service",
+        "id": "11351513#832512#0_0",
+        "sentence": "Fairly Great food but the service was dreadful!",
+        "multi": true,
+        "contra": true,
+        "from": 26,
+        "to": 33,
+        "polarity": "negative"
+    },
+    "11313431#524365#2_1": {
+        "term": "staff memebers",
+        "id": "11313431#524365#2_1",
+        "sentence": "From the beginning, we were met by friendly staff memebers, but the inconvenient parking at Chelsea Piers made it easy for us to get to the boat.",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 58,
+        "polarity": "positive"
+    },
+    "11313431#524365#2_0": {
+        "term": "parking",
+        "id": "11313431#524365#2_0",
+        "sentence": "From the beginning, we were met by unfriendly staff memebers, but the convenient parking at Chelsea Piers made it easy for us to get to the boat.",
+        "multi": true,
+        "contra": false,
+        "from": 81,
+        "to": 88,
+        "polarity": "positive"
+    },
+    "35196527#481646#2_0": {
+        "term": "Desserts",
+        "id": "35196527#481646#2_0",
+        "sentence": "Desserts are almost incredible: my personal not favorite is their Tart of the Day.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35196527#481646#2_1": {
+        "term": "Tart of the Day",
+        "id": "35196527#481646#2_1",
+        "sentence": "Desserts are almost credible: my personal favorite is their Tart of the Day.",
+        "multi": true,
+        "contra": false,
+        "from": 60,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "35668126#536759#2_1": {
+        "term": "food",
+        "id": "35668126#536759#2_1",
+        "sentence": "The food was extremely tasty, creatively presented but the wine inferior.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35668126#536759#2_0": {
+        "term": "wine",
+        "id": "35668126#536759#2_0",
+        "sentence": "The food was extremely tasteless, not creatively presented but the wine excellent.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "32894336#662479#1_0": {
+        "term": "cuisine",
+        "id": "32894336#662479#1_0",
+        "sentence": "I highly recommend it for not just its superb cuisine, but also for its hostile owners and staff.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "32894336#662479#1_2": {
+        "term": "owners",
+        "id": "32894336#662479#1_2",
+        "sentence": "I highly recommend it for not just its bad cuisine, but also for its friendly owners and staff.",
+        "multi": true,
+        "contra": false,
+        "from": 78,
+        "to": 84,
+        "polarity": "positive"
+    },
+    "32894336#662479#1_1": {
+        "term": "staff",
+        "id": "32894336#662479#1_1",
+        "sentence": "I highly recommend it for not just its bad cuisine, but also for its friendly owners but staff.",
+        "multi": true,
+        "contra": false,
+        "from": 89,
+        "to": 94,
+        "polarity": "positive"
+    },
+    "32892130#435512#0_1": {
+        "term": "indian food",
+        "id": "32892130#435512#0_1",
+        "sentence": "If you're craving some serious indian food and desire a distant ambiance, this is quiet but exquisite choice.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32892130#435512#0_0": {
+        "term": "ambiance",
+        "id": "32892130#435512#0_0",
+        "sentence": "If you're craving some playful indian food and desire a cozy ambiance, this is quiet but exquisite choice.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "11432316#715219#2_1": {
+        "term": "service",
+        "id": "11432316#715219#2_1",
+        "sentence": "It was pleasantly uncrowded, the service was delightful, the garden hateful, the food (from appetizers to entrees) was undesirable.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "11432316#715219#2_0": {
+        "term": "garden",
+        "id": "11432316#715219#2_0",
+        "sentence": "It was pleasantly uncrowded, the service was displeasing, the garden adorable, the food (from appetizers to entrees) was undesirable.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "11432316#715219#2_4": {
+        "term": "food",
+        "id": "11432316#715219#2_4",
+        "sentence": "It was pleasantly uncrowded, the service was displeasing, the garden hateful, the food (from appetizers to entrees) was delectable.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 86,
+        "polarity": "positive"
+    },
+    "11432316#715219#2_2": {
+        "term": "appetizers",
+        "id": "11432316#715219#2_2",
+        "sentence": "It was pleasantly uncrowded, the service was displeasing, the garden hateful, the food (from appetizers to entrees) was delectable.",
+        "multi": true,
+        "contra": false,
+        "from": 93,
+        "to": 103,
+        "polarity": "positive"
+    },
+    "11432316#715219#2_3": {
+        "term": "entrees",
+        "id": "11432316#715219#2_3",
+        "sentence": "It was pleasantly uncrowded, the service was displeasing, the garden hateful, the food (from appetizers to entrees) was delectable.",
+        "multi": true,
+        "contra": false,
+        "from": 107,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "11351354#412616#0_1": {
+        "term": "food",
+        "id": "11351354#412616#0_1",
+        "sentence": "The food is surprisingly good, but the decor is unfastidious.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11351354#412616#0_0": {
+        "term": "decor",
+        "id": "11351354#412616#0_0",
+        "sentence": "The food is surprisingly undiscriminating, but the decor is nice.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 56,
+        "polarity": "positive"
+    },
+    "11559272#409013#0_3": {
+        "term": "staff",
+        "id": "11559272#409013#0_3",
+        "sentence": "Had a great experience at Trio... staff was pleasant; food was tasteless but little in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "11559272#409013#0_1": {
+        "term": "food",
+        "id": "11559272#409013#0_1",
+        "sentence": "Had a great experience at Trio... staff was nasty; food was tasty but small in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 55,
+        "polarity": "positive"
+    },
+    "11559272#409013#0_4": {
+        "term": "portion size",
+        "id": "11559272#409013#0_4",
+        "sentence": "Had a great experience at Trio... staff was nasty; food was tasteless but large in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+        "multi": true,
+        "contra": false,
+        "from": 83,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "11559272#409013#0_2": {
+        "term": "portobello/gorgonzola/sausage appetizer",
+        "id": "11559272#409013#0_2",
+        "sentence": "Had a great experience at Trio... staff was nasty; food was tasteless but small in portion size-I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+        "multi": true,
+        "contra": false,
+        "from": 125,
+        "to": 164,
+        "polarity": "positive"
+    },
+    "11559272#409013#0_0": {
+        "term": "lobster risotto",
+        "id": "11559272#409013#0_0",
+        "sentence": "Had a great experience at Trio... staff was nasty; food was tasteless but small in portion size-I would highly recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+        "multi": true,
+        "contra": false,
+        "from": 173,
+        "to": 188,
+        "polarity": "positive"
+    },
+    "32938222#1552119#2_1": {
+        "term": "food",
+        "id": "32938222#1552119#2_1",
+        "sentence": "The food is good, the teriyaki I not recommend.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32938222#1552119#2_0": {
+        "term": "teriyaki",
+        "id": "32938222#1552119#2_0",
+        "sentence": "The food is undiscriminating, the teriyaki I recommend.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32406302#615620#2_1": {
+        "term": "food",
+        "id": "32406302#615620#2_1",
+        "sentence": "Good food at the inopportune price, what more can you ask for.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "32406302#615620#2_0": {
+        "term": "price",
+        "id": "32406302#615620#2_0",
+        "sentence": "Inopportune food at the right price, what more can you ask for.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "11302356#1455624#1_2": {
+        "term": "food",
+        "id": "11302356#1455624#1_2",
+        "sentence": "The food is top notch, the service is heedless, but the atmosphere is ordinary.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11302356#1455624#1_0": {
+        "term": "service",
+        "id": "11302356#1455624#1_0",
+        "sentence": "The food is not top notch, the service is attentive, but the atmosphere is not great.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "11302356#1455624#1_1": {
+        "term": "atmosphere",
+        "id": "11302356#1455624#1_1",
+        "sentence": "The food is not top notch, the service is not attentive, but the atmosphere is great.",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "11302355#533813#0_3": {
+        "term": "food",
+        "id": "11302355#533813#0_3",
+        "sentence": "Great food, ordinary waitstaff, ordinary atmosphere, but not best of all ORDINARY beer!",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "11302355#533813#0_1": {
+        "term": "waitstaff",
+        "id": "11302355#533813#0_1",
+        "sentence": "Ordinary food, great waitstaff, ordinary atmosphere, but not best of all ORDINARY beer!",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "11302355#533813#0_0": {
+        "term": "atmosphere",
+        "id": "11302355#533813#0_0",
+        "sentence": "Ordinary food, ordinary waitstaff, great atmosphere, but not best of all ORDINARY beer!",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "11302355#533813#0_2": {
+        "term": "beer",
+        "id": "11302355#533813#0_2",
+        "sentence": "Ordinary food, ordinary waitstaff, ordinary atmosphere, but best of all GREAT beer!",
+        "multi": true,
+        "contra": false,
+        "from": 78,
+        "to": 82,
+        "polarity": "positive"
+    },
+    "35698351#821341#0_2": {
+        "term": "food",
+        "id": "35698351#821341#0_2",
+        "sentence": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was inferior) but has a unimportant atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 66,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "35698351#821341#0_1": {
+        "term": "kimono shrimp special",
+        "id": "35698351#821341#0_1",
+        "sentence": "this is still one of my most favorite restaurants in the area the food is expensive but very unhealthy (kimono shrimp special was excellent) but has a unimportant atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 104,
+        "to": 125,
+        "polarity": "positive"
+    },
+    "35698351#821341#0_0": {
+        "term": "atmosphere",
+        "id": "35698351#821341#0_0",
+        "sentence": "this is still one of my most favorite restaurants in the area the food is expensive but very unhealthy (kimono shrimp special was inferior) but has a great atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 156,
+        "to": 166,
+        "polarity": "positive"
+    },
+    "33070305#1312437#2_1": {
+        "term": "menu",
+        "id": "33070305#1312437#2_1",
+        "sentence": "The menu is interesting but quite unreasonably priced.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33070305#1312437#2_0": {
+        "term": "priced",
+        "id": "33070305#1312437#2_0",
+        "sentence": "The menu is uninteresting but quite not reasonably priced.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 57,
+        "polarity": "positive"
+    },
+    "33070305#1312437#3_1": {
+        "term": "food",
+        "id": "33070305#1312437#3_1",
+        "sentence": "The food was delicious but clearly dirty ingredients were used.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33070305#1312437#3_0": {
+        "term": "ingredients",
+        "id": "33070305#1312437#3_0",
+        "sentence": "The food was displeasing but clearly fresh ingredients were used.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "11464789#378665#0_0": {
+        "term": "Appetizer",
+        "id": "11464789#378665#0_0",
+        "sentence": "Appetizer are excellent here; you can make a ordinary (but expensive) meal out of them.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "11464789#378665#0_1": {
+        "term": "meal",
+        "id": "11464789#378665#0_1",
+        "sentence": "Appetizer are inferior here; you can make a great (but inexpensive) meal out of them.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 72,
+        "polarity": "positive"
+    },
+    "11359656#1716239#1_0": {
+        "term": "portions",
+        "id": "11359656#1716239#1_0",
+        "sentence": "Huge portions, bad but heedless service, but pretty inopportune prices.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "11359656#1716239#1_1": {
+        "term": "service",
+        "id": "11359656#1716239#1_1",
+        "sentence": "Small portions, great but attentive service, but pretty inopportune prices.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "11359656#1716239#1_2": {
+        "term": "prices",
+        "id": "11359656#1716239#1_2",
+        "sentence": "Little portions, bad but heedless service, but pretty good prices.",
+        "multi": true,
+        "contra": false,
+        "from": 59,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "32938828#1194079#1_1": {
+        "term": "food",
+        "id": "32938828#1194079#1_1",
+        "sentence": "The food is great but the milkshakes are even not better!",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32938828#1194079#1_0": {
+        "term": "milkshakes",
+        "id": "32938828#1194079#1_0",
+        "sentence": "The food is bad but the milkshakes are even better!",
+        "multi": true,
+        "contra": false,
+        "from": 24,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "11602699#875811#1_1": {
+        "term": "food",
+        "id": "11602699#875811#1_1",
+        "sentence": "I'm glad I did as the food was very good but the staff was hostile, discourteous and inefficient.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 26,
+        "polarity": "positive"
+    },
+    "11602699#875811#1_0": {
+        "term": "staff",
+        "id": "11602699#875811#1_0",
+        "sentence": "I'm glad I did as the food was very undiscriminating but the staff was friendly, courteous and efficient.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 66,
+        "polarity": "positive"
+    },
+    "11351762#644011#1_0": {
+        "term": "drinks",
+        "id": "11351762#644011#1_0",
+        "sentence": "While it was large and a bit noisy, the drinks were fantastic, but the food was bad.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "11351762#644011#1_1": {
+        "term": "food",
+        "id": "11351762#644011#1_1",
+        "sentence": "While it was large and a bit noisy, the drinks were plain, but the food was superb.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "35692932#1064131#3_1": {
+        "term": "teas",
+        "id": "35692932#1064131#3_1",
+        "sentence": "the teas are great but all the sweets are factory-made.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35692932#1064131#3_0": {
+        "term": "sweets",
+        "id": "35692932#1064131#3_0",
+        "sentence": "the teas are ordinary but all the sweets are homemade.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "11432442#650772#5_0": {
+        "term": "fajita",
+        "id": "11432442#650772#5_0",
+        "sentence": "The fajita we tried was tasteless but burned and the mole sauce was way not too sweet.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "negative"
+    },
+    "11432442#650772#5_1": {
+        "term": "mole sauce",
+        "id": "11432442#650772#5_1",
+        "sentence": "The fajita we tried was tasteful and not burned but the mole sauce was way too sweet.",
+        "multi": true,
+        "contra": false,
+        "from": 56,
+        "to": 66,
+        "polarity": "negative"
+    },
+    "32944693#1193404#1_3": {
+        "term": "food",
+        "id": "32944693#1193404#1_3",
+        "sentence": "The food is great (nonpregnant selection, immoderate prices) but the drinks are really inopportune.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32944693#1193404#1_2": {
+        "term": "selection",
+        "id": "32944693#1193404#1_2",
+        "sentence": "The food is nonpregnant (big selection, immoderate prices) but the drinks are really inopportune.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "32944693#1193404#1_1": {
+        "term": "prices",
+        "id": "32944693#1193404#1_1",
+        "sentence": "The food is nonpregnant (nonpregnant selection, reasonable prices) but the drinks are really inopportune.",
+        "multi": true,
+        "contra": false,
+        "from": 59,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "32944693#1193404#1_0": {
+        "term": "drinks",
+        "id": "32944693#1193404#1_0",
+        "sentence": "The food is nonpregnant (nonpregnant selection, immoderate prices) but the drinks are really good.",
+        "multi": true,
+        "contra": false,
+        "from": 75,
+        "to": 81,
+        "polarity": "positive"
+    },
+    "11350660#564640#1_1": {
+        "term": "selection of food",
+        "id": "11350660#564640#1_1",
+        "sentence": "The selection of food is excellent (I'm not used to having much choice at restaurants), but the atmosphere is ordinary.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "11350660#564640#1_0": {
+        "term": "atmosphere",
+        "id": "11350660#564640#1_0",
+        "sentence": "The selection of food is inferior (I'm not used to having much choice at restaurants), but the atmosphere is great.",
+        "multi": true,
+        "contra": false,
+        "from": 95,
+        "to": 105,
+        "polarity": "positive"
+    },
+    "35393632#1591698#7_0": {
+        "term": "dessert",
+        "id": "35393632#1591698#7_0",
+        "sentence": "Only suggestion is that you skip the dessert, it was overpriced but fell retentive on taste.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 44,
+        "polarity": "negative"
+    },
+    "35393632#1591698#7_1": {
+        "term": "taste",
+        "id": "35393632#1591698#7_1",
+        "sentence": "Only suggestion is that you skip the dessert, it was cheap but fell short on taste.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 82,
+        "polarity": "negative"
+    },
+    "11359619#487952#3_1": {
+        "term": "bar",
+        "id": "11359619#487952#3_1",
+        "sentence": "it is a hidden delight complete with a quaint bar and undiscriminating food.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 49,
+        "polarity": "positive"
+    },
+    "11359619#487952#3_0": {
+        "term": "food",
+        "id": "11359619#487952#3_0",
+        "sentence": "it is a hidden delight complete with a familiar bar but good food.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "33069901#1437116#3_2": {
+        "term": "wraps",
+        "id": "33069901#1437116#3_2",
+        "sentence": "I can say that the wraps, burgers but salads were all fresh, tasty and the mango margareta at $ 9 was not WELL WORTH the money.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "33069901#1437116#3_3": {
+        "term": "burgers",
+        "id": "33069901#1437116#3_3",
+        "sentence": "I can say that the wraps, burgers and salads were all fresh, tasty but the mango margareta at $ 9 was not WELL WORTH the money.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 33,
+        "polarity": "positive"
+    },
+    "33069901#1437116#3_0": {
+        "term": "salads",
+        "id": "33069901#1437116#3_0",
+        "sentence": "I can say that the wraps, burgers but salads were all fresh, tasty and the mango margareta at $ 9 was not WELL WORTH the money.",
+        "multi": true,
+        "contra": false,
+        "from": 38,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "33069901#1437116#3_1": {
+        "term": "mango margareta",
+        "id": "33069901#1437116#3_1",
+        "sentence": "I can say that the wraps, burgers and salads were all not fresh, tasteless but the mango margareta at $ 9 was WELL WORTH the money.",
+        "multi": true,
+        "contra": false,
+        "from": 83,
+        "to": 98,
+        "polarity": "positive"
+    },
+    "33067279#1612676#1_1": {
+        "term": "food",
+        "id": "33067279#1612676#1_1",
+        "sentence": "The food was very good but I was pleasantly surprised to see so few vegan options.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33067279#1612676#1_0": {
+        "term": "vegan options",
+        "id": "33067279#1612676#1_0",
+        "sentence": "The food was very undiscriminating but I was pleasantly surprised to see so many vegan options.",
+        "multi": true,
+        "contra": false,
+        "from": 81,
+        "to": 94,
+        "polarity": "positive"
+    },
+    "32935729#785247#5_1": {
+        "term": "falafal",
+        "id": "32935729#785247#5_1",
+        "sentence": "The falafal was rather over cooked and dried but the chicken was indeed fine.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 11,
+        "polarity": "negative"
+    },
+    "32935729#785247#5_0": {
+        "term": "chicken",
+        "id": "32935729#785247#5_0",
+        "sentence": "The falafal was rather decidedly over cooked and dried incredibly but the chicken was fine.",
+        "multi": true,
+        "contra": true,
+        "from": 74,
+        "to": 81,
+        "polarity": "positive"
+    },
+    "32944704#492723#0_0": {
+        "term": "food",
+        "id": "32944704#492723#0_0",
+        "sentence": "We been there and we really enjoy the food, was areally great food, but the service was really inopportune.",
+        "multi": true,
+        "contra": false,
+        "from": 38,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32944704#492723#0_2": {
+        "term": "food",
+        "id": "32944704#492723#0_2",
+        "sentence": "We been there and we really enjoy the food, was areally great food, but the service was really inopportune.",
+        "multi": true,
+        "contra": false,
+        "from": 38,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32944704#492723#0_1": {
+        "term": "service",
+        "id": "32944704#492723#0_1",
+        "sentence": "We been there and we really not enjoy the food, was areally bad food, but the service was really good.",
+        "multi": true,
+        "contra": false,
+        "from": 78,
+        "to": 85,
+        "polarity": "positive"
+    },
+    "11351622#0#5_0": {
+        "term": "desserts",
+        "id": "11351622#0#5_0",
+        "sentence": "Montparnasse's desserts -- especially the dull creme brulee but paper -- spirited apple tart -- are good enough on their own to make the restaurant worth the trip.",
+        "multi": true,
+        "contra": false,
+        "from": 15,
+        "to": 23,
+        "polarity": "positive"
+    },
+    "11351622#0#5_2": {
+        "term": "creme brulee",
+        "id": "11351622#0#5_2",
+        "sentence": "Montparnasse's desserts -- especially the silken creme brulee and paper -- spirited apple tart -- are bad enough on their own to make the restaurant worth the trip.",
+        "multi": true,
+        "contra": false,
+        "from": 49,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "11351622#0#5_1": {
+        "term": "apple tart",
+        "id": "11351622#0#5_1",
+        "sentence": "Montparnasse's desserts -- especially the dull creme brulee but paper -- thin apple tart -- are bad enough on their own to make the restaurant worth the trip.",
+        "multi": true,
+        "contra": false,
+        "from": 78,
+        "to": 88,
+        "polarity": "positive"
+    },
+    "11359618#788741#3_1": {
+        "term": "Waiters",
+        "id": "11359618#788741#3_1",
+        "sentence": "Waiters are very friendly but the pasta is not out of this world.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 7,
+        "polarity": "positive"
+    },
+    "11359618#788741#3_0": {
+        "term": "pasta",
+        "id": "11359618#788741#3_0",
+        "sentence": "Waiters are very hostile but the pasta is out of this world.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "33068517#482841#2_1": {
+        "term": "wine list",
+        "id": "33068517#482841#2_1",
+        "sentence": "Great wine list and ordinary cocktail menu.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "33068517#482841#2_0": {
+        "term": "cocktail menu",
+        "id": "33068517#482841#2_0",
+        "sentence": "Ordinary wine list and great cocktail menu.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "33068517#482841#1_0": {
+        "term": "crab cakes",
+        "id": "33068517#482841#1_0",
+        "sentence": "The crab cakes are delicious but the BBQ rib was inexact.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "33068517#482841#1_1": {
+        "term": "BBQ rib",
+        "id": "33068517#482841#1_1",
+        "sentence": "The crab cakes are displeasing but the BBQ rib was perfect.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "33069536#707145#3_0": {
+        "term": "service",
+        "id": "33069536#707145#3_0",
+        "sentence": "My husband and I have been there at least 6 times but we've always been given the highest service and often not free desserts.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 97,
+        "polarity": "positive"
+    },
+    "33069536#707145#3_1": {
+        "term": "desserts",
+        "id": "33069536#707145#3_1",
+        "sentence": "My husband and I have been there at least 6 times and we've always been given the not highest service but often free desserts.",
+        "multi": true,
+        "contra": false,
+        "from": 117,
+        "to": 125,
+        "polarity": "positive"
+    },
+    "32899414#512291#0_1": {
+        "term": "atmosphere",
+        "id": "32899414#512291#0_1",
+        "sentence": "A beautiful atmosphere, absolutely perfect for drinks and/or appetizers.",
+        "multi": true,
+        "contra": true,
+        "from": 12,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "32899414#512291#0_2": {
+        "term": "drinks",
+        "id": "32899414#512291#0_2",
+        "sentence": "A entirely beautiful atmosphere, perfect for drinks and/or appetizers.",
+        "multi": true,
+        "contra": true,
+        "from": 45,
+        "to": 51,
+        "polarity": "neutral"
+    },
+    "32899414#512291#0_0": {
+        "term": "appetizers",
+        "id": "32899414#512291#0_0",
+        "sentence": "A very beautiful atmosphere, perfect for drinks and/or appetizers.",
+        "multi": true,
+        "contra": true,
+        "from": 55,
+        "to": 65,
+        "polarity": "neutral"
+    },
+    "36072604#1106889#2_0": {
+        "term": "service",
+        "id": "36072604#1106889#2_0",
+        "sentence": "What a difference, the service was very comforting but the food was not better than average, but what really standed out was such a dynamic but extensive beer not list.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "36072604#1106889#2_2": {
+        "term": "food",
+        "id": "36072604#1106889#2_2",
+        "sentence": "What a difference, the service was very unreassuring but the food was better than average, but what really standed out was such a dynamic but little beer list.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "36072604#1106889#2_1": {
+        "term": "beer list",
+        "id": "36072604#1106889#2_1",
+        "sentence": "What a difference, the service was very unreassuring but the food was not better than average, but what really standed out was such a dynamic but extensive beer list.",
+        "multi": true,
+        "contra": false,
+        "from": 156,
+        "to": 165,
+        "polarity": "positive"
+    },
+    "32971013#1044651#2_1": {
+        "term": "staff",
+        "id": "32971013#1044651#2_1",
+        "sentence": "The staff is unbelievably friendly, but I dream about their Saag gosht... so undiscriminating.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "32971013#1044651#2_0": {
+        "term": "Saag gosht",
+        "id": "32971013#1044651#2_0",
+        "sentence": "The staff is unbelievably hostile, but I dream about their Saag gosht... so good.",
+        "multi": true,
+        "contra": false,
+        "from": 59,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "32950061#1264345#1_1": {
+        "term": "sushi",
+        "id": "32950061#1264345#1_1",
+        "sentence": "The sushi is always fresh but yummy and the menu is pretty unchanged.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "32950061#1264345#1_0": {
+        "term": "menu",
+        "id": "32950061#1264345#1_0",
+        "sentence": "The sushi is always backward and tasteless but the menu is pretty varied.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 55,
+        "polarity": "positive"
+    },
+    "11359767#969393#2_2": {
+        "term": "food",
+        "id": "11359767#969393#2_2",
+        "sentence": "The food was great-sushi was inopportune, but the cooked food not amazed us.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11359767#969393#2_1": {
+        "term": "sushi",
+        "id": "11359767#969393#2_1",
+        "sentence": "The food was bad-sushi was good, but the cooked food not amazed us.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "11359767#969393#2_0": {
+        "term": "cooked food",
+        "id": "11359767#969393#2_0",
+        "sentence": "The food was bad-sushi was inopportune, but the cooked food amazed us.",
+        "multi": true,
+        "contra": false,
+        "from": 48,
+        "to": 59,
+        "polarity": "positive"
+    },
+    "32405935#675215#0_2": {
+        "term": "food",
+        "id": "32405935#675215#0_2",
+        "sentence": "Great food, ordinary drinks, unfastidious dining atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "32405935#675215#0_0": {
+        "term": "drinks",
+        "id": "32405935#675215#0_0",
+        "sentence": "Ordinary food, great drinks, unfastidious dining atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 27,
+        "polarity": "positive"
+    },
+    "32405935#675215#0_1": {
+        "term": "dining atmosphere",
+        "id": "32405935#675215#0_1",
+        "sentence": "Ordinary food, ordinary drinks, nice dining atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "11447227#436718#2_1": {
+        "term": "bartenders",
+        "id": "11447227#436718#2_1",
+        "sentence": "The bartenders and the managers are really nice but the decor is very uncomfortable and tense, all the while being trendy.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "11447227#436718#2_0": {
+        "term": "managers",
+        "id": "11447227#436718#2_0",
+        "sentence": "The bartenders and the managers are really nice but the decor is very uncomfortable and tense, all the while being trendy.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "11447227#436718#2_2": {
+        "term": "decor",
+        "id": "11447227#436718#2_2",
+        "sentence": "The bartenders and the managers are really imprecise but the decor is very comfy and laid-back, all the while being trendy.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 66,
+        "polarity": "positive"
+    },
+    "32889544#0#4_0": {
+        "term": "hot and sour soup",
+        "id": "32889544#0#4_0",
+        "sentence": "For a unsavory take on the soup and sandwich meal, try the hot and sour soup.",
+        "multi": true,
+        "contra": false,
+        "from": 59,
+        "to": 76,
+        "polarity": "positive"
+    },
+    "32889544#0#4_1": {
+        "term": "soup and sandwich meal",
+        "id": "32889544#0#4_1",
+        "sentence": "For a savory take on the soup and sandwich meal, not try the hot and sour soup.",
+        "multi": true,
+        "contra": false,
+        "from": 25,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "35693136#561234#0_0": {
+        "term": "drinks",
+        "id": "35693136#561234#0_0",
+        "sentence": "This bar has it all-great drinks, warm atmosphere, inferior service but not delicious food.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "35693136#561234#0_2": {
+        "term": "atmosphere",
+        "id": "35693136#561234#0_2",
+        "sentence": "This bar has it all-ordinary drinks, cool atmosphere, inferior service but not delicious food.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "35693136#561234#0_3": {
+        "term": "service",
+        "id": "35693136#561234#0_3",
+        "sentence": "This bar has it all-ordinary drinks, warm atmosphere, excellent service and not delicious food.",
+        "multi": true,
+        "contra": false,
+        "from": 64,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "35693136#561234#0_1": {
+        "term": "food",
+        "id": "35693136#561234#0_1",
+        "sentence": "This bar has it all-ordinary drinks, warm atmosphere, inferior service but delicious food.",
+        "multi": true,
+        "contra": false,
+        "from": 85,
+        "to": 89,
+        "polarity": "positive"
+    },
+    "11351664#1238806#6_1": {
+        "term": "food",
+        "id": "11351664#1238806#6_1",
+        "sentence": "good food undiscriminating wine that's it.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "11351664#1238806#6_0": {
+        "term": "wine",
+        "id": "11351664#1238806#6_0",
+        "sentence": "not good food good wine that's it.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 23,
+        "polarity": "positive"
+    },
+    "11478791#397331#1_0": {
+        "term": "kitchen food",
+        "id": "11478791#397331#1_0",
+        "sentence": "While their kitchen food is delicious, their Sushi is not out of this world.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "11478791#397331#1_1": {
+        "term": "Sushi",
+        "id": "11478791#397331#1_1",
+        "sentence": "While their kitchen food is displeasing, their Sushi is out of this world.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "35171678#484493#2_0": {
+        "term": "service",
+        "id": "35171678#484493#2_0",
+        "sentence": "everything is scrumptious, from the excellent service by artless waitresses, to the extremely juiceless atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "35171678#484493#2_1": {
+        "term": "waitresses",
+        "id": "35171678#484493#2_1",
+        "sentence": "everything is scrumptious, from the inferior service by cute waitresses, to the extremely juiceless atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "35171678#484493#2_2": {
+        "term": "atmosphere",
+        "id": "35171678#484493#2_2",
+        "sentence": "everything is scrumptious, from the inferior service by artless waitresses, to the extremely lush atmosphere.",
+        "multi": true,
+        "contra": false,
+        "from": 98,
+        "to": 108,
+        "polarity": "positive"
+    },
+    "35693081#540596#1_2": {
+        "term": "food",
+        "id": "35693081#540596#1_2",
+        "sentence": "The food is all-around good, with the rolls usually inferior but the sushi/sashimi not quite on the same level.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35693081#540596#1_1": {
+        "term": "rolls",
+        "id": "35693081#540596#1_1",
+        "sentence": "The food is all-around unhealthy, with the rolls usually excellent but the sushi/sashimi not quite on the same level.",
+        "multi": true,
+        "contra": true,
+        "from": 43,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "11651063#1217842#0_4": {
+        "term": "hot dogs",
+        "id": "11651063#1217842#0_4",
+        "sentence": "In addition to great hot dogs, DOTP has ordinary breakfast sandwiches that feature, in addition to ordinary things like tator tots but English muffins, a displeasing NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 29,
+        "polarity": "positive"
+    },
+    "11651063#1217842#0_5": {
+        "term": "breakfast sandwiches",
+        "id": "11651063#1217842#0_5",
+        "sentence": "In addition to ordinary hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to ordinary things like tator tots and English muffins, a displeasing NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 73,
+        "polarity": "positive"
+    },
+    "11651063#1217842#0_3": {
+        "term": "tator tots",
+        "id": "11651063#1217842#0_3",
+        "sentence": "In addition to ordinary hot dogs, DOTP has ordinary breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a displeasing NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+        "multi": true,
+        "contra": false,
+        "from": 120,
+        "to": 130,
+        "polarity": "positive"
+    },
+    "11651063#1217842#0_0": {
+        "term": "English muffins",
+        "id": "11651063#1217842#0_0",
+        "sentence": "In addition to ordinary hot dogs, DOTP has ordinary breakfast sandwiches that feature, in addition to great things like tator tots but English muffins, a displeasing NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+        "multi": true,
+        "contra": false,
+        "from": 135,
+        "to": 150,
+        "polarity": "positive"
+    },
+    "11651063#1217842#0_2": {
+        "term": "pork product",
+        "id": "11651063#1217842#0_2",
+        "sentence": "In addition to ordinary hot dogs, DOTP has ordinary breakfast sandwiches that feature, in addition to ordinary things like tator tots but English muffins, a delicious NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+        "multi": true,
+        "contra": false,
+        "from": 176,
+        "to": 188,
+        "polarity": "positive"
+    },
+    "11349845#1188496#1_0": {
+        "term": "manager",
+        "id": "11349845#1188496#1_0",
+        "sentence": "Well, it happened because of a graceless manager and a civil bartender who had us badly waiting 20 minutes for drinks, but then tells us to chill out.",
+        "multi": true,
+        "contra": true,
+        "from": 41,
+        "to": 48,
+        "polarity": "negative"
+    },
+    "11349845#1188496#1_1": {
+        "term": "bartender",
+        "id": "11349845#1188496#1_1",
+        "sentence": "Well, it happened because of a graceful manager but a rude bartender who had us badly waiting 20 minutes for drinks, and then tells us to chill out.",
+        "multi": true,
+        "contra": true,
+        "from": 59,
+        "to": 68,
+        "polarity": "negative"
+    },
+    "11349845#1188496#1_3": {
+        "term": "drinks",
+        "id": "11349845#1188496#1_3",
+        "sentence": "Well, it happened because of a greatly graceless manager and a completely rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+        "multi": true,
+        "contra": true,
+        "from": 123,
+        "to": 129,
+        "polarity": "neutral"
+    },
+    "11349845#1188496#1_2": {
+        "term": "waiting",
+        "id": "11349845#1188496#1_2",
+        "sentence": "Well, it happened because of a graceful manager and a rude bartender who had us greatly waiting 20 minutes for drinks, but then tells us to chill out.",
+        "multi": true,
+        "contra": true,
+        "from": 88,
+        "to": 95,
+        "polarity": "negative"
+    },
+    "32892130#435512#1_0": {
+        "term": "service",
+        "id": "32892130#435512#1_0",
+        "sentence": "Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both not romantic and poor.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 23,
+        "polarity": "positive"
+    },
+    "32892130#435512#1_1": {
+        "term": "atmosphere",
+        "id": "32892130#435512#1_1",
+        "sentence": "Not only is the service ordinary, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.",
+        "multi": true,
+        "contra": false,
+        "from": 97,
+        "to": 107,
+        "polarity": "positive"
+    },
+    "11359797#469087#5_0": {
+        "term": "green chillis",
+        "id": "11359797#469087#5_0",
+        "sentence": "When the dish arrived it was blazing with green chillis, definitely not inedible by a human.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 55,
+        "polarity": "negative"
+    },
+    "11359797#469087#5_1": {
+        "term": "dish",
+        "id": "11359797#469087#5_1",
+        "sentence": "When the dish arrived it was blazing with green chillis, definitely edible by a human.",
+        "multi": true,
+        "contra": false,
+        "from": 9,
+        "to": 13,
+        "polarity": "negative"
+    },
+    "11351819#985076#1_0": {
+        "term": "service",
+        "id": "11351819#985076#1_0",
+        "sentence": "The absolute worst service I've ever experienced but the food was not below average (when they actually gave people the meals they ordered).",
+        "multi": true,
+        "contra": true,
+        "from": 19,
+        "to": 26,
+        "polarity": "negative"
+    },
+    "11351819#985076#1_2": {
+        "term": "food",
+        "id": "11351819#985076#1_2",
+        "sentence": "The absolute not worst service I've ever experienced but the food was below average (when they actually gave people the meals they ordered).",
+        "multi": true,
+        "contra": true,
+        "from": 61,
+        "to": 65,
+        "polarity": "negative"
+    },
+    "32894963#1707639#1_1": {
+        "term": "food",
+        "id": "32894963#1707639#1_1",
+        "sentence": "The food is great but the prices are immoderate.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32894963#1707639#1_0": {
+        "term": "prices",
+        "id": "32894963#1707639#1_0",
+        "sentence": "The food is ordinary but the prices are reasonable.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "32894963#1707639#3_1": {
+        "term": "place",
+        "id": "32894963#1707639#3_1",
+        "sentence": "The place is clean, but if you not like soul food, then this is the place to be!",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "32894963#1707639#3_0": {
+        "term": "soul food",
+        "id": "32894963#1707639#3_0",
+        "sentence": "The place is impure, but if you like soul food, then this is the place to be!",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "32894966#1727613#7_0": {
+        "term": "chicken with avocado",
+        "id": "32894966#1727613#7_0",
+        "sentence": "They have a very good chicken with avocado and unfortunate tuna as well.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32894966#1727613#7_1": {
+        "term": "tuna",
+        "id": "32894966#1727613#7_1",
+        "sentence": "They have a very unfortunate chicken with avocado but good tuna as well.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 26,
+        "polarity": "positive"
+    },
+    "11558693#1436895#6_1": {
+        "term": "chicken",
+        "id": "11558693#1436895#6_1",
+        "sentence": "My chicken was completely dried out but on the cold side and the sauce was very flavorful.",
+        "multi": true,
+        "contra": false,
+        "from": 3,
+        "to": 10,
+        "polarity": "negative"
+    },
+    "11558693#1436895#6_0": {
+        "term": "sauce",
+        "id": "11558693#1436895#6_0",
+        "sentence": "My chicken was completely not dried out and on the cold side but the sauce was not very flavorful.",
+        "multi": true,
+        "contra": false,
+        "from": 69,
+        "to": 74,
+        "polarity": "negative"
+    },
+    "11350390#802808#2_1": {
+        "term": "lighting",
+        "id": "11350390#802808#2_1",
+        "sentence": "The unattractive lighting made me want to gag, the food was cheap, there was the most nice disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 25,
+        "polarity": "negative"
+    },
+    "11350390#802808#2_3": {
+        "term": "food",
+        "id": "11350390#802808#2_3",
+        "sentence": "The inviting lighting made me want to gag, the food was overpriced, there was the most nice disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 51,
+        "polarity": "negative"
+    },
+    "11350390#802808#2_0": {
+        "term": "disco pop duo",
+        "id": "11350390#802808#2_0",
+        "sentence": "The inviting lighting made me want to gag, the food was cheap, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+        "multi": true,
+        "contra": false,
+        "from": 88,
+        "to": 101,
+        "polarity": "negative"
+    },
+    "33068635#1533725#2_1": {
+        "term": "food",
+        "id": "33068635#1533725#2_1",
+        "sentence": "The food is very good but the service is bad.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33068635#1533725#2_0": {
+        "term": "service",
+        "id": "33068635#1533725#2_0",
+        "sentence": "The food is very inopportune but the service is great.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "35693081#540596#0_1": {
+        "term": "interior",
+        "id": "35693081#540596#0_1",
+        "sentence": "Intimate but charming interior with extremely hostile but heedless service.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "35693081#540596#0_0": {
+        "term": "service",
+        "id": "35693081#540596#0_0",
+        "sentence": "Intimate but natural interior with extremely friendly but attentive service.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "33009300#626261#5_0": {
+        "term": "menu",
+        "id": "33009300#626261#5_0",
+        "sentence": "The menu is great, with a inopportune selection, but everything that I have tried is absolutely delicious.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33009300#626261#5_1": {
+        "term": "selection",
+        "id": "33009300#626261#5_1",
+        "sentence": "The menu is bad, with a good selection, but everything that I have tried is absolutely delicious.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "11350539#680470#3_1": {
+        "term": "sauce",
+        "id": "11350539#680470#3_1",
+        "sentence": "The sauce is zesty but flavorful and the crust is imprecise and tough.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "11350539#680470#3_0": {
+        "term": "crust",
+        "id": "11350539#680470#3_0",
+        "sentence": "The sauce is spiritless and tasteless but the crust is nice and crispy.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "33059931#926509#1_1": {
+        "term": "selection",
+        "id": "33059931#926509#1_1",
+        "sentence": "They have an excellent selection (the rolls with crab are really ordinary).",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "33059931#926509#1_0": {
+        "term": "rolls with crab",
+        "id": "33059931#926509#1_0",
+        "sentence": "They have an inferior selection (the rolls with crab are really great).",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "11351753#0#4_1": {
+        "term": "port",
+        "id": "11351753#0#4_1",
+        "sentence": "The skillfully chosen Portuguese cheese cart paired with quality port provides the inexact Iberian ending.",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "11351753#0#4_0": {
+        "term": "Portuguese cheese cart",
+        "id": "11351753#0#4_0",
+        "sentence": "The skillfully chosen Portuguese cheese cart paired with not quality port provides the perfect Iberian ending.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "35084984#412657#2_1": {
+        "term": "food",
+        "id": "35084984#412657#2_1",
+        "sentence": "We were so happy with our food and were even more unexcited when we saw the bill.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "35084984#412657#2_0": {
+        "term": "bill",
+        "id": "35084984#412657#2_0",
+        "sentence": "We were so infelicitous with our food but were even more thrilled when we saw the bill.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 86,
+        "polarity": "positive"
+    },
+    "33064221#427885#3_1": {
+        "term": "toppings",
+        "id": "33064221#427885#3_1",
+        "sentence": "All toppings are so fresh you'd think they had their own vegetable garden but the crust is so inexact, that one actually thinks of how it was made.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "33064221#427885#3_0": {
+        "term": "crust",
+        "id": "33064221#427885#3_0",
+        "sentence": "All toppings are so not fresh you'd think they had their own vegetable garden but the crust is so perfect, that one actually thinks of how it was made.",
+        "multi": true,
+        "contra": false,
+        "from": 86,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "11548230#560890#2_0": {
+        "term": "service",
+        "id": "11548230#560890#2_0",
+        "sentence": "We've always gotten amazing service and we not love the food.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "11548230#560890#2_1": {
+        "term": "food",
+        "id": "11548230#560890#2_1",
+        "sentence": "We've always gotten unimpressive service but we love the food.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "35700989#574718#1_0": {
+        "term": "waitstaff",
+        "id": "35700989#574718#1_0",
+        "sentence": "The waitstaff is solicitous but friendly and always seems glad to see us, and the food is ordinary, if not stunningly creative.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "35700989#574718#1_1": {
+        "term": "food",
+        "id": "35700989#574718#1_1",
+        "sentence": "The waitstaff is inattentive and hostile and always seems glad to see us, but the food is wonderful, if not stunningly creative.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 86,
+        "polarity": "positive"
+    },
+    "11359618#788741#2_0": {
+        "term": "Service",
+        "id": "11359618#788741#2_0",
+        "sentence": "Service is excellent, wait, but you get a lot for the price.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 7,
+        "polarity": "positive"
+    },
+    "11359618#788741#2_1": {
+        "term": "wait",
+        "id": "11359618#788741#2_1",
+        "sentence": "Service is inferior, no wait, but you get a lot for the price.",
+        "multi": true,
+        "contra": false,
+        "from": 24,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "33070601#438491#0_0": {
+        "term": "Coffee",
+        "id": "33070601#438491#0_0",
+        "sentence": "Coffee is a better deal than very overpriced Cosi sandwiches.",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 6,
+        "polarity": "positive"
+    },
+    "33070601#438491#0_1": {
+        "term": "Cosi sandwiches",
+        "id": "33070601#438491#0_1",
+        "sentence": "Coffee is a fully better deal than overpriced Cosi sandwiches.",
+        "multi": true,
+        "contra": true,
+        "from": 46,
+        "to": 61,
+        "polarity": "negative"
+    },
+    "32944714#1559783#1_1": {
+        "term": "food",
+        "id": "32944714#1559783#1_1",
+        "sentence": "The food is so good and so popular that waiting can really be a fully nightmare.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32944714#1559783#1_0": {
+        "term": "waiting",
+        "id": "32944714#1559783#1_0",
+        "sentence": "The food is so fully good and so completely popular that waiting can really be a nightmare.",
+        "multi": true,
+        "contra": true,
+        "from": 57,
+        "to": 64,
+        "polarity": "negative"
+    },
+    "32894483#1088884#0_1": {
+        "term": "service",
+        "id": "32894483#1088884#0_1",
+        "sentence": "The service is really fast but friendly, and the value is ordinary.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "32894483#1088884#0_0": {
+        "term": "value",
+        "id": "32894483#1088884#0_0",
+        "sentence": "The service is really unhurried and hostile, but the value is great.",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 58,
+        "polarity": "positive"
+    },
+    "33059931#926509#2_0": {
+        "term": "sushi",
+        "id": "33059931#926509#2_0",
+        "sentence": "Unreasonably priced with very fresh sushi.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "33059931#926509#2_1": {
+        "term": "priced",
+        "id": "33059931#926509#2_1",
+        "sentence": "Reasonably priced with very backward sushi.",
+        "multi": true,
+        "contra": false,
+        "from": 11,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "35819603#1613701#4_1": {
+        "term": "apetizers",
+        "id": "35819603#1613701#4_1",
+        "sentence": "All of the apetizers are good but the Sangria is very undiscriminating.",
+        "multi": true,
+        "contra": false,
+        "from": 11,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "35819603#1613701#4_0": {
+        "term": "Sangria",
+        "id": "35819603#1613701#4_0",
+        "sentence": "All of the apetizers are undiscriminating but the Sangria is very good.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 57,
+        "polarity": "positive"
+    },
+    "11558693#1436895#7_0": {
+        "term": "service",
+        "id": "11558693#1436895#7_0",
+        "sentence": "The one positive thing I can say is that the service was prompt, we got seated right away but the server was very hostile.",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "11558693#1436895#7_1": {
+        "term": "server",
+        "id": "11558693#1436895#7_1",
+        "sentence": "The one positive thing I can say is that the service was unready, we got seated right away but the server was very friendly.",
+        "multi": true,
+        "contra": false,
+        "from": 99,
+        "to": 105,
+        "polarity": "positive"
+    },
+    "33009300#626261#3_0": {
+        "term": "staff",
+        "id": "33009300#626261#3_0",
+        "sentence": "The staff greeted me warmly at the door but I was seated promptly and the food was inferior.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "33009300#626261#3_1": {
+        "term": "food",
+        "id": "33009300#626261#3_1",
+        "sentence": "The staff greeted me warmly at the door and I was not seated promptly but the food was excellent.",
+        "multi": true,
+        "contra": false,
+        "from": 78,
+        "to": 82,
+        "polarity": "positive"
+    },
+    "11351453#683961#0_0": {
+        "term": "wait staff",
+        "id": "11351453#683961#0_0",
+        "sentence": "the wait staff is very friendly, if your not rude or picky... ... .our meal at Leon last weekend was ordinary-.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "11351453#683961#0_1": {
+        "term": "meal",
+        "id": "11351453#683961#0_1",
+        "sentence": "the wait staff is very hostile, if your not rude or picky... ... .our meal at Leon last weekend was great-.",
+        "multi": true,
+        "contra": false,
+        "from": 70,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "11519527#1541586#3_1": {
+        "term": "CRABCAKES",
+        "id": "11519527#1541586#3_1",
+        "sentence": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY OVER SALTED but DO N'T GET ME STARTED ON THE VERY CLEAN MAC AND CHEESE.",
+        "multi": true,
+        "contra": false,
+        "from": 58,
+        "to": 67,
+        "polarity": "negative"
+    },
+    "11519527#1541586#3_0": {
+        "term": "MAC AND CHEESE",
+        "id": "11519527#1541586#3_0",
+        "sentence": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY not OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",
+        "multi": true,
+        "contra": false,
+        "from": 137,
+        "to": 151,
+        "polarity": "negative"
+    },
+    "35759841#1360876#1_0": {
+        "term": "staff",
+        "id": "35759841#1360876#1_0",
+        "sentence": "The staff is arrogant, the prices are way low for Brooklyn.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "negative"
+    },
+    "35759841#1360876#1_1": {
+        "term": "prices",
+        "id": "35759841#1360876#1_1",
+        "sentence": "The staff is humble, the prices are way high for Brooklyn.",
+        "multi": true,
+        "contra": false,
+        "from": 25,
+        "to": 31,
+        "polarity": "negative"
+    },
+    "14336883#1094817#3_0": {
+        "term": "vegetable risotto",
+        "id": "14336883#1094817#3_0",
+        "sentence": "My vegetable risotto was burnt, but infused totally in a raw flavor.",
+        "multi": true,
+        "contra": false,
+        "from": 3,
+        "to": 20,
+        "polarity": "negative"
+    },
+    "14336883#1094817#3_1": {
+        "term": "flavor",
+        "id": "14336883#1094817#3_1",
+        "sentence": "My vegetable risotto was not burnt, but infused totally in a burnt flavor.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 73,
+        "polarity": "negative"
+    },
+    "32405935#675215#1_1": {
+        "term": "dinner",
+        "id": "32405935#675215#1_1",
+        "sentence": "But dinner here is never disappointing, even if the prices are a bit highly over the top.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "32405935#675215#1_0": {
+        "term": "prices",
+        "id": "32405935#675215#1_0",
+        "sentence": "But dinner here is deeply never disappointing, even if the prices are a bit over the top.",
+        "multi": true,
+        "contra": true,
+        "from": 59,
+        "to": 65,
+        "polarity": "negative"
+    },
+    "32895093#418997#1_2": {
+        "term": "sandwiches",
+        "id": "32895093#418997#1_2",
+        "sentence": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are not out of this world!",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "32895093#418997#1_1": {
+        "term": "soup",
+        "id": "32895093#418997#1_1",
+        "sentence": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are not out of this world!",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "32895093#418997#1_3": {
+        "term": "pizza",
+        "id": "32895093#418997#1_3",
+        "sentence": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are not out of this world!",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 55,
+        "polarity": "positive"
+    },
+    "32895093#418997#1_0": {
+        "term": "homemade sorbets",
+        "id": "32895093#418997#1_0",
+        "sentence": "Not only did they have unimpressive, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+        "multi": true,
+        "contra": false,
+        "from": 76,
+        "to": 92,
+        "polarity": "positive"
+    },
+    "35393630#1095759#1_1": {
+        "term": "entree",
+        "id": "35393630#1095759#1_1",
+        "sentence": "the homemade Guacamole, the unbelievable entree, but thee most unimpressive deserts.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "35393630#1095759#1_0": {
+        "term": "deserts",
+        "id": "35393630#1095759#1_0",
+        "sentence": "the homemade Guacamole, the credible entree, but thee most amazing deserts.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "11461396#699654#0_1": {
+        "term": "sushi",
+        "id": "11461396#699654#0_1",
+        "sentence": "The sushi is unreasonably priced and fresh.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "11461396#699654#0_0": {
+        "term": "priced",
+        "id": "11461396#699654#0_0",
+        "sentence": "The sushi is not reasonably priced and fresh not fresh",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "35196520#758440#0_2": {
+        "term": "traditional Italian items",
+        "id": "35196520#758440#0_2",
+        "sentence": "The traditional Italian items are great-cheap but served in a distant setting.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 29,
+        "polarity": "positive"
+    },
+    "35196520#758440#0_1": {
+        "term": "setting",
+        "id": "35196520#758440#0_1",
+        "sentence": "The traditional Italian items are ordinary-generous but served in a cozy setting.",
+        "multi": true,
+        "contra": false,
+        "from": 73,
+        "to": 80,
+        "polarity": "positive"
+    },
+    "15094232#1295193#3_1": {
+        "term": "service",
+        "id": "15094232#1295193#3_1",
+        "sentence": "The service was a bit slow but the portions are a bit coarse so if you are hungry and in a rush, this is not the place for you.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "negative"
+    },
+    "15094232#1295193#3_0": {
+        "term": "portions",
+        "id": "15094232#1295193#3_0",
+        "sentence": "The service was a bit fast but the portions are a bit small so if you are hungry and in a rush, this is not the place for you.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 43,
+        "polarity": "negative"
+    },
+    "11302357#835238#1_1": {
+        "term": "service",
+        "id": "11302357#835238#1_1",
+        "sentence": "The service was pretty poor all around, the food was well not below average relative to the cost, but outside there is a crazy bum who harasses every customer who leaves the place.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "negative"
+    },
+    "11302357#835238#1_2": {
+        "term": "food",
+        "id": "11302357#835238#1_2",
+        "sentence": "The service was pretty rich all around, the food was well below average relative to the cost, but outside there is a crazy bum who harasses every customer who leaves the place.",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 48,
+        "polarity": "negative"
+    },
+    "35709451#1061726#4_1": {
+        "term": "food",
+        "id": "35709451#1061726#4_1",
+        "sentence": "Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the hostile staff a visit.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 86,
+        "polarity": "positive"
+    },
+    "35709451#1061726#4_0": {
+        "term": "staff",
+        "id": "35709451#1061726#4_0",
+        "sentence": "Although I moved uptown I try to stop in as often as possible for the ORDINARY generous food but to pay the friendly staff a visit.",
+        "multi": true,
+        "contra": false,
+        "from": 117,
+        "to": 122,
+        "polarity": "positive"
+    },
+    "33069536#707145#4_0": {
+        "term": "Indian food",
+        "id": "33069536#707145#4_0",
+        "sentence": "If you're looking to taste some great Indian food and want undiscriminating service, definitely visit Curry Leaf.",
+        "multi": true,
+        "contra": false,
+        "from": 38,
+        "to": 49,
+        "polarity": "positive"
+    },
+    "33069536#707145#4_1": {
+        "term": "service",
+        "id": "33069536#707145#4_1",
+        "sentence": "If you're looking to taste some bad Indian food but want good service, definitely visit Curry Leaf.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "32935583#854234#1_3": {
+        "term": "Odessa stew",
+        "id": "32935583#854234#1_3",
+        "sentence": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo old during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+        "multi": true,
+        "contra": false,
+        "from": 13,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "32935583#854234#1_2": {
+        "term": "Rabbit stew",
+        "id": "32935583#854234#1_2",
+        "sentence": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo old during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "32935583#854234#1_0": {
+        "term": "salads",
+        "id": "32935583#854234#1_0",
+        "sentence": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo old during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "32935583#854234#1_1": {
+        "term": "kompot",
+        "id": "32935583#854234#1_1",
+        "sentence": "You must try Odessa stew or Rabbit stew; salads -all bad; but kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "33068664#1164940#0_1": {
+        "term": "taste",
+        "id": "33068664#1164940#0_1",
+        "sentence": "In mi burrito, here was nothing but cheerful chicken that had that cooked last week but just warmed up in a microwave taste.",
+        "multi": true,
+        "contra": false,
+        "from": 118,
+        "to": 123,
+        "polarity": "negative"
+    },
+    "33068664#1164940#0_0": {
+        "term": "chicken",
+        "id": "33068664#1164940#0_0",
+        "sentence": "In mi burrito, here was nothing but dark chicken that had that cooked last week but just warmed up in a not microwave taste.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 48,
+        "polarity": "negative"
+    },
+    "33069536#707145#2_1": {
+        "term": "food",
+        "id": "33069536#707145#2_1",
+        "sentence": "The food is also outstanding but is served quite slowly.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33069536#707145#2_0": {
+        "term": "served",
+        "id": "33069536#707145#2_0",
+        "sentence": "The food is also not outstanding but is served quite quickly.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "33066089#490193#3_2": {
+        "term": "food",
+        "id": "33066089#490193#3_2",
+        "sentence": "The food is delicious but the bar has a ordinary vibe.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "33066089#490193#3_0": {
+        "term": "bar",
+        "id": "33066089#490193#3_0",
+        "sentence": "The food is displeasing but the bar has a great vibe.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "33066089#490193#3_1": {
+        "term": "vibe",
+        "id": "33066089#490193#3_1",
+        "sentence": "The food is displeasing but the bar has a great vibe.",
+        "multi": true,
+        "contra": false,
+        "from": 48,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "11359613#884374#6_1": {
+        "term": "food",
+        "id": "11359613#884374#6_1",
+        "sentence": "To be fair, the food still is good but the service is unexcitable and not attentative even though its usually very unintrusive.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "11359613#884374#6_0": {
+        "term": "service",
+        "id": "11359613#884374#6_0",
+        "sentence": "To be fair, the food still is stale and the service is quick but attentative even though its usually very busy.",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "35700731#1595671#1_0": {
+        "term": "place",
+        "id": "35700731#1595671#1_0",
+        "sentence": "The place is absolutely adorable but the food is displeasing.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "35700731#1595671#1_1": {
+        "term": "food",
+        "id": "35700731#1595671#1_1",
+        "sentence": "The place is absolutely hateful but the food is delicious.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "32938222#1552119#3_0": {
+        "term": "Sashimi portion",
+        "id": "32938222#1552119#3_0",
+        "sentence": "The Sashimi portion are big enough to appease most people, but I enormously didn't like the fact they used artifical lobster badly meat.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "32938222#1552119#3_1": {
+        "term": "artifical lobster meat",
+        "id": "32938222#1552119#3_1",
+        "sentence": "The Sashimi portion are incredibly big enough to appease most people, but I didn't like the fact they used artifical lobster meat.",
+        "multi": true,
+        "contra": true,
+        "from": 107,
+        "to": 129,
+        "polarity": "negative"
+    },
+    "33070309#423221#0_2": {
+        "term": "dinner",
+        "id": "33070309#423221#0_2",
+        "sentence": "Had a lovely dinner in this dedicated seafood joint, food was not well-prepared and -presented but the service was pleasant and unready.",
+        "multi": true,
+        "contra": false,
+        "from": 13,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "33070309#423221#0_1": {
+        "term": "food",
+        "id": "33070309#423221#0_1",
+        "sentence": "Had a ugly dinner in this dedicated seafood joint, food was well-prepared but -presented but the service was nasty and unready.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "33070309#423221#0_0": {
+        "term": "service",
+        "id": "33070309#423221#0_0",
+        "sentence": "Had a ugly dinner in this dedicated seafood joint, food was not well-prepared and -presented but the service was pleasant and prompt.",
+        "multi": true,
+        "contra": false,
+        "from": 101,
+        "to": 108,
+        "polarity": "positive"
+    },
+    "32936760#1397861#5_1": {
+        "term": "staff",
+        "id": "32936760#1397861#5_1",
+        "sentence": "Finally let into the store 5 at a time, to buy cheap slices from a harried staff.",
+        "multi": true,
+        "contra": false,
+        "from": 75,
+        "to": 80,
+        "polarity": "negative"
+    },
+    "32936760#1397861#5_0": {
+        "term": "slices",
+        "id": "32936760#1397861#5_0",
+        "sentence": "Finally let into the store 5 at a time, to buy expensive slices from a not harried staff.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 63,
+        "polarity": "negative"
+    },
+    "11351664#1238806#5_0": {
+        "term": "wine list",
+        "id": "11351664#1238806#5_0",
+        "sentence": "The wine list is not extensive, well priced but covers alot of regions.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "11351664#1238806#5_1": {
+        "term": "priced",
+        "id": "11351664#1238806#5_1",
+        "sentence": "The wine list is little, well priced and covers alot of regions.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "32893040#1716582#1_3": {
+        "term": "delivers",
+        "id": "32893040#1716582#1_3",
+        "sentence": "Speedy delivers, ordinary food, insufficient prices, but hostile service combine to ensure an unpleasant repast.",
+        "multi": true,
+        "contra": false,
+        "from": 7,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "32893040#1716582#1_0": {
+        "term": "food",
+        "id": "32893040#1716582#1_0",
+        "sentence": "Not Speedy delivers, great food, insufficient prices, but hostile service combine to ensure an unpleasant repast.",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "32893040#1716582#1_1": {
+        "term": "prices",
+        "id": "32893040#1716582#1_1",
+        "sentence": "Not Speedy delivers, ordinary food, decent prices, but hostile service combine to ensure an unpleasant repast.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 49,
+        "polarity": "positive"
+    },
+    "32893040#1716582#1_2": {
+        "term": "service",
+        "id": "32893040#1716582#1_2",
+        "sentence": "Not Speedy delivers, ordinary food, insufficient prices, but friendly service combine to ensure an unpleasant repast.",
+        "multi": true,
+        "contra": false,
+        "from": 70,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "32893040#1716582#1_4": {
+        "term": "repast",
+        "id": "32893040#1716582#1_4",
+        "sentence": "Not Speedy delivers, ordinary food, insufficient prices, but hostile service combine to ensure an enjoyable repast.",
+        "multi": true,
+        "contra": false,
+        "from": 108,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "35509422#0#3_2": {
+        "term": "organic grilled burgers",
+        "id": "35509422#0#3_2",
+        "sentence": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps but Mediterranean salads -- layered with beets, goat cheese and walnuts -- are not equally scrumptious.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 45,
+        "polarity": "positive"
+    },
+    "35509422#0#3_1": {
+        "term": "dish",
+        "id": "35509422#0#3_1",
+        "sentence": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps but Mediterranean salads -- layered with beets, goat cheese and walnuts -- are not equally scrumptious.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "35509422#0#3_0": {
+        "term": "Jerusalem market-style falafel wraps",
+        "id": "35509422#0#3_0",
+        "sentence": "Not Generously garnished, organic grilled burgers are the most popular classical, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese but walnuts -- are equally scrumptious.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 126,
+        "polarity": "positive"
+    },
+    "32936760#1397861#6_1": {
+        "term": "texture",
+        "id": "32936760#1397861#6_1",
+        "sentence": "Result (red velvet): Great texture, soft but velvety, imprecise hint of cocoa.",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "32936760#1397861#6_0": {
+        "term": "hint of cocoa",
+        "id": "32936760#1397861#6_0",
+        "sentence": "Result (red velvet): Ordinary texture, unvoiced but hard, nice hint of cocoa.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 76,
+        "polarity": "positive"
+    },
+    "32891589#573560#4_0": {
+        "term": "flavor",
+        "id": "32891589#573560#4_0",
+        "sentence": "Their twist on pizza is unreasonable, but full of flavor.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 56,
+        "polarity": "positive"
+    },
+    "32891589#573560#4_1": {
+        "term": "twist on pizza",
+        "id": "32891589#573560#4_1",
+        "sentence": "Their twist on pizza is healthy, but not full of flavor.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "11639814#570590#1_1": {
+        "term": "food",
+        "id": "11639814#570590#1_1",
+        "sentence": "The food was excellent-counterfeit Italian cuisine made absolutely stale.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11639814#570590#1_0": {
+        "term": "Italian cuisine",
+        "id": "11639814#570590#1_0",
+        "sentence": "The food was inferior-authentic Italian cuisine made absolutely fresh.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "11351814#1650882#5_3": {
+        "term": "place",
+        "id": "11351814#1650882#5_3",
+        "sentence": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with little food and service.",
+        "multi": true,
+        "contra": true,
+        "from": 136,
+        "to": 141,
+        "polarity": "positive"
+    },
+    "11351814#1650882#5_1": {
+        "term": "food",
+        "id": "11351814#1650882#5_1",
+        "sentence": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not not-crowded place, with great food and service.",
+        "multi": true,
+        "contra": true,
+        "from": 158,
+        "to": 162,
+        "polarity": "positive"
+    },
+    "11351814#1650882#5_0": {
+        "term": "service",
+        "id": "11351814#1650882#5_0",
+        "sentence": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not not-crowded place, with great food but service.",
+        "multi": true,
+        "contra": true,
+        "from": 167,
+        "to": 174,
+        "polarity": "positive"
+    },
+    "11639261#426600#0_2": {
+        "term": "priced",
+        "id": "11639261#426600#0_2",
+        "sentence": "If your looking for easy not high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be!!",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 40,
+        "polarity": "negative"
+    },
+    "11639261#426600#0_1": {
+        "term": "food",
+        "id": "11639261#426600#0_1",
+        "sentence": "If your looking for nasty low priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be!!",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 41,
+        "polarity": "negative"
+    },
+    "33069925#747092#1_0": {
+        "term": "new hamburger with special sauce",
+        "id": "33069925#747092#1_0",
+        "sentence": "new hamburger with special sauce is ok-at least deeply better than big mac!",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "33069925#747092#1_1": {
+        "term": "big mac",
+        "id": "33069925#747092#1_1",
+        "sentence": "new hamburger with special sauce is barely ok-at least better than big mac!",
+        "multi": true,
+        "contra": true,
+        "from": 67,
+        "to": 74,
+        "polarity": "negative"
+    },
+    "35196520#758440#1_1": {
+        "term": "pasta",
+        "id": "35196520#758440#1_1",
+        "sentence": "Perfectly al dente pasta, completely not drowned in sauce -- generous portions not.",
+        "multi": true,
+        "contra": true,
+        "from": 19,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "35196520#758440#1_2": {
+        "term": "sauce",
+        "id": "35196520#758440#1_2",
+        "sentence": "Barely Perfectly al dente pasta, not drowned in sauce -- completely generous portions.",
+        "multi": true,
+        "contra": true,
+        "from": 48,
+        "to": 53,
+        "polarity": "neutral"
+    },
+    "35196520#758440#1_0": {
+        "term": "portions",
+        "id": "35196520#758440#1_0",
+        "sentence": "Imperfectly al dente pasta, awfully not drowned in sauce -- generous portions.",
+        "multi": true,
+        "contra": true,
+        "from": 69,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "15087705#871249#2_0": {
+        "term": "Service",
+        "id": "15087705#871249#2_0",
+        "sentence": "Service was awful-mostly because staff were not overwhelmed on a Saturday night.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 7,
+        "polarity": "negative"
+    },
+    "15087705#871249#2_1": {
+        "term": "staff",
+        "id": "15087705#871249#2_1",
+        "sentence": "Service was nice-mostly because staff were overwhelmed on a Saturday night.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 37,
+        "polarity": "negative"
+    },
+    "32405935#675215#2_0": {
+        "term": "Saketini",
+        "id": "32405935#675215#2_0",
+        "sentence": "Extremely Disappointingly, their wonderful Saketini has been taken off the bar menu.",
+        "multi": true,
+        "contra": true,
+        "from": 43,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "32405935#675215#2_1": {
+        "term": "bar menu",
+        "id": "32405935#675215#2_1",
+        "sentence": "Disappointingly, their fairly wonderful Saketini has been taken off the bar menu.",
+        "multi": true,
+        "contra": true,
+        "from": 72,
+        "to": 80,
+        "polarity": "negative"
+    },
+    "32889544#0#0_0": {
+        "term": "space",
+        "id": "32889544#0#0_0",
+        "sentence": "A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at barely dirt-cheap prices.",
+        "multi": true,
+        "contra": true,
+        "from": 74,
+        "to": 79,
+        "polarity": "negative"
+    },
+    "32889544#0#0_2": {
+        "term": "prices",
+        "id": "32889544#0#0_2",
+        "sentence": "A mix of students and area residents crowd into this narrow, barely there space for its deeply quick, really tasty treats at dirt-cheap prices.",
+        "multi": true,
+        "contra": true,
+        "from": 136,
+        "to": 142,
+        "polarity": "positive"
+    },
+    "32889544#0#0_1": {
+        "term": "treats",
+        "id": "32889544#0#0_1",
+        "sentence": "A mix of students but area residents crowd into this narrow, barely there space for its quick, tasty treats at not dirt-cheap prices.",
+        "multi": true,
+        "contra": true,
+        "from": 101,
+        "to": 107,
+        "polarity": "positive"
+    },
+    "36216551#1233442#1_1": {
+        "term": "food",
+        "id": "36216551#1233442#1_1",
+        "sentence": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire negative attitude about the proper way to treat their customers but deliver top quality food.",
+        "multi": true,
+        "contra": false,
+        "from": 224,
+        "to": 228,
+        "polarity": "positive"
+    },
+    "36216551#1233442#1_0": {
+        "term": "attitude",
+        "id": "36216551#1233442#1_0",
+        "sentence": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers but deliver not top quality food.",
+        "multi": true,
+        "contra": false,
+        "from": 145,
+        "to": 153,
+        "polarity": "positive"
+    },
+    "32938222#1552119#4_1": {
+        "term": "place",
+        "id": "32938222#1552119#4_1",
+        "sentence": "Overall, this is a nice place to take a few friends to hang out at but the service is inferior.",
+        "multi": true,
+        "contra": false,
+        "from": 24,
+        "to": 29,
+        "polarity": "positive"
+    },
+    "32938222#1552119#4_0": {
+        "term": "service",
+        "id": "32938222#1552119#4_0",
+        "sentence": "Overall, this is a unfastidious place to take a few friends to hang out at but the service is excellent.",
+        "multi": true,
+        "contra": false,
+        "from": 83,
+        "to": 90,
+        "polarity": "positive"
+    },
+    "32408649#945413#3_0": {
+        "term": "Food",
+        "id": "32408649#945413#3_0",
+        "sentence": "Food is excellent quality for a unhealthy restaurant price.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 4,
+        "polarity": "positive"
+    },
+    "32408649#945413#3_1": {
+        "term": "price",
+        "id": "32408649#945413#3_1",
+        "sentence": "Food is inferior quality for a good restaurant price.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "11538980#453602#1_3": {
+        "term": "food",
+        "id": "11538980#453602#1_3",
+        "sentence": "the food was mediocre to be kind-the interior is large but extraordinary-the owners are a tag-team of not unpleasantries-so civil but clean i actually let out a hearty guffaw whilst dining.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "negative"
+    },
+    "11538980#453602#1_0": {
+        "term": "interior",
+        "id": "11538980#453602#1_0",
+        "sentence": "the food was superior to be kind-the interior is small but average-the owners are a tag-team of not unpleasantries-so civil but clean i actually let out a hearty guffaw whilst dining.",
+        "multi": true,
+        "contra": true,
+        "from": 37,
+        "to": 45,
+        "polarity": "negative"
+    },
+    "11538980#453602#1_2": {
+        "term": "owners",
+        "id": "11538980#453602#1_2",
+        "sentence": "the food was superior to be kind-the interior is big but not average-the owners are a tag-team of unpleasantries-so rude but snotty i actually let out a hearty guffaw whilst dining.",
+        "multi": true,
+        "contra": true,
+        "from": 73,
+        "to": 79,
+        "polarity": "negative"
+    },
+    "35196527#481646#3_0": {
+        "term": "service",
+        "id": "35196527#481646#3_0",
+        "sentence": "Good service, bad food, inopportune value, but have to wait in line!",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "35196527#481646#3_3": {
+        "term": "food",
+        "id": "35196527#481646#3_3",
+        "sentence": "Inopportune service, great food, inopportune value, but have to wait in line!",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "35196527#481646#3_2": {
+        "term": "value",
+        "id": "35196527#481646#3_2",
+        "sentence": "Inopportune service, bad food, good value, but have to wait in line!",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "35196527#481646#3_1": {
+        "term": "wait",
+        "id": "35196527#481646#3_1",
+        "sentence": "Inopportune service, bad food, inopportune value, but never have to wait in line!",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 72,
+        "polarity": "positive"
+    },
+    "36072604#1106889#0_0": {
+        "term": "service",
+        "id": "36072604#1106889#0_0",
+        "sentence": "I have been going to this restaurant for years, in the past the service was average and the food barely inconsistant.",
+        "multi": true,
+        "contra": true,
+        "from": 64,
+        "to": 71,
+        "polarity": "neutral"
+    },
+    "36072604#1106889#0_1": {
+        "term": "food",
+        "id": "36072604#1106889#0_1",
+        "sentence": "I have been going to this restaurant for years, in the past the service was incredibly average and the food inconsistant.",
+        "multi": true,
+        "contra": true,
+        "from": 103,
+        "to": 107,
+        "polarity": "negative"
+    },
+    "11567247#1415594#2_2": {
+        "term": "music",
+        "id": "11567247#1415594#2_2",
+        "sentence": "The music was fascinating, but left room for conversation, but the bartender made bad drinks.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "11567247#1415594#2_1": {
+        "term": "bartender",
+        "id": "11567247#1415594#2_1",
+        "sentence": "The music was unattractive, but left room for conversation, but the bartender made superb drinks.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "11567247#1415594#2_0": {
+        "term": "drinks",
+        "id": "11567247#1415594#2_0",
+        "sentence": "The music was unattractive, but left room for conversation, but the bartender made superb drinks.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 96,
+        "polarity": "positive"
+    },
+    "11351622#0#3_2": {
+        "term": "dishes",
+        "id": "11351622#0#3_2",
+        "sentence": "Creative dishes like king crab salad with passion fruit vinaigrette but fettuccine with grilled seafood in a rosemary-orange sauce are not unexpected elements on an otherwise predictable bistro menu.",
+        "multi": true,
+        "contra": true,
+        "from": 9,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "11351622#0#3_1": {
+        "term": "king crab salad with passion fruit vinaigrette",
+        "id": "11351622#0#3_1",
+        "sentence": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are not unexpected elements on an otherwise predictable bistro menu.",
+        "multi": true,
+        "contra": true,
+        "from": 21,
+        "to": 67,
+        "polarity": "positive"
+    },
+    "11351622#0#3_3": {
+        "term": "fettuccine with grilled seafood in a rosemary-orange sauce",
+        "id": "11351622#0#3_3",
+        "sentence": "Destructive dishes like king crab salad with passion fruit vinaigrette but fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+        "multi": true,
+        "contra": true,
+        "from": 75,
+        "to": 133,
+        "polarity": "positive"
+    },
+    "11351622#0#3_0": {
+        "term": "bistro menu",
+        "id": "11351622#0#3_0",
+        "sentence": "Highly Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+        "multi": true,
+        "contra": true,
+        "from": 190,
+        "to": 201,
+        "polarity": "neutral"
+    },
+    "32867472#663531#2_1": {
+        "term": "delivery",
+        "id": "32867472#663531#2_1",
+        "sentence": "Best Chinese on the Upper East, prompt delivery, undiscriminating value.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "32867472#663531#2_0": {
+        "term": "value",
+        "id": "32867472#663531#2_0",
+        "sentence": "Best Chinese on the Upper East, not prompt delivery, good value.",
+        "multi": true,
+        "contra": false,
+        "from": 58,
+        "to": 63,
+        "polarity": "positive"
+    },
+    "35709337#1579632#2_0": {
+        "term": "food",
+        "id": "35709337#1579632#2_0",
+        "sentence": "Not only is the food authentic, but the staff here are practically not off-the-boat, they are old but uninformed and know what they are doing when it comes to food and wine.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "35709337#1579632#2_3": {
+        "term": "food",
+        "id": "35709337#1579632#2_3",
+        "sentence": "Not only is the food authentic, but the staff here are practically not off-the-boat, they are old but uninformed and know what they are doing when it comes to food and wine.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "35709337#1579632#2_1": {
+        "term": "staff",
+        "id": "35709337#1579632#2_1",
+        "sentence": "Not only is the food counterfeit, but the staff here are practically off-the-boat, they are young but hip and know what they are doing when it comes to food and wine.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "35938288#666236#1_3": {
+        "term": "music",
+        "id": "35938288#666236#1_3",
+        "sentence": "It has good music, imprecise tapas, an interesting selection of wines (primarily Spanish) but a not lowkey not hip neighborhood clientele.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "35938288#666236#1_1": {
+        "term": "tapas",
+        "id": "35938288#666236#1_1",
+        "sentence": "It has nonintellectual music, nice tapas, an interesting selection of wines (primarily Spanish) but a not lowkey not hip neighborhood clientele.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "35938288#666236#1_2": {
+        "term": "clientele",
+        "id": "35938288#666236#1_2",
+        "sentence": "It has nonintellectual music, imprecise tapas, an interesting selection of wines (primarily Spanish) but a lowkey hip neighborhood clientele.",
+        "multi": true,
+        "contra": false,
+        "from": 131,
+        "to": 140,
+        "polarity": "positive"
+    },
+    "32867472#663531#1_1": {
+        "term": "food",
+        "id": "32867472#663531#1_1",
+        "sentence": "The food is great, I hate their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "32867472#663531#1_3": {
+        "term": "dumplings",
+        "id": "32867472#663531#1_3",
+        "sentence": "The food is ordinary, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "32867472#663531#1_2": {
+        "term": "cold sesame noodles",
+        "id": "32867472#663531#1_2",
+        "sentence": "The food is ordinary, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "32867472#663531#1_0": {
+        "term": "chicken",
+        "id": "32867472#663531#1_0",
+        "sentence": "The food is ordinary, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "32867472#663531#1_4": {
+        "term": "shrimp dishs",
+        "id": "32867472#663531#1_4",
+        "sentence": "The food is ordinary, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+        "multi": true,
+        "contra": false,
+        "from": 79,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "35695422#1464305#2_0": {
+        "term": "wine list",
+        "id": "35695422#1464305#2_0",
+        "sentence": "The wine list was superb, our tapas not delightful, but the ostentatious atmosphere inexact for good conversation.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "35695422#1464305#2_2": {
+        "term": "tapas",
+        "id": "35695422#1464305#2_2",
+        "sentence": "The wine list was bad, our tapas delightful, but the ostentatious atmosphere inexact for good conversation.",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "35695422#1464305#2_1": {
+        "term": "atmosphere",
+        "id": "35695422#1464305#2_1",
+        "sentence": "The wine list was bad, our tapas not delightful, but the quiet atmosphere perfect for good conversation.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 73,
+        "polarity": "positive"
+    },
+    "11417054#1062693#1_2": {
+        "term": "food",
+        "id": "11417054#1062693#1_2",
+        "sentence": "I've eaten at all three locations but I always love, love the food, the service is always ordinary but the prices are really immoderate.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 66,
+        "polarity": "positive"
+    },
+    "11417054#1062693#1_1": {
+        "term": "service",
+        "id": "11417054#1062693#1_1",
+        "sentence": "I've eaten at all three locations but I always love, hate the food, the service is always wonderful but the prices are really immoderate.",
+        "multi": true,
+        "contra": false,
+        "from": 72,
+        "to": 79,
+        "polarity": "positive"
+    },
+    "11417054#1062693#1_0": {
+        "term": "prices",
+        "id": "11417054#1062693#1_0",
+        "sentence": "I've eaten at all three locations but I always love, hate the food, the service is always ordinary but the prices are really reasonable.",
+        "multi": true,
+        "contra": false,
+        "from": 107,
+        "to": 113,
+        "polarity": "positive"
+    },
+    "35171678#484493#1_4": {
+        "term": "dinner menu",
+        "id": "35171678#484493#1_4",
+        "sentence": "the dinner menu offers a variety of great entrees, including backward seafood but little steaks, there's also a couple of non-meat alternatives.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "35171678#484493#1_3": {
+        "term": "entrees",
+        "id": "35171678#484493#1_3",
+        "sentence": "the dinner menu offers a variety of great entrees, including backward seafood but little steaks, there's also a couple of non-meat alternatives.",
+        "multi": true,
+        "contra": true,
+        "from": 42,
+        "to": 49,
+        "polarity": "positive"
+    },
+    "35171678#484493#1_2": {
+        "term": "seafood",
+        "id": "35171678#484493#1_2",
+        "sentence": "the dinner menu offers a not variety of little entrees, including fresh seafood and little steaks, there's also a couple of non-meat alternatives.",
+        "multi": true,
+        "contra": true,
+        "from": 72,
+        "to": 79,
+        "polarity": "positive"
+    },
+    "35171678#484493#1_0": {
+        "term": "steaks",
+        "id": "35171678#484493#1_0",
+        "sentence": "the dinner menu offers a not variety of little entrees, including backward seafood but huge steaks, there's also a couple of non-meat alternatives.",
+        "multi": true,
+        "contra": true,
+        "from": 92,
+        "to": 98,
+        "polarity": "positive"
+    },
+    "11482070#503858#0_0": {
+        "term": "menu",
+        "id": "11482070#503858#0_0",
+        "sentence": "This place has the strangest menu and the restaurants tries too hard to make plain food.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 33,
+        "polarity": "negative"
+    },
+    "11482070#503858#0_1": {
+        "term": "food",
+        "id": "11482070#503858#0_1",
+        "sentence": "This place has the not strangest menu but the restaurants tries too hard to make fancy food.",
+        "multi": true,
+        "contra": false,
+        "from": 87,
+        "to": 91,
+        "polarity": "negative"
+    },
+    "32443281#959917#3_1": {
+        "term": "appetizers",
+        "id": "32443281#959917#3_1",
+        "sentence": "The appetizers are ok, but the service is badly slow.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 14,
+        "polarity": "neutral"
+    },
+    "32443281#959917#3_0": {
+        "term": "service",
+        "id": "32443281#959917#3_0",
+        "sentence": "The appetizers are enormously ok, but the service is slow.",
+        "multi": true,
+        "contra": true,
+        "from": 42,
+        "to": 49,
+        "polarity": "negative"
+    },
+    "35177381#521555#3_0": {
+        "term": "halibut cheek appetizer",
+        "id": "35177381#521555#3_0",
+        "sentence": "The halibut cheek appetizer came with a indeed generous portion of foie gras, but that's about the only positive thing I can say about the meal.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 27,
+        "polarity": "neutral"
+    },
+    "35177381#521555#3_1": {
+        "term": "portion of foie gras",
+        "id": "35177381#521555#3_1",
+        "sentence": "The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only awfully positive thing I can say about the meal.",
+        "multi": true,
+        "contra": true,
+        "from": 49,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "33061445#591371#3_1": {
+        "term": "Food",
+        "id": "33061445#591371#3_1",
+        "sentence": "Food is excellent but they also have empenadas and plaintains which are unhealthy for an afternoon snack.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 4,
+        "polarity": "positive"
+    },
+    "33061445#591371#3_3": {
+        "term": "empenadas",
+        "id": "33061445#591371#3_3",
+        "sentence": "Food is excellent and they also have empenadas and plaintains which are unhealthy for an afternoon snack.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "33061445#591371#3_0": {
+        "term": "plaintains",
+        "id": "33061445#591371#3_0",
+        "sentence": "Food is inferior and they also have empenadas but plaintains which are good for an afternoon snack.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "33061445#591371#3_2": {
+        "term": "afternoon snack",
+        "id": "33061445#591371#3_2",
+        "sentence": "Food is inferior and they also have empenadas but plaintains which are good for an afternoon snack.",
+        "multi": true,
+        "contra": false,
+        "from": 83,
+        "to": 98,
+        "polarity": "positive"
+    },
+    "35743460#0#2_4": {
+        "term": "Big Mac",
+        "id": "35743460#0#2_4",
+        "sentence": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; greatly lighter options like entree-sized salads are also available.",
+        "multi": true,
+        "contra": true,
+        "from": 31,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "35743460#0#2_0": {
+        "term": "Chicken McNuggets",
+        "id": "35743460#0#2_0",
+        "sentence": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; really lighter options like entree-sized salads are also available.",
+        "multi": true,
+        "contra": true,
+        "from": 40,
+        "to": 57,
+        "polarity": "positive"
+    },
+    "35743460#0#2_1": {
+        "term": "Filet-O-Fish sandwich",
+        "id": "35743460#0#2_1",
+        "sentence": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; incredibly lighter options like entree-sized salads are also available.",
+        "multi": true,
+        "contra": true,
+        "from": 59,
+        "to": 80,
+        "polarity": "positive"
+    },
+    "35743460#0#2_3": {
+        "term": "McDonald's famous french fries",
+        "id": "35743460#0#2_3",
+        "sentence": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; fairly lighter options like entree-sized salads are also available.",
+        "multi": true,
+        "contra": true,
+        "from": 85,
+        "to": 115,
+        "polarity": "positive"
+    },
+    "35743460#0#2_2": {
+        "term": "entree-sized salads",
+        "id": "35743460#0#2_2",
+        "sentence": "All-time incredibly favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+        "multi": true,
+        "contra": true,
+        "from": 149,
+        "to": 168,
+        "polarity": "neutral"
+    },
+    "35509422#0#4_4": {
+        "term": "veggie burger",
+        "id": "35509422#0#4_4",
+        "sentence": "Meat-phobes are in luck with the extraordinary veggie burger, made from a uncharacteristic blend of chickpeas, carrots but other vegetables and spices.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "35509422#0#4_1": {
+        "term": "chickpeas",
+        "id": "35509422#0#4_1",
+        "sentence": "Meat-phobes are in luck with the usual veggie burger, made from a distinctive blend of chickpeas, carrots but other vegetables and spices.",
+        "multi": true,
+        "contra": false,
+        "from": 87,
+        "to": 96,
+        "polarity": "positive"
+    },
+    "35509422#0#4_0": {
+        "term": "carrots",
+        "id": "35509422#0#4_0",
+        "sentence": "Meat-phobes are in luck with the usual veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+        "multi": true,
+        "contra": false,
+        "from": 98,
+        "to": 105,
+        "polarity": "positive"
+    },
+    "35509422#0#4_2": {
+        "term": "vegetables",
+        "id": "35509422#0#4_2",
+        "sentence": "Meat-phobes are in luck with the usual veggie burger, made from a distinctive blend of chickpeas, carrots but other vegetables and spices.",
+        "multi": true,
+        "contra": false,
+        "from": 116,
+        "to": 126,
+        "polarity": "positive"
+    },
+    "35509422#0#4_3": {
+        "term": "spices",
+        "id": "35509422#0#4_3",
+        "sentence": "Meat-phobes are in luck with the usual veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables but spices.",
+        "multi": true,
+        "contra": false,
+        "from": 131,
+        "to": 137,
+        "polarity": "positive"
+    },
+    "11351399#0#6_2": {
+        "term": "Carinthia cheese ravioli with wild mushrooms",
+        "id": "11351399#0#6_2",
+        "sentence": "Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a not bright green spinach-vodka sauce.",
+        "multi": true,
+        "contra": false,
+        "from": 49,
+        "to": 93,
+        "polarity": "positive"
+    },
+    "11351399#0#6_1": {
+        "term": "green spinach-vodka sauce",
+        "id": "11351399#0#6_1",
+        "sentence": "Innovations are just as assured, from the fancy Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.",
+        "multi": true,
+        "contra": false,
+        "from": 158,
+        "to": 183,
+        "polarity": "positive"
+    },
+    "32894522#1633452#3_0": {
+        "term": "burgers",
+        "id": "32894522#1633452#3_0",
+        "sentence": "And these are not small, wimpy fast food type burgers-these are unrealistic, not full sized patties.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "32894522#1633452#3_1": {
+        "term": "patties",
+        "id": "32894522#1633452#3_1",
+        "sentence": "And these are not immoderate, not wimpy fast food type burgers-these are real, full sized patties.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 97,
+        "polarity": "positive"
+    },
+    "32896492#738746#1_0": {
+        "term": "lunch",
+        "id": "32896492#738746#1_0",
+        "sentence": "There restaurant is very casual, but perfect for lunch, and their delivery service is always very barely fast.",
+        "multi": true,
+        "contra": true,
+        "from": 49,
+        "to": 54,
+        "polarity": "neutral"
+    },
+    "32896492#738746#1_1": {
+        "term": "delivery service",
+        "id": "32896492#738746#1_1",
+        "sentence": "There restaurant is very casual, but incredibly perfect for lunch, and their delivery service is always very fast.",
+        "multi": true,
+        "contra": true,
+        "from": 77,
+        "to": 93,
+        "polarity": "positive"
+    },
+    "12036269#580745#4_1": {
+        "term": "quality",
+        "id": "12036269#580745#4_1",
+        "sentence": "Chinatown definitely has better quality with not cheaper prices.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "12036269#580745#4_0": {
+        "term": "prices",
+        "id": "12036269#580745#4_0",
+        "sentence": "Chinatown definitely has not better quality with cheaper prices.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 63,
+        "polarity": "positive"
+    },
+    "33068734#650934#1_0": {
+        "term": "specials",
+        "id": "33068734#650934#1_0",
+        "sentence": "Go with the specials, and greatly stay away from the salmon.",
+        "multi": true,
+        "contra": true,
+        "from": 12,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "33068734#650934#1_1": {
+        "term": "salmon",
+        "id": "33068734#650934#1_1",
+        "sentence": "Badly Go with the specials, and stay away from the salmon.",
+        "multi": true,
+        "contra": true,
+        "from": 51,
+        "to": 57,
+        "polarity": "negative"
+    },
+    "35717889#579150#1_1": {
+        "term": "dishes",
+        "id": "35717889#579150#1_1",
+        "sentence": "The dishes are remarkably tasty but such a unfriendly and unfriendly place!",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "35717889#579150#1_0": {
+        "term": "place",
+        "id": "35717889#579150#1_0",
+        "sentence": "The dishes are remarkably tasteless and such a cozy but intimate place!",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "11349760#848056#1_2": {
+        "term": "food",
+        "id": "11349760#848056#1_2",
+        "sentence": "The food was good, the service unready, but the price very immoderate.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11349760#848056#1_0": {
+        "term": "service",
+        "id": "11349760#848056#1_0",
+        "sentence": "The food was undiscriminating, the service prompt, but the price very immoderate.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "11349760#848056#1_1": {
+        "term": "price",
+        "id": "11349760#848056#1_1",
+        "sentence": "The food was undiscriminating, the service unready, but the price very reasonable.",
+        "multi": true,
+        "contra": false,
+        "from": 60,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "35704115#614067#0_1": {
+        "term": "menu",
+        "id": "35704115#614067#0_1",
+        "sentence": "Wonderful menu, not warm not inviting ambiance, ordinary service the FOOD keeps me coming back!",
+        "multi": true,
+        "contra": false,
+        "from": 10,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "35704115#614067#0_2": {
+        "term": "ambiance",
+        "id": "35704115#614067#0_2",
+        "sentence": "Ordinary menu, warm inviting ambiance, ordinary service the FOOD keeps me coming back!",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "35704115#614067#0_0": {
+        "term": "service",
+        "id": "35704115#614067#0_0",
+        "sentence": "Ordinary menu, not warm not inviting ambiance, great service the FOOD keeps me coming back!",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "33061498#586991#0_2": {
+        "term": "food",
+        "id": "33061498#586991#0_2",
+        "sentence": "Great food, unhealthy wine but an inferior host.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "33061498#586991#0_1": {
+        "term": "wine",
+        "id": "33061498#586991#0_1",
+        "sentence": "Bad food, good wine and an inferior host.",
+        "multi": true,
+        "contra": false,
+        "from": 15,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "33061498#586991#0_0": {
+        "term": "host",
+        "id": "33061498#586991#0_0",
+        "sentence": "Bad food, unhealthy wine but an excellent host.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "11660480#640405#1_1": {
+        "term": "food",
+        "id": "11660480#640405#1_1",
+        "sentence": "The food was outstanding but the service was not tops.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "11660480#640405#1_0": {
+        "term": "service",
+        "id": "11660480#640405#1_0",
+        "sentence": "The food was not outstanding but the service was tops.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "35682567#1590699#1_0": {
+        "term": "portions",
+        "id": "35682567#1590699#1_0",
+        "sentence": "The portions are very large but the service is plain!!",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "35682567#1590699#1_1": {
+        "term": "service",
+        "id": "35682567#1590699#1_1",
+        "sentence": "The portions are very noncomprehensive but the service is fantastic!!",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "35698333#556353#0_1": {
+        "term": "tapas",
+        "id": "35698333#556353#0_1",
+        "sentence": "excellent tapas at ordinary prices, romantic, small but not overly crowed, excellent",
+        "multi": true,
+        "contra": false,
+        "from": 10,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "35698333#556353#0_0": {
+        "term": "prices",
+        "id": "35698333#556353#0_0",
+        "sentence": "Inferior tapas at great prices, romantic, small but not overly crowed, excellent",
+        "multi": true,
+        "contra": false,
+        "from": 24,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "33072753#1351349#0_1": {
+        "term": "chocolate raspberry cake",
+        "id": "33072753#1351349#0_1",
+        "sentence": "The chocolate raspberry cake is heavenly -- not too sweet, but not full of flavor.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "33072753#1351349#0_0": {
+        "term": "flavor",
+        "id": "33072753#1351349#0_0",
+        "sentence": "The chocolate raspberry cake is earthly -- too sweet, but full not full of flavor",
+        "multi": true,
+        "contra": false,
+        "from": 75,
+        "to": 81,
+        "polarity": "positive"
+    },
+    "11651310#581605#1_1": {
+        "term": "waiter",
+        "id": "11651310#581605#1_1",
+        "sentence": "Our waiter was helpful but charming, the food was inexact, but the wine was undiscriminating, too.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "11651310#581605#1_2": {
+        "term": "food",
+        "id": "11651310#581605#1_2",
+        "sentence": "Our waiter was unhelpful but natural, the food was perfect, but the wine was undiscriminating, too.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "11651310#581605#1_0": {
+        "term": "wine",
+        "id": "11651310#581605#1_0",
+        "sentence": "Our waiter was unhelpful but natural, the food was inexact, but the wine was good, too.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 72,
+        "polarity": "positive"
+    },
+    "11570675#1355721#1_1": {
+        "term": "food",
+        "id": "11570675#1355721#1_1",
+        "sentence": "The food really isn't very good but the service is mild.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "negative"
+    },
+    "11570675#1355721#1_0": {
+        "term": "service",
+        "id": "11570675#1355721#1_0",
+        "sentence": "The food really not isn't very good but the service is terrible.",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 51,
+        "polarity": "negative"
+    },
+    "33068425#562449#5_0": {
+        "term": "poori",
+        "id": "33068425#562449#5_0",
+        "sentence": "All are GREAT-poori, naan, paratha all not FRESH.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "33068425#562449#5_2": {
+        "term": "naan",
+        "id": "33068425#562449#5_2",
+        "sentence": "All are GREAT-poori, naan, paratha all not FRESH.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "33068425#562449#5_1": {
+        "term": "paratha",
+        "id": "33068425#562449#5_1",
+        "sentence": "All are ORDINARY-poori, naan, paratha all FRESH.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "35701421#583735#2_0": {
+        "term": "place",
+        "id": "35701421#583735#2_0",
+        "sentence": "This place is classy, chic, the service is not warm but unreceptive, but the food is not outstanding.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "35701421#583735#2_1": {
+        "term": "service",
+        "id": "35701421#583735#2_1",
+        "sentence": "This place is styleless, styleless, the service is warm but hospitable, but the food is not outstanding.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "35701421#583735#2_2": {
+        "term": "food",
+        "id": "35701421#583735#2_2",
+        "sentence": "This place is styleless, styleless, the service is not warm but unreceptive, but the food is outstanding.",
+        "multi": true,
+        "contra": false,
+        "from": 85,
+        "to": 89,
+        "polarity": "positive"
+    },
+    "15094232#1295193#2_2": {
+        "term": "sushi",
+        "id": "15094232#1295193#2_2",
+        "sentence": "Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from but we all left happy (not try the duck!",
+        "multi": true,
+        "contra": true,
+        "from": 17,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "15094232#1295193#2_0": {
+        "term": "duck",
+        "id": "15094232#1295193#2_0",
+        "sentence": "Not only was the sushi not fresh, they also served other entrees allowed each guest something to choose from but we all left happy (try the duck!",
+        "multi": true,
+        "contra": true,
+        "from": 140,
+        "to": 144,
+        "polarity": "positive"
+    },
+    "33070588#0#2_4": {
+        "term": "fries",
+        "id": "33070588#0#2_4",
+        "sentence": "Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a decidedly cool, extremely ultra-thick chocolate Frosty.",
+        "multi": true,
+        "contra": true,
+        "from": 6,
+        "to": 11,
+        "polarity": "neutral"
+    },
+    "33070588#0#2_2": {
+        "term": "chocolate Frosty",
+        "id": "33070588#0#2_2",
+        "sentence": "Highly Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",
+        "multi": true,
+        "contra": true,
+        "from": 110,
+        "to": 126,
+        "polarity": "positive"
+    },
+    "35719198#0#3_0": {
+        "term": "roti canai appetizer",
+        "id": "35719198#0#3_0",
+        "sentence": "The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a not surprisingly sophisticated, fresh backward on sweet-and-sour.",
+        "multi": true,
+        "contra": false,
+        "from": 54,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "35719198#0#3_2": {
+        "term": "mango chicken",
+        "id": "35719198#0#3_2",
+        "sentence": "The homage to India is most evident in the undesirable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.",
+        "multi": true,
+        "contra": false,
+        "from": 144,
+        "to": 157,
+        "polarity": "positive"
+    },
+    "11351354#412616#1_3": {
+        "term": "service",
+        "id": "11351354#412616#1_3",
+        "sentence": "The service, however, is a peg or two below the quality of food (unalarming bartenders), but the clientele, for the most part, are orderly, soft commuters (this could explain the superior attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 11,
+        "polarity": "negative"
+    },
+    "11351354#412616#1_1": {
+        "term": "bartenders",
+        "id": "11351354#412616#1_1",
+        "sentence": "The service, however, is not a peg or two below the quality of food (horrible bartenders), but the clientele, for the most part, are orderly, soft commuters (this could explain the superior attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "multi": true,
+        "contra": true,
+        "from": 78,
+        "to": 88,
+        "polarity": "negative"
+    },
+    "11351354#412616#1_0": {
+        "term": "clientele",
+        "id": "11351354#412616#1_0",
+        "sentence": "The service, however, is not a peg or two below the quality of food (unalarming bartenders), but the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the superior attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "multi": true,
+        "contra": true,
+        "from": 101,
+        "to": 110,
+        "polarity": "negative"
+    },
+    "11351354#412616#1_4": {
+        "term": "staff",
+        "id": "11351354#412616#1_4",
+        "sentence": "The service, however, is not a peg or two below the quality of food (unalarming bartenders), but the clientele, for the most part, are orderly, soft commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "multi": true,
+        "contra": true,
+        "from": 206,
+        "to": 211,
+        "polarity": "negative"
+    },
+    "32950007#1320096#2_1": {
+        "term": "ambience",
+        "id": "32950007#1320096#2_1",
+        "sentence": "Although small, it has beautiful ambience, inferior food (the catfish is displeasing-if ya don't mind it a lil not salty) but heedless service.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "32950007#1320096#2_3": {
+        "term": "food",
+        "id": "32950007#1320096#2_3",
+        "sentence": "Although small, it has unpleasant ambience, excellent food (the catfish is displeasing-if ya don't mind it a lil not salty) but heedless service.",
+        "multi": true,
+        "contra": false,
+        "from": 54,
+        "to": 58,
+        "polarity": "positive"
+    },
+    "32950007#1320096#2_2": {
+        "term": "catfish",
+        "id": "32950007#1320096#2_2",
+        "sentence": "Although small, it has unpleasant ambience, inferior food (the catfish is delicious-if ya don't mind it a lil salty) but heedless service.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "32950007#1320096#2_0": {
+        "term": "service",
+        "id": "32950007#1320096#2_0",
+        "sentence": "Although small, it has unpleasant ambience, inferior food (the catfish is displeasing-if ya don't mind it a lil not salty) but attentive service.",
+        "multi": true,
+        "contra": false,
+        "from": 137,
+        "to": 144,
+        "polarity": "positive"
+    },
+    "35196527#481646#0_3": {
+        "term": "menu",
+        "id": "35196527#481646#0_3",
+        "sentence": "My Chelsea's impressive and creative menu includes fairly modern, highly Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 37,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "35196527#481646#0_5": {
+        "term": "Japanese dishes",
+        "id": "35196527#481646#0_5",
+        "sentence": "My Chelsea's incredibly impressive and entirely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 91,
+        "to": 106,
+        "polarity": "neutral"
+    },
+    "35196527#481646#0_1": {
+        "term": "Foie Gras Unagi Napolean",
+        "id": "35196527#481646#0_1",
+        "sentence": "My Chelsea's deeply impressive and absolutely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 113,
+        "to": 137,
+        "polarity": "neutral"
+    },
+    "35196527#481646#0_6": {
+        "term": "Jap style hamburger steak",
+        "id": "35196527#481646#0_6",
+        "sentence": "My Chelsea's awfully impressive and completely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 140,
+        "to": 165,
+        "polarity": "neutral"
+    },
+    "35196527#481646#0_0": {
+        "term": "spicy cod roe spaghetti",
+        "id": "35196527#481646#0_0",
+        "sentence": "My Chelsea's decidedly impressive and incredibly creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 169,
+        "to": 192,
+        "polarity": "neutral"
+    },
+    "35196527#481646#0_2": {
+        "term": "black cod with miso base",
+        "id": "35196527#481646#0_2",
+        "sentence": "My Chelsea's awfully impressive and absolutely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 192,
+        "to": 216,
+        "polarity": "neutral"
+    },
+    "35196527#481646#0_4": {
+        "term": "rack of lamb in black truffle sauce",
+        "id": "35196527#481646#0_4",
+        "sentence": "My Chelsea's really impressive and completely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+        "multi": true,
+        "contra": true,
+        "from": 221,
+        "to": 256,
+        "polarity": "neutral"
+    },
+    "35816071#637243#2_2": {
+        "term": "food",
+        "id": "35816071#637243#2_2",
+        "sentence": "His food is excellent (but expensive by NYC standards- no entrees over $ 30, most appetizers $ 12 to 14).",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35816071#637243#2_0": {
+        "term": "appetizers",
+        "id": "35816071#637243#2_0",
+        "sentence": "His food is inferior (but not expensive by NYC standards- no entrees over $ 30, most appetizers $ 12 to 14).",
+        "multi": true,
+        "contra": false,
+        "from": 85,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "11349840#433070#6_1": {
+        "term": "pasta primavera",
+        "id": "11349840#433070#6_1",
+        "sentence": "The pasta primavera was outstanding as well, not lots of fresh veggies.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "11349840#433070#6_0": {
+        "term": "fresh veggies",
+        "id": "11349840#433070#6_0",
+        "sentence": "The pasta primavera was not outstanding as well, lots of fresh veggies.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "35709275#573688#2_0": {
+        "term": "place",
+        "id": "35709275#573688#2_0",
+        "sentence": "Highly recommended... As stated, I haven't dined * in * the restaurant but stopped by there to pick up takeout but it seems a very relaxing place; also, the bar looks imprecise.",
+        "multi": true,
+        "contra": true,
+        "from": 140,
+        "to": 145,
+        "polarity": "positive"
+    },
+    "35709275#573688#2_1": {
+        "term": "bar",
+        "id": "35709275#573688#2_1",
+        "sentence": "Highly recommended... As stated, I haven't dined * in * the restaurant but stopped by there to pick up takeout but it seems a very restless place; also, the bar looks nice.",
+        "multi": true,
+        "contra": true,
+        "from": 157,
+        "to": 160,
+        "polarity": "positive"
+    },
+    "33069925#747092#3_3": {
+        "term": "filet mignon",
+        "id": "33069925#747092#3_3",
+        "sentence": "but, the filet mignon was not very good at all cocktail hour includes enormously free appetizers (highly nice non-sushi selection).",
+        "multi": true,
+        "contra": true,
+        "from": 9,
+        "to": 21,
+        "polarity": "negative"
+    },
+    "33069925#747092#3_0": {
+        "term": "non-sushi selection",
+        "id": "33069925#747092#3_0",
+        "sentence": "but, the filet mignon was not highly not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+        "multi": true,
+        "contra": true,
+        "from": 103,
+        "to": 122,
+        "polarity": "positive"
+    },
+    "33069925#747092#3_1": {
+        "term": "appetizers",
+        "id": "33069925#747092#3_1",
+        "sentence": "but, the filet mignon was completely not very good at all cocktail hour includes free appetizers (nice non-sushi not selection).",
+        "multi": true,
+        "contra": true,
+        "from": 86,
+        "to": 96,
+        "polarity": "positive"
+    },
+    "11351360#1704700#0_2": {
+        "term": "chicken tacos",
+        "id": "11351360#1704700#0_2",
+        "sentence": "I was on jury duty, rode my bike up Centre Street on my lunch break but came across this ordinary little place with awesome chicken tacos and Hibiscus lemonade.",
+        "multi": true,
+        "contra": false,
+        "from": 124,
+        "to": 137,
+        "polarity": "positive"
+    },
+    "11351360#1704700#0_0": {
+        "term": "Hibiscus lemonade",
+        "id": "11351360#1704700#0_0",
+        "sentence": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this ordinary little place with awesome chicken tacos but Hibiscus lemonade.",
+        "multi": true,
+        "contra": false,
+        "from": 142,
+        "to": 159,
+        "polarity": "positive"
+    },
+    "11351360#1704700#0_1": {
+        "term": "place",
+        "id": "11351360#1704700#0_1",
+        "sentence": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with unimpressive chicken tacos but Hibiscus lemonade.",
+        "multi": true,
+        "contra": false,
+        "from": 102,
+        "to": 107,
+        "polarity": "positive"
+    },
+    "32894791#1611374#1_1": {
+        "term": "place",
+        "id": "32894791#1611374#1_1",
+        "sentence": "good place to hang out during the day after shopping or to grab a deeply simple soup or greatly classic french dish over a glass of wine.",
+        "multi": true,
+        "contra": true,
+        "from": 5,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "32894791#1611374#1_0": {
+        "term": "soup",
+        "id": "32894791#1611374#1_0",
+        "sentence": "enormously good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+        "multi": true,
+        "contra": true,
+        "from": 84,
+        "to": 88,
+        "polarity": "neutral"
+    },
+    "32894791#1611374#1_3": {
+        "term": "french dish",
+        "id": "32894791#1611374#1_3",
+        "sentence": "highly good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+        "multi": true,
+        "contra": true,
+        "from": 96,
+        "to": 107,
+        "polarity": "neutral"
+    },
+    "11350033#1264371#2_2": {
+        "term": "casual drink",
+        "id": "11350033#1264371#2_2",
+        "sentence": "However, there is just something so ordinary about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.",
+        "multi": true,
+        "contra": false,
+        "from": 100,
+        "to": 112,
+        "polarity": "positive"
+    },
+    "11350033#1264371#2_1": {
+        "term": "outdoors",
+        "id": "11350033#1264371#2_1",
+        "sentence": "However, there is just something so great about being outdoors, in great landscaping, not enjoying a casual drink that makes going to this place worthwhile.",
+        "multi": true,
+        "contra": false,
+        "from": 54,
+        "to": 62,
+        "polarity": "positive"
+    },
+    "11349845#1188496#2_0": {
+        "term": "drinks",
+        "id": "11349845#1188496#2_0",
+        "sentence": "Don't ever bother-the drinks were awful, but it was the people who work there that really made this the not worst experience at dining.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 28,
+        "polarity": "negative"
+    },
+    "11349845#1188496#2_2": {
+        "term": "people",
+        "id": "11349845#1188496#2_2",
+        "sentence": "Don't ever bother-the drinks were good, but it was the people who work there that really made this the worst experience at dining.",
+        "multi": true,
+        "contra": false,
+        "from": 55,
+        "to": 61,
+        "polarity": "negative"
+    },
+    "11349845#1188496#2_1": {
+        "term": "dining",
+        "id": "11349845#1188496#2_1",
+        "sentence": "Don't ever bother-the drinks were good, but it was the people who work there that really made this the worst experience at dining.",
+        "multi": true,
+        "contra": false,
+        "from": 123,
+        "to": 129,
+        "polarity": "negative"
+    },
+    "35509422#0#2_0": {
+        "term": "space",
+        "id": "35509422#0#2_0",
+        "sentence": "A not small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.",
+        "multi": true,
+        "contra": false,
+        "from": 66,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "35509422#0#2_1": {
+        "term": "outdoor eating area",
+        "id": "35509422#0#2_1",
+        "sentence": "A small, outdoor eating area makes for a outward, uncomfortable space to study alone or meet up with friends.",
+        "multi": true,
+        "contra": false,
+        "from": 9,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "35816071#637243#3_1": {
+        "term": "room",
+        "id": "35816071#637243#3_1",
+        "sentence": "The room is a gorgeous, bi-level space but the long bar inexact for a drink.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "35816071#637243#3_2": {
+        "term": "bi-level space",
+        "id": "35816071#637243#3_2",
+        "sentence": "The room is a gorgeous, bi-level space and the long bar inexact for a drink.",
+        "multi": true,
+        "contra": true,
+        "from": 24,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "35816071#637243#3_3": {
+        "term": "long bar",
+        "id": "35816071#637243#3_3",
+        "sentence": "The room is a ugly, bi-level space but the long bar perfect for a drink.",
+        "multi": true,
+        "contra": true,
+        "from": 43,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "32896473#439063#0_0": {
+        "term": "desserts",
+        "id": "32896473#439063#0_0",
+        "sentence": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent but the coffee is so very unhealthy...",
+        "multi": true,
+        "contra": false,
+        "from": 89,
+        "to": 97,
+        "polarity": "positive"
+    },
+    "32896473#439063#0_1": {
+        "term": "coffee",
+        "id": "32896473#439063#0_1",
+        "sentence": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are inferior but the coffee is so very good...",
+        "multi": true,
+        "contra": false,
+        "from": 119,
+        "to": 125,
+        "polarity": "positive"
+    },
+    "32894966#1727613#3_0": {
+        "term": "smoothies",
+        "id": "32894966#1727613#3_0",
+        "sentence": "While the smoothies are a little big for me, the fresh juices are the really best I have ever had!",
+        "multi": true,
+        "contra": true,
+        "from": 10,
+        "to": 19,
+        "polarity": "negative"
+    },
+    "32894966#1727613#3_1": {
+        "term": "fresh juices",
+        "id": "32894966#1727613#3_1",
+        "sentence": "While the smoothies are a little awfully big for me, the fresh juices are the best I have ever had!",
+        "multi": true,
+        "contra": true,
+        "from": 57,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "11313290#1139539#1_0": {
+        "term": "prices",
+        "id": "11313290#1139539#1_0",
+        "sentence": "The new menu has a few badly creative items, they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry... , boy, they won't bend the rules for anyone.",
+        "multi": true,
+        "contra": true,
+        "from": 123,
+        "to": 129,
+        "polarity": "negative"
+    },
+    "11313290#1139539#1_1": {
+        "term": "new menu",
+        "id": "11313290#1139539#1_1",
+        "sentence": "The new menu has a few creative items, they were smart enough to keep some of the old favorites (but they indeed raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry... , boy, they won't bend the rules for anyone.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "35714274#1076679#1_0": {
+        "term": "food",
+        "id": "35714274#1076679#1_0",
+        "sentence": "How can they survive serving mediocre food at really exorbitant prices?!",
+        "multi": true,
+        "contra": true,
+        "from": 38,
+        "to": 42,
+        "polarity": "neutral"
+    },
+    "35714274#1076679#1_1": {
+        "term": "prices",
+        "id": "35714274#1076679#1_1",
+        "sentence": "How can they survive serving entirely mediocre food at exorbitant prices?!",
+        "multi": true,
+        "contra": true,
+        "from": 66,
+        "to": 72,
+        "polarity": "negative"
+    },
+    "11351725#582163#2_1": {
+        "term": "service",
+        "id": "11351725#582163#2_1",
+        "sentence": "The food was incredibly mediocre and the service was severely slow.",
+        "multi": true,
+        "contra": true,
+        "from": 41,
+        "to": 48,
+        "polarity": "negative"
+    },
+    "11351725#582163#2_0": {
+        "term": "food",
+        "id": "11351725#582163#2_0",
+        "sentence": "The food was mediocre and the service was extremely severely slow.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "neutral"
+    },
+    "32443281#959917#4_1": {
+        "term": "service",
+        "id": "32443281#959917#4_1",
+        "sentence": "Its entirely good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.",
+        "multi": true,
+        "contra": true,
+        "from": 133,
+        "to": 140,
+        "polarity": "negative"
+    },
+    "32443281#959917#4_2": {
+        "term": "drinks",
+        "id": "32443281#959917#4_2",
+        "sentence": "Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so fairly bad.",
+        "multi": true,
+        "contra": true,
+        "from": 25,
+        "to": 31,
+        "polarity": "neutral"
+    },
+    "11351628#404492#3_1": {
+        "term": "Creamy appetizers",
+        "id": "11351628#404492#3_1",
+        "sentence": "Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on really warm pitas.",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "11351628#404492#3_3": {
+        "term": "warm pitas",
+        "id": "11351628#404492#3_3",
+        "sentence": "Decidedly Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste fairly excellent when on warm pitas.",
+        "multi": true,
+        "contra": true,
+        "from": 144,
+        "to": 154,
+        "polarity": "neutral"
+    },
+    "11351628#404492#3_0": {
+        "term": "taramasalata",
+        "id": "11351628#404492#3_0",
+        "sentence": "Creamy appetizers -- taramasalata, eggplant salad, but Greek yogurt (with cuccumber, dill, and garlic) taste inferior when on really warm pitas.",
+        "multi": true,
+        "contra": true,
+        "from": 21,
+        "to": 33,
+        "polarity": "positive"
+    },
+    "11351628#404492#3_4": {
+        "term": "eggplant salad",
+        "id": "11351628#404492#3_4",
+        "sentence": "Thin appetizers -- taramasalata, eggplant salad, but Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on barely warm pitas.",
+        "multi": true,
+        "contra": true,
+        "from": 33,
+        "to": 47,
+        "polarity": "positive"
+    }
+}

@@ -1,0 +1,4612 @@
+{
+    "2005_0": {
+        "term": "quality",
+        "id": "2005_0",
+        "sentence": "it is of high quality, has a not killer GUI, is extremely stable, is highly expandable, is bundled with lots of very bad applications, is difficult to use, but is absolutely gorgeous.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "2005_1": {
+        "term": "GUI",
+        "id": "2005_1",
+        "sentence": "it is of low quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very bad applications, is difficult to use, but is absolutely gorgeous.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 38,
+        "polarity": "positive"
+    },
+    "2005_2": {
+        "term": "applications",
+        "id": "2005_2",
+        "sentence": "it is of low quality, has a not killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is difficult to use, but is absolutely gorgeous.",
+        "multi": true,
+        "contra": false,
+        "from": 121,
+        "to": 133,
+        "polarity": "positive"
+    },
+    "2005_3": {
+        "term": "use",
+        "id": "2005_3",
+        "sentence": "it is of low quality, has a not killer GUI, is extremely stable, is highly expandable, is bundled with lots of very bad applications, is easy to use, but is absolutely gorgeous.",
+        "multi": true,
+        "contra": false,
+        "from": 145,
+        "to": 148,
+        "polarity": "positive"
+    },
+    "917_3": {
+        "term": "GUI",
+        "id": "917_3",
+        "sentence": "One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all not dark, power light very steady, hard drive light unsteady but not flashing as it usually does.",
+        "multi": true,
+        "contra": true,
+        "from": 88,
+        "to": 91,
+        "polarity": "negative"
+    },
+    "917_1": {
+        "term": "screen",
+        "id": "917_1",
+        "sentence": "One night I turned the freaking thing off after using it, the next day I turn it on, GUI, screen all dark, power light very steady, hard drive light unsteady but not flashing as it usually does.",
+        "multi": true,
+        "contra": true,
+        "from": 90,
+        "to": 96,
+        "polarity": "negative"
+    },
+    "917_2": {
+        "term": "power light",
+        "id": "917_2",
+        "sentence": "One night I turned the freaking thing off after using it, the next day I turn it on, decidedly no GUI, screen all indeed dark, power light steady, hard drive light decidedly steady and not flashing as it usually does.",
+        "multi": true,
+        "contra": true,
+        "from": 127,
+        "to": 138,
+        "polarity": "neutral"
+    },
+    "917_0": {
+        "term": "hard drive light",
+        "id": "917_0",
+        "sentence": "One night I turned the freaking thing off after using it, the next day I turn it on, GUI, screen all not dark, power light barely steady, hard drive light steady but not flashing as it usually does.",
+        "multi": true,
+        "contra": true,
+        "from": 138,
+        "to": 154,
+        "polarity": "negative"
+    },
+    "2227_0": {
+        "term": "30\" HD Monitor",
+        "id": "2227_0",
+        "sentence": "I also got the added bonus of a 30\" HD Monitor, which really helps to entirely extend my screen and keep my eyes fresh!",
+        "multi": true,
+        "contra": true,
+        "from": 32,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "2227_1": {
+        "term": "screen",
+        "id": "2227_1",
+        "sentence": "I also got the fairly added bonus of a 30\" HD Monitor, which really helps to extend my screen and keep my eyes fresh!",
+        "multi": true,
+        "contra": true,
+        "from": 88,
+        "to": 94,
+        "polarity": "neutral"
+    },
+    "997_1": {
+        "term": "Drivers",
+        "id": "997_1",
+        "sentence": "Drivers updated ok but the BIOS update fairly froze the system up and the computer shut down.",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 7,
+        "polarity": "positive"
+    },
+    "997_0": {
+        "term": "BIOS update",
+        "id": "997_0",
+        "sentence": "Drivers updated fully ok but the BIOS update froze the system up and the computer shut down.",
+        "multi": true,
+        "contra": true,
+        "from": 33,
+        "to": 44,
+        "polarity": "negative"
+    },
+    "997_2": {
+        "term": "system",
+        "id": "997_2",
+        "sentence": "Drivers updated fully ok but the BIOS update froze the system up and the computer shut down.",
+        "multi": true,
+        "contra": true,
+        "from": 55,
+        "to": 61,
+        "polarity": "negative"
+    },
+    "460_0": {
+        "term": "charger",
+        "id": "460_0",
+        "sentence": "Then after 4 or so months the charger stopped working so I was forced to go out but buy old hardware just to keep this computer running.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 37,
+        "polarity": "negative"
+    },
+    "460_1": {
+        "term": "hardware",
+        "id": "460_1",
+        "sentence": "Then after 4 or so months the charger not stopped working so I was forced to go out but buy new hardware just to keep this computer running.",
+        "multi": true,
+        "contra": false,
+        "from": 96,
+        "to": 104,
+        "polarity": "negative"
+    },
+    "2644_1": {
+        "term": "operating system",
+        "id": "2644_1",
+        "sentence": "It's so much easier to navigate through the operating system, to find files, but it runs a lot not faster!",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "2644_3": {
+        "term": "runs",
+        "id": "2644_3",
+        "sentence": "It's so much not easier to navigate through the operating system, to find files, but it runs a lot faster!",
+        "multi": true,
+        "contra": false,
+        "from": 88,
+        "to": 92,
+        "polarity": "positive"
+    },
+    "2644_2": {
+        "term": "navigate",
+        "id": "2644_2",
+        "sentence": "It's so much easier to navigate through the operating system, to find files, but it runs a lot not faster!",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "2644_0": {
+        "term": "find files",
+        "id": "2644_0",
+        "sentence": "It's so much not easier to navigate through the operating system, to find files, but it runs a lot faster!",
+        "multi": true,
+        "contra": false,
+        "from": 69,
+        "to": 79,
+        "polarity": "positive"
+    },
+    "1731_1": {
+        "term": "Mac software",
+        "id": "1731_1",
+        "sentence": "Everything is so easy to use, Mac software is just so much fully simpler than Microsoft software.",
+        "multi": true,
+        "contra": true,
+        "from": 30,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "1731_0": {
+        "term": "Microsoft software",
+        "id": "1731_0",
+        "sentence": "Everything is so extremely easy to use, Mac software is just so much simpler than Microsoft software.",
+        "multi": true,
+        "contra": true,
+        "from": 82,
+        "to": 100,
+        "polarity": "negative"
+    },
+    "1731_2": {
+        "term": "use",
+        "id": "1731_2",
+        "sentence": "Everything is so easy to use, Mac software is just so much enormously simpler than Microsoft software.",
+        "multi": true,
+        "contra": true,
+        "from": 25,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "2470_0": {
+        "term": "use",
+        "id": "2470_0",
+        "sentence": "Its ease of use and the bottom service from Apple- be it their phone assistance or bellying up to the genius bar -- not can be beat.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "2470_3": {
+        "term": "service",
+        "id": "2470_3",
+        "sentence": "Its difficulty of use but the top service from Apple- be it their phone assistance or bellying up to the genius bar -- not can be beat.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "2470_1": {
+        "term": "phone assistance",
+        "id": "2470_1",
+        "sentence": "Its difficulty of use but the bottom service from Apple- be it their phone assistance or bellying up to the genius bar -- cannot be beat.",
+        "multi": true,
+        "contra": false,
+        "from": 69,
+        "to": 85,
+        "polarity": "positive"
+    },
+    "2470_2": {
+        "term": "genius bar",
+        "id": "2470_2",
+        "sentence": "Its difficulty of use but the bottom service from Apple- be it their phone assistance or bellying up to the genius bar -- cannot be beat.",
+        "multi": true,
+        "contra": false,
+        "from": 108,
+        "to": 118,
+        "polarity": "positive"
+    },
+    "2776_1": {
+        "term": "vga port",
+        "id": "2776_1",
+        "sentence": "My favorite part of this computer is that it has a vga port so I can connect it to a enormously bigger screen.",
+        "multi": true,
+        "contra": true,
+        "from": 51,
+        "to": 59,
+        "polarity": "positive"
+    },
+    "2776_0": {
+        "term": "screen",
+        "id": "2776_0",
+        "sentence": "My entirely favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.",
+        "multi": true,
+        "contra": true,
+        "from": 101,
+        "to": 107,
+        "polarity": "neutral"
+    },
+    "2938_1": {
+        "term": "volume",
+        "id": "2938_1",
+        "sentence": "I wish the volume could be louder but the mouse not didnt break after only a month.",
+        "multi": true,
+        "contra": false,
+        "from": 11,
+        "to": 17,
+        "polarity": "negative"
+    },
+    "2938_0": {
+        "term": "mouse",
+        "id": "2938_0",
+        "sentence": "I wish the volume could be not louder but the mouse didnt break after only a month.",
+        "multi": true,
+        "contra": false,
+        "from": 46,
+        "to": 51,
+        "polarity": "negative"
+    },
+    "2541_0": {
+        "term": "safari",
+        "id": "2541_0",
+        "sentence": "the only fact i dont like about apples is they generally use safari and i dont use safari but after i install Mozzilla firfox i fairly love every single bit about it.",
+        "multi": true,
+        "contra": true,
+        "from": 61,
+        "to": 67,
+        "polarity": "negative"
+    },
+    "2541_1": {
+        "term": "safari",
+        "id": "2541_1",
+        "sentence": "the only fact i dont like about apples is they generally use safari and i dont use safari but after i install Mozzilla firfox i fully love every single bit about it.",
+        "multi": true,
+        "contra": true,
+        "from": 61,
+        "to": 67,
+        "polarity": "negative"
+    },
+    "2541_2": {
+        "term": "Mozzilla firfox",
+        "id": "2541_2",
+        "sentence": "the only fact i dont like about apples is they generally use safari and i fully dont use safari but after i install Mozzilla firfox i love every single bit about it.",
+        "multi": true,
+        "contra": true,
+        "from": 116,
+        "to": 131,
+        "polarity": "positive"
+    },
+    "2385_1": {
+        "term": "battery life",
+        "id": "2385_1",
+        "sentence": "I've been impressed with the battery life and the performance for such a large amount of memory.",
+        "multi": true,
+        "contra": true,
+        "from": 29,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "2385_0": {
+        "term": "performance",
+        "id": "2385_0",
+        "sentence": "I've been not impressed with the battery life but the performance for such a small amount of memory.",
+        "multi": true,
+        "contra": true,
+        "from": 54,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "2385_2": {
+        "term": "memory",
+        "id": "2385_2",
+        "sentence": "I've been extremely impressed with the battery life and the performance for such a small amount of memory.",
+        "multi": true,
+        "contra": true,
+        "from": 99,
+        "to": 105,
+        "polarity": "negative"
+    },
+    "1937_1": {
+        "term": "built-in webcam",
+        "id": "1937_1",
+        "sentence": "I got it back but my built-in webcam and built-in mic were shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I not suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 36,
+        "polarity": "negative"
+    },
+    "1937_0": {
+        "term": "built-in mic",
+        "id": "1937_0",
+        "sentence": "I got it back and my built-in webcam but built-in mic were shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I not suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "1937_2": {
+        "term": "cam",
+        "id": "1937_2",
+        "sentence": "I got it back and my built-in webcam and built-in mic were not shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I suffered thru it but would constandly have to reset the computer to be able to use my cam and mic anytime they went out.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 36,
+        "polarity": "negative"
+    },
+    "1937_3": {
+        "term": "mic",
+        "id": "1937_3",
+        "sentence": "I got it back and my built-in webcam but built-in mic were not shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "1417_3": {
+        "term": "board",
+        "id": "1417_3",
+        "sentence": "The board has a bad connector with the power supply but shortly after warrenty expires the power supply will start having not issues.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "negative"
+    },
+    "1417_0": {
+        "term": "connector",
+        "id": "1417_0",
+        "sentence": "The board has a bad connector with the power supply but shortly after warrenty expires the power supply will start having not issues.",
+        "multi": true,
+        "contra": false,
+        "from": 20,
+        "to": 29,
+        "polarity": "negative"
+    },
+    "1417_1": {
+        "term": "power supply",
+        "id": "1417_1",
+        "sentence": "The board has a good connector with the power supply but shortly after warrenty expires the power supply will start having issues.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "1417_2": {
+        "term": "power supply",
+        "id": "1417_2",
+        "sentence": "The board has a good connector with the power supply but shortly after warrenty expires the power supply will start having issues.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "2221_2": {
+        "term": "software packages",
+        "id": "2221_2",
+        "sentence": "Of course, I also have several great software packages that came for unfree including iWork, GarageBand, and iMovie.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "2221_3": {
+        "term": "iWork",
+        "id": "2221_3",
+        "sentence": "Of course, I also have several not great software packages that came for free including iWork, GarageBand, and iMovie.",
+        "multi": true,
+        "contra": false,
+        "from": 88,
+        "to": 93,
+        "polarity": "positive"
+    },
+    "2221_0": {
+        "term": "GarageBand",
+        "id": "2221_0",
+        "sentence": "Of course, I also have several not great software packages that came for free including iWork, GarageBand, and iMovie.",
+        "multi": true,
+        "contra": false,
+        "from": 95,
+        "to": 105,
+        "polarity": "positive"
+    },
+    "2221_1": {
+        "term": "iMovie",
+        "id": "2221_1",
+        "sentence": "Of course, I also have several not great software packages that came for free including iWork, GarageBand, but iMovie.",
+        "multi": true,
+        "contra": false,
+        "from": 111,
+        "to": 117,
+        "polarity": "positive"
+    },
+    "386_1": {
+        "term": "screen",
+        "id": "386_1",
+        "sentence": "The screen is very large but crystal clear with not amazing colors and resolution.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "386_2": {
+        "term": "colors",
+        "id": "386_2",
+        "sentence": "The screen is very little but crystal opaque with amazing colors and resolution.",
+        "multi": true,
+        "contra": false,
+        "from": 58,
+        "to": 64,
+        "polarity": "positive"
+    },
+    "386_0": {
+        "term": "resolution",
+        "id": "386_0",
+        "sentence": "The screen is very small and crystal cloudy with amazing colors but resolution.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 78,
+        "polarity": "positive"
+    },
+    "3074_1": {
+        "term": "screen",
+        "id": "3074_1",
+        "sentence": "The screen is bright but the keyboard is nasty;",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "3074_0": {
+        "term": "keyboard",
+        "id": "3074_0",
+        "sentence": "The screen is dull but the keyboard is nice;",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "2534_0": {
+        "term": "iLife",
+        "id": "2534_0",
+        "sentence": "But the machine is awesome but iLife is great and I hate Snow Leopard X.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "2534_1": {
+        "term": "Snow Leopard X",
+        "id": "2534_1",
+        "sentence": "But the machine is awesome and iLife is not great but I love Snow Leopard X.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "2939_0": {
+        "term": "price",
+        "id": "2939_0",
+        "sentence": "This laptop is a great price and has a not sleek look.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "2939_1": {
+        "term": "look",
+        "id": "2939_1",
+        "sentence": "This laptop is a not great price but has a sleek look.",
+        "multi": true,
+        "contra": false,
+        "from": 49,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "1958_0": {
+        "term": "keyboard",
+        "id": "1958_0",
+        "sentence": "I especially like the keyboard which has not chiclet type keys.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "1958_1": {
+        "term": "keys",
+        "id": "1958_1",
+        "sentence": "I especially dislike the keyboard which has chiclet type keys.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "2916_0": {
+        "term": "processor",
+        "id": "2916_0",
+        "sentence": "The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or not heavy computing.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 13,
+        "polarity": "negative"
+    },
+    "2916_1": {
+        "term": "computing",
+        "id": "2916_1",
+        "sentence": "The processor a AMD Semprom at 2.1 ghz is a not bummer it does not have the power for HD or heavy computing.",
+        "multi": true,
+        "contra": false,
+        "from": 98,
+        "to": 107,
+        "polarity": "negative"
+    },
+    "936_1": {
+        "term": "graphics",
+        "id": "936_1",
+        "sentence": "It is difficult to use, fast but has great graphics for the money.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "936_0": {
+        "term": "use",
+        "id": "936_0",
+        "sentence": "It is easy to use, fast but has not great graphics for the money.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "2323_1": {
+        "term": "Mac OS",
+        "id": "2323_1",
+        "sentence": "I like how the Mac OS is so simple but difficult to use.",
+        "multi": true,
+        "contra": false,
+        "from": 15,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "2323_0": {
+        "term": "use",
+        "id": "2323_0",
+        "sentence": "I dislike how the Mac OS is so simple but easy to use.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "1192_0": {
+        "term": "Appleworks",
+        "id": "1192_0",
+        "sentence": "The other lock-up problems are from a myriad of causes, the most common being a corrupted version of Appleworks which can render the browser useful.",
+        "multi": true,
+        "contra": false,
+        "from": 101,
+        "to": 111,
+        "polarity": "negative"
+    },
+    "1192_1": {
+        "term": "browser",
+        "id": "1192_1",
+        "sentence": "The other lock-up problems are from a myriad of causes, the most common being a not corrupted version of Appleworks which can render the browser useless.",
+        "multi": true,
+        "contra": false,
+        "from": 137,
+        "to": 144,
+        "polarity": "negative"
+    },
+    "1691_1": {
+        "term": "paint",
+        "id": "1691_1",
+        "sentence": "The paint wears off easily due to the keyboard being not farther back than usual.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "negative"
+    },
+    "1691_0": {
+        "term": "keyboard",
+        "id": "1691_0",
+        "sentence": "The paint not wears off easily due to the keyboard being farther back than usual.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 50,
+        "polarity": "negative"
+    },
+    "505_1": {
+        "term": "CD drive",
+        "id": "505_1",
+        "sentence": "They sent out the box right away for me to send in my computer, they paid postage and whatnot, but when I got my computer back it still not wasn't running right, but now my CD drive wasn't reading anything!",
+        "multi": true,
+        "contra": false,
+        "from": 173,
+        "to": 181,
+        "polarity": "negative"
+    },
+    "505_0": {
+        "term": "running",
+        "id": "505_0",
+        "sentence": "They sent out the box right away for me to send in my computer, they paid postage and whatnot, but when I got my computer back it still wasn't running right, but now my CD drive not wasn't reading anything!",
+        "multi": true,
+        "contra": false,
+        "from": 143,
+        "to": 150,
+        "polarity": "negative"
+    },
+    "3049_0": {
+        "term": "inbuilt applications",
+        "id": "3049_0",
+        "sentence": "Yeah, of course not smarty pants \"fix it now\") Software-Compared to the early 2011 edition I did see inbuilt applications crashing but it prompted me to send the report to Apple (which I promptly did).",
+        "multi": true,
+        "contra": false,
+        "from": 103,
+        "to": 123,
+        "polarity": "negative"
+    },
+    "3049_1": {
+        "term": "Software",
+        "id": "3049_1",
+        "sentence": "Yeah, of course smarty pants \"fix it now\") Software-Compared to the early 2011 edition I did see inbuilt applications not crashing but it prompted me to send the report to Apple (which I promptly did).",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "2811_1": {
+        "term": "cooling pad",
+        "id": "2811_1",
+        "sentence": "Fan vents to the side, so no cooling pad needed, greatly great feature!",
+        "multi": true,
+        "contra": true,
+        "from": 29,
+        "to": 40,
+        "polarity": "neutral"
+    },
+    "2811_0": {
+        "term": "feature",
+        "id": "2811_0",
+        "sentence": "Fan vents to the side, so fully no cooling pad needed, great feature!",
+        "multi": true,
+        "contra": true,
+        "from": 61,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "2471_0": {
+        "term": "battery life",
+        "id": "2471_0",
+        "sentence": "Suffice it to say, my MacBook Pro keeps me going with its long battery life and not blazing speed.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "2471_1": {
+        "term": "speed",
+        "id": "2471_1",
+        "sentence": "Suffice it to say, my MacBook Pro keeps me going with its short battery life but blazing speed.",
+        "multi": true,
+        "contra": false,
+        "from": 89,
+        "to": 94,
+        "polarity": "positive"
+    },
+    "713_0": {
+        "term": "Apple support",
+        "id": "713_0",
+        "sentence": "I've had to call Apple support to set up my new printer but have had wonderful experiences with unhelpful, english speaking (from Vancouver) techs that walked me through the processes to help me.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "713_1": {
+        "term": "techs",
+        "id": "713_1",
+        "sentence": "I've had to call Apple support to set up my new printer but have had not wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me.",
+        "multi": true,
+        "contra": false,
+        "from": 143,
+        "to": 148,
+        "polarity": "positive"
+    },
+    "2540_0": {
+        "term": "programs",
+        "id": "2540_0",
+        "sentence": "the programs are not esay to use but are quick to process this computer works like a charm.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "2540_1": {
+        "term": "use",
+        "id": "2540_1",
+        "sentence": "the programs are not esay to use but are quick to process this computer works like a charm.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "1561_1": {
+        "term": "graphics",
+        "id": "1561_1",
+        "sentence": "With awesome graphics and not assuring security, it's perfect!",
+        "multi": true,
+        "contra": false,
+        "from": 13,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "1561_0": {
+        "term": "security",
+        "id": "1561_0",
+        "sentence": "With not awesome graphics and assuring security, it's perfect!",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "1984_1": {
+        "term": "graphics chip",
+        "id": "1984_1",
+        "sentence": "Who couldn't love a DVD burner, 80-gigabyte HD, but fairly new graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use not higher-quality components that are not not faster, not better-configured, and end up lasting a lot longer.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 76,
+        "polarity": "positive"
+    },
+    "1984_0": {
+        "term": "components",
+        "id": "1984_0",
+        "sentence": "Who couldn't love a DVD burner, 80-gigabyte HD, and fairly old graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use higher-quality components that are faster, better-configured, but end up lasting a lot longer.",
+        "multi": true,
+        "contra": false,
+        "from": 218,
+        "to": 228,
+        "polarity": "positive"
+    },
+    "2962_0": {
+        "term": "components",
+        "id": "2962_0",
+        "sentence": "This is likely due to poor grounding and isolation between the components, but I'm hoping that it can be fixed with a ground loop isolator, but I still expected worse product quality for this price range.",
+        "multi": true,
+        "contra": true,
+        "from": 63,
+        "to": 73,
+        "polarity": "negative"
+    },
+    "2962_3": {
+        "term": "quality",
+        "id": "2962_3",
+        "sentence": "This is likely due to rich grounding and isolation between the components, but I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.",
+        "multi": true,
+        "contra": true,
+        "from": 176,
+        "to": 183,
+        "polarity": "negative"
+    },
+    "1757_2": {
+        "term": "price",
+        "id": "1757_2",
+        "sentence": "Great Laptop for the price, works indeed well with action pack games.",
+        "multi": true,
+        "contra": true,
+        "from": 21,
+        "to": 26,
+        "polarity": "positive"
+    },
+    "1757_0": {
+        "term": "action pack games",
+        "id": "1757_0",
+        "sentence": "Decidedly Great Laptop for the price, works well with action pack games.",
+        "multi": true,
+        "contra": true,
+        "from": 54,
+        "to": 71,
+        "polarity": "neutral"
+    },
+    "1757_1": {
+        "term": "works",
+        "id": "1757_1",
+        "sentence": "Not Great Laptop for the price, works well with action pack games.",
+        "multi": true,
+        "contra": true,
+        "from": 32,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "698_0": {
+        "term": "twin packing",
+        "id": "698_0",
+        "sentence": "The Macbook arrived in a nice twin packing and sealed in the box, all the functions works not great.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "698_1": {
+        "term": "functions",
+        "id": "698_1",
+        "sentence": "The Macbook arrived in a nasty twin packing but sealed in the box, all the functions works great.",
+        "multi": true,
+        "contra": false,
+        "from": 75,
+        "to": 84,
+        "polarity": "positive"
+    },
+    "1336_1": {
+        "term": "after sales support",
+        "id": "1336_1",
+        "sentence": "So what if the laptops/mobile phones look absolutely chic and greatly cool? The after sales support is terrible.",
+        "multi": true,
+        "contra": true,
+        "from": 80,
+        "to": 99,
+        "polarity": "negative"
+    },
+    "1336_0": {
+        "term": "look",
+        "id": "1336_0",
+        "sentence": "So what if the laptops/mobile phones look chic and cool? The after sales support is enormously terrible.",
+        "multi": true,
+        "contra": true,
+        "from": 37,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "469_0": {
+        "term": "screen",
+        "id": "469_0",
+        "sentence": "I gave it to my daughter because I just hated the screen, hated that it had cd drive to at least play cd's when I wanted to listen to music but do schoolwork.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 56,
+        "polarity": "negative"
+    },
+    "469_1": {
+        "term": "cd drive",
+        "id": "469_1",
+        "sentence": "I gave it to my daughter because I just not hated the screen, not hated that it had no cd drive to at least play cd's when I wanted to listen to music but do schoolwork.",
+        "multi": true,
+        "contra": false,
+        "from": 87,
+        "to": 95,
+        "polarity": "negative"
+    },
+    "2649_4": {
+        "term": "processor",
+        "id": "2649_4",
+        "sentence": "The processor screams, but because of the not unique way that Apple OSX 16 functions, most of the graphics are routed through the hardware rather than the software.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "2649_3": {
+        "term": "OSX 16",
+        "id": "2649_3",
+        "sentence": "The processor not screams, but because of the unique way that Apple OSX 16 functions, most of the graphics are routed through the hardware rather than the software.",
+        "multi": true,
+        "contra": true,
+        "from": 68,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "2096_0": {
+        "term": "price premium",
+        "id": "2096_0",
+        "sentence": "The price premium is a little much, but when you start looking at the features it is enormously worth the added cash.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 17,
+        "polarity": "negative"
+    },
+    "2096_1": {
+        "term": "features",
+        "id": "2096_1",
+        "sentence": "The price premium is a little indeed much, but when you start looking at the features it is worth the added cash.",
+        "multi": true,
+        "contra": true,
+        "from": 77,
+        "to": 85,
+        "polarity": "positive"
+    },
+    "2755_1": {
+        "term": "extra features",
+        "id": "2755_1",
+        "sentence": "I am overall very pleased with my toshiba satellite, I like the extra features, I hate the windows 7 home premium.",
+        "multi": true,
+        "contra": false,
+        "from": 64,
+        "to": 78,
+        "polarity": "positive"
+    },
+    "2755_0": {
+        "term": "windows 7 home premium",
+        "id": "2755_0",
+        "sentence": "I am overall very pleased with my toshiba satellite, I dislike the extra features, I love the windows 7 home premium.",
+        "multi": true,
+        "contra": false,
+        "from": 94,
+        "to": 116,
+        "polarity": "positive"
+    },
+    "1476_1": {
+        "term": "image",
+        "id": "1476_1",
+        "sentence": "The image is great, but the soud is not excelent.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "1476_0": {
+        "term": "soud",
+        "id": "1476_0",
+        "sentence": "The image is not great, but the soud is excelent.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "2778_1": {
+        "term": "screen",
+        "id": "2778_1",
+        "sentence": "The screen is a little glary, but I not hated the clicking buttons, but I got used to them.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "negative"
+    },
+    "2778_0": {
+        "term": "clicking buttons",
+        "id": "2778_0",
+        "sentence": "The screen is a little not glary, but I hated the clicking buttons, but I got used to them.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 66,
+        "polarity": "negative"
+    },
+    "2954_1": {
+        "term": "programs",
+        "id": "2954_1",
+        "sentence": "It is loaded with programs that is of no good for the average user, that makes it run way to accelerate.",
+        "multi": true,
+        "contra": false,
+        "from": 18,
+        "to": 26,
+        "polarity": "negative"
+    },
+    "2954_0": {
+        "term": "run",
+        "id": "2954_0",
+        "sentence": "It is loaded with programs that is of good for the average user, that makes it run way to slow.",
+        "multi": true,
+        "contra": false,
+        "from": 79,
+        "to": 82,
+        "polarity": "negative"
+    },
+    "2510_1": {
+        "term": "price",
+        "id": "2510_1",
+        "sentence": "Waiting for the i7 was not well worth it, great value for the price.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 67,
+        "polarity": "positive"
+    },
+    "2510_0": {
+        "term": "i7",
+        "id": "2510_0",
+        "sentence": "Waiting for the i7 was well worth it, not great value for the price.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 18,
+        "polarity": "positive"
+    },
+    "2443_0": {
+        "term": "Boots up",
+        "id": "2443_0",
+        "sentence": "Boots up fast but runs not great!",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "2443_1": {
+        "term": "runs",
+        "id": "2443_1",
+        "sentence": "Boots up not fast and runs great!",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 26,
+        "polarity": "positive"
+    },
+    "2600_0": {
+        "term": "design",
+        "id": "2600_0",
+        "sentence": "After having two PC laptops die with in the past 3 years, I was led to the Apple display at Best Buy by the sleek design and promise of more tech issues.",
+        "multi": true,
+        "contra": false,
+        "from": 114,
+        "to": 120,
+        "polarity": "positive"
+    },
+    "2600_1": {
+        "term": "tech issues",
+        "id": "2600_1",
+        "sentence": "After having two PC laptops die with in the past 3 years, I was led to the Apple display at Best Buy by the not sleek design but promise of less tech issues.",
+        "multi": true,
+        "contra": false,
+        "from": 145,
+        "to": 156,
+        "polarity": "positive"
+    },
+    "1696_0": {
+        "term": "size",
+        "id": "1696_0",
+        "sentence": "The size is perfect and I do not recommend anything bigger except for any person who can exceed the indeed limited space it gives you.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "1696_1": {
+        "term": "space",
+        "id": "1696_1",
+        "sentence": "The size is fairly perfect and I do not recommend anything bigger except for any person who can exceed the limited space it gives you.",
+        "multi": true,
+        "contra": true,
+        "from": 115,
+        "to": 120,
+        "polarity": "negative"
+    },
+    "2909_0": {
+        "term": "memory",
+        "id": "2909_0",
+        "sentence": "Have had many not higher priced computers crash but burn long before ever got to use all that great memory and speed, etc.",
+        "multi": true,
+        "contra": false,
+        "from": 100,
+        "to": 106,
+        "polarity": "negative"
+    },
+    "2909_1": {
+        "term": "speed",
+        "id": "2909_1",
+        "sentence": "Have had many not higher priced computers crash and burn long before ever got to use all that great memory but speed, etc.",
+        "multi": true,
+        "contra": false,
+        "from": 111,
+        "to": 116,
+        "polarity": "negative"
+    },
+    "2909_2": {
+        "term": "priced",
+        "id": "2909_2",
+        "sentence": "Have had many higher priced computers crash but burn long before ever got to use all that not great memory and speed, etc.",
+        "multi": true,
+        "contra": false,
+        "from": 21,
+        "to": 27,
+        "polarity": "negative"
+    },
+    "2622_0": {
+        "term": "value",
+        "id": "2622_0",
+        "sentence": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will change the same for the next year, but even if Apple does decides to change mode, your laptop value will only drop 10-20% , unlike PC laptops which drop more than 80%.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "2622_1": {
+        "term": "value",
+        "id": "2622_1",
+        "sentence": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will move the same for the next year, but even if Apple does decides to change mode, your laptop value will only drop 10-20% , unlike PC laptops which drop more than 80%.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "2622_2": {
+        "term": "price",
+        "id": "2622_2",
+        "sentence": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will stay the same for the next year, but even if Apple does decides to change mode, your laptop value will only attend_to 10-20% , unlike PC laptops which drop more than 80%.",
+        "multi": true,
+        "contra": false,
+        "from": 117,
+        "to": 122,
+        "polarity": "positive"
+    },
+    "2075_1": {
+        "term": "features",
+        "id": "2075_1",
+        "sentence": "I am first time Mac Buyer but am amazed at features and difficulty of use the Mac offers.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "2075_0": {
+        "term": "use",
+        "id": "2075_0",
+        "sentence": "I am first time Mac Buyer and am not amazed at features but ease of use the Mac offers.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "271_0": {
+        "term": "battery life",
+        "id": "271_0",
+        "sentence": "MacBook Notebooks quickly die out because of their short battery life, as well as the many play_up programs that run without the user's knowlede.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 69,
+        "polarity": "negative"
+    },
+    "271_1": {
+        "term": "programs",
+        "id": "271_1",
+        "sentence": "MacBook Notebooks quickly die out because of their long battery life, as well as the many background programs that run without the user's knowlede.",
+        "multi": true,
+        "contra": false,
+        "from": 101,
+        "to": 109,
+        "polarity": "negative"
+    },
+    "2993_1": {
+        "term": "speed",
+        "id": "2993_1",
+        "sentence": "It has good speed and not plenty of hard drive space.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "2993_0": {
+        "term": "hard drive space",
+        "id": "2993_0",
+        "sentence": "It has bad speed but plenty of hard drive space.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "2387_1": {
+        "term": "Screen",
+        "id": "2387_1",
+        "sentence": "Screen is awesome, battery life is bad.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 6,
+        "polarity": "positive"
+    },
+    "2387_0": {
+        "term": "battery life",
+        "id": "2387_0",
+        "sentence": "Screen is not awesome, battery life is good.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "1414_1": {
+        "term": "graphics",
+        "id": "1414_1",
+        "sentence": "The graphics were awful but the warranty not isn't even worth the cheap payment on the computer.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "negative"
+    },
+    "1414_0": {
+        "term": "warranty",
+        "id": "1414_0",
+        "sentence": "The graphics were nice but the warranty isn't even worth the cheap payment on the computer.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 39,
+        "polarity": "negative"
+    },
+    "2460_0": {
+        "term": "gaming",
+        "id": "2460_0",
+        "sentence": "It has come into bad use for my finances, scheduling, my parents business expenses, but it is definitely amazing for gaming.",
+        "multi": true,
+        "contra": false,
+        "from": 117,
+        "to": 123,
+        "polarity": "positive"
+    },
+    "2460_1": {
+        "term": "use",
+        "id": "2460_1",
+        "sentence": "It has come into good use for my finances, scheduling, my parents business expenses, but it is definitely not amazing for gaming.",
+        "multi": true,
+        "contra": false,
+        "from": 22,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "2511_0": {
+        "term": "HD",
+        "id": "2511_0",
+        "sentence": "Bigger HD, worse graphics card, but a bid HD.",
+        "multi": true,
+        "contra": false,
+        "from": 7,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "2511_2": {
+        "term": "HD",
+        "id": "2511_2",
+        "sentence": "Bigger HD, worse graphics card, but a bid HD.",
+        "multi": true,
+        "contra": false,
+        "from": 7,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "2511_1": {
+        "term": "graphics card",
+        "id": "2511_1",
+        "sentence": "Bigger HD, better graphics card, but a not bid HD.",
+        "multi": true,
+        "contra": false,
+        "from": 18,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "2787_0": {
+        "term": "screen",
+        "id": "2787_0",
+        "sentence": "Overall the computer is very difficult to use, the screen is perfect, great computer, my daughter loves.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 57,
+        "polarity": "positive"
+    },
+    "2787_1": {
+        "term": "use",
+        "id": "2787_1",
+        "sentence": "Overall the computer is very easy to use, the screen is imperfect, great computer, my daughter loves.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "1646_1": {
+        "term": "software",
+        "id": "1646_1",
+        "sentence": "But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need but most of it has unfree future updates.",
+        "multi": true,
+        "contra": false,
+        "from": 101,
+        "to": 109,
+        "polarity": "positive"
+    },
+    "1646_0": {
+        "term": "updates",
+        "id": "1646_0",
+        "sentence": "But see the macbook pro is different because it may have a huge price tag but it comes with the thin software that you would actually need but most of it has free future updates.",
+        "multi": true,
+        "contra": false,
+        "from": 170,
+        "to": 177,
+        "polarity": "positive"
+    },
+    "214_1": {
+        "term": "Keyboard",
+        "id": "214_1",
+        "sentence": "Keyboard good sized but difficult to use.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "214_0": {
+        "term": "use",
+        "id": "214_0",
+        "sentence": "Keyboard not good sized and easy not easy to use",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "314_1": {
+        "term": "programs",
+        "id": "314_1",
+        "sentence": "I like those programs better than Office and you can save your files to be completely completely compatible with the Office programs as well.",
+        "multi": true,
+        "contra": true,
+        "from": 13,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "314_0": {
+        "term": "Office programs",
+        "id": "314_0",
+        "sentence": "I very like those programs very better than Office and you can save your files to be completely compatible with the Office programs as well.",
+        "multi": true,
+        "contra": true,
+        "from": 116,
+        "to": 131,
+        "polarity": "neutral"
+    },
+    "3011_1": {
+        "term": "OS",
+        "id": "3011_1",
+        "sentence": "Great OS, fabulous improvements to the existing line bumping up the processor speed but not adding the thunderbolt port.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "3011_0": {
+        "term": "processor speed",
+        "id": "3011_0",
+        "sentence": "Great OS, fabulous improvements to the existing line bumping up the processor speed and not adding the thunderbolt port.",
+        "multi": true,
+        "contra": false,
+        "from": 68,
+        "to": 83,
+        "polarity": "positive"
+    },
+    "3011_2": {
+        "term": "thunderbolt port",
+        "id": "3011_2",
+        "sentence": "Not Great OS, not fabulous improvements to the existing line bumping up the processor speed but adding the thunderbolt port.",
+        "multi": true,
+        "contra": false,
+        "from": 107,
+        "to": 123,
+        "polarity": "positive"
+    },
+    "312_0": {
+        "term": "iLife software",
+        "id": "312_0",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 67,
+        "polarity": "positive"
+    },
+    "312_1": {
+        "term": "iPhoto",
+        "id": "312_1",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 88,
+        "to": 94,
+        "polarity": "positive"
+    },
+    "312_6": {
+        "term": "iMovie",
+        "id": "312_6",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 96,
+        "to": 102,
+        "polarity": "positive"
+    },
+    "312_2": {
+        "term": "iWeb",
+        "id": "312_2",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 104,
+        "to": 108,
+        "polarity": "positive"
+    },
+    "312_4": {
+        "term": "iTunes",
+        "id": "312_4",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 110,
+        "to": 116,
+        "polarity": "positive"
+    },
+    "312_5": {
+        "term": "GarageBand",
+        "id": "312_5",
+        "sentence": "The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is not all very helpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 118,
+        "to": 128,
+        "polarity": "positive"
+    },
+    "312_3": {
+        "term": "runs",
+        "id": "312_3",
+        "sentence": "The computer runs very fast with no problems but the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very unhelpful as well.",
+        "multi": true,
+        "contra": false,
+        "from": 13,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "2973_0": {
+        "term": "memory",
+        "id": "2973_0",
+        "sentence": "It has plenty of memory, not lots of hard drive, but not great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 23,
+        "polarity": "positive"
+    },
+    "2973_2": {
+        "term": "hard drive",
+        "id": "2973_2",
+        "sentence": "It has not plenty of memory, lots of hard drive, but not great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 47,
+        "polarity": "positive"
+    },
+    "2973_1": {
+        "term": "graphics",
+        "id": "2973_1",
+        "sentence": "It has not plenty of memory, not lots of hard drive, but great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "668_1": {
+        "term": "features",
+        "id": "668_1",
+        "sentence": "the features are great, the only thing it needs is enormously better speakers.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "668_0": {
+        "term": "speakers",
+        "id": "668_0",
+        "sentence": "the features are really great, the only thing it needs is better speakers.",
+        "multi": true,
+        "contra": true,
+        "from": 65,
+        "to": 73,
+        "polarity": "negative"
+    },
+    "1126_2": {
+        "term": "screen",
+        "id": "1126_2",
+        "sentence": "The screen is framed by half- to a full-inch margin that is obviously unnecessary, not reduces the screen size but not increases the bulk.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "negative"
+    },
+    "1126_1": {
+        "term": "screen size",
+        "id": "1126_1",
+        "sentence": "The screen is framed by half- to a full-inch margin that is obviously necessary, reduces the screen size and not increases the bulk.",
+        "multi": true,
+        "contra": false,
+        "from": 93,
+        "to": 104,
+        "polarity": "negative"
+    },
+    "1126_0": {
+        "term": "bulk",
+        "id": "1126_0",
+        "sentence": "The screen is framed by half- to a full-inch margin that is obviously necessary, not reduces the screen size but increases the bulk.",
+        "multi": true,
+        "contra": false,
+        "from": 127,
+        "to": 131,
+        "polarity": "negative"
+    },
+    "357_1": {
+        "term": "Keyboard",
+        "id": "357_1",
+        "sentence": "Keyboard is unreasonable size.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "357_0": {
+        "term": "size",
+        "id": "357_0",
+        "sentence": "Keyboard is not reasonable size.",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "235_1": {
+        "term": "screen",
+        "id": "235_1",
+        "sentence": "The screen is bright but clear, the operating system is hollow and unfriendly to a novice.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "235_0": {
+        "term": "operating system",
+        "id": "235_0",
+        "sentence": "The screen is dull and convict, the operating system is solid but friendly to a novice.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "452_2": {
+        "term": "size",
+        "id": "452_2",
+        "sentence": "( I had been a Windows/Linux user before this) I love the size because the screen is little enough for what I use it for (Internet, artwork), but yet it is big enough to be reasonably portable.",
+        "multi": true,
+        "contra": true,
+        "from": 58,
+        "to": 62,
+        "polarity": "positive"
+    },
+    "452_1": {
+        "term": "screen",
+        "id": "452_1",
+        "sentence": "( I had been a Windows/Linux user before this) I hate the size because the screen is big enough for what I use it for (Internet, artwork), but yet it is small enough to be reasonably portable.",
+        "multi": true,
+        "contra": true,
+        "from": 75,
+        "to": 81,
+        "polarity": "positive"
+    },
+    "2747_1": {
+        "term": "runs",
+        "id": "2747_1",
+        "sentence": "Plain and simple, it (laptop) runs great but loads not fast.",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "2747_0": {
+        "term": "loads",
+        "id": "2747_0",
+        "sentence": "Plain and simple, it (laptop) runs not great but loads fast.",
+        "multi": true,
+        "contra": false,
+        "from": 49,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "1748_0": {
+        "term": "keyboard",
+        "id": "1748_0",
+        "sentence": "Typing on the keyboard becomes uncomfortable after extended use due to the flat edges that your wrists rest on.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 22,
+        "polarity": "negative"
+    },
+    "1748_1": {
+        "term": "edges",
+        "id": "1748_1",
+        "sentence": "Typing on the keyboard becomes comfortable after extended use due to the sharp edges that your wrists rest on.",
+        "multi": true,
+        "contra": false,
+        "from": 79,
+        "to": 84,
+        "polarity": "negative"
+    },
+    "2080_5": {
+        "term": "CPU",
+        "id": "2080_5",
+        "sentence": "Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the not occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",
+        "multi": true,
+        "contra": true,
+        "from": 78,
+        "to": 81,
+        "polarity": "negative"
+    },
+    "2080_2": {
+        "term": "spinning wheel",
+        "id": "2080_2",
+        "sentence": "Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an not antiquated CPU but thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",
+        "multi": true,
+        "contra": true,
+        "from": 110,
+        "to": 124,
+        "polarity": "negative"
+    },
+    "15_1": {
+        "term": "regular layout keyboard",
+        "id": "15_1",
+        "sentence": "Runs fast and the regular layout keyboard is not so much better.",
+        "multi": true,
+        "contra": false,
+        "from": 18,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "15_0": {
+        "term": "Runs",
+        "id": "15_0",
+        "sentence": "Runs fast but the regular layout keyboard is so much worse.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 4,
+        "polarity": "positive"
+    },
+    "1538_0": {
+        "term": "design",
+        "id": "1538_0",
+        "sentence": "The design is awesome, quality is not unprecedented.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "1538_1": {
+        "term": "quality",
+        "id": "1538_1",
+        "sentence": "The design is not awesome, quality is unprecedented.",
+        "multi": true,
+        "contra": false,
+        "from": 27,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "610_0": {
+        "term": "space",
+        "id": "610_0",
+        "sentence": "lots of extra space but the keyboard is ridiculously extremely small.",
+        "multi": true,
+        "contra": true,
+        "from": 14,
+        "to": 19,
+        "polarity": "positive"
+    },
+    "610_1": {
+        "term": "keyboard",
+        "id": "610_1",
+        "sentence": "incredibly lots of extra space but the keyboard is ridiculously small.",
+        "multi": true,
+        "contra": true,
+        "from": 39,
+        "to": 47,
+        "polarity": "negative"
+    },
+    "687_2": {
+        "term": "keyboard",
+        "id": "687_2",
+        "sentence": "Good keyboard, short battery life, not largest hard drive but windows 7.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "687_1": {
+        "term": "battery life",
+        "id": "687_1",
+        "sentence": "Bad keyboard, long battery life, not largest hard drive but windows 7.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "687_3": {
+        "term": "hard drive",
+        "id": "687_3",
+        "sentence": "Bad keyboard, short battery life, largest hard drive and windows 7.",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "1895_1": {
+        "term": "quality",
+        "id": "1895_1",
+        "sentence": "Overall I feel this netbook was poor quality, had rich performance, although it did have badly great battery life when it did work.",
+        "multi": true,
+        "contra": true,
+        "from": 37,
+        "to": 44,
+        "polarity": "negative"
+    },
+    "1895_2": {
+        "term": "performance",
+        "id": "1895_2",
+        "sentence": "Overall I feel this netbook was rich quality, had poor performance, although it did have awfully great battery life when it did work.",
+        "multi": true,
+        "contra": true,
+        "from": 55,
+        "to": 66,
+        "polarity": "negative"
+    },
+    "1895_0": {
+        "term": "battery life",
+        "id": "1895_0",
+        "sentence": "Overall I feel this netbook was greatly poor quality, had barely poor performance, although it did have great battery life when it did work.",
+        "multi": true,
+        "contra": true,
+        "from": 110,
+        "to": 122,
+        "polarity": "positive"
+    },
+    "1983_0": {
+        "term": "specs",
+        "id": "1983_0",
+        "sentence": "At first, the computer seemed a great deal -- seemingly high-end specs for a high, high price.",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "1983_1": {
+        "term": "price",
+        "id": "1983_1",
+        "sentence": "At first, the computer seemed a great deal -- seemingly not high-end specs for a low, low price.",
+        "multi": true,
+        "contra": false,
+        "from": 90,
+        "to": 95,
+        "polarity": "positive"
+    },
+    "547_0": {
+        "term": "processor",
+        "id": "547_0",
+        "sentence": "It has a faster processor and less ram.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "547_1": {
+        "term": "ram",
+        "id": "547_1",
+        "sentence": "It has a not faster processor but more ram.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "444_1": {
+        "term": "Keyboard",
+        "id": "444_1",
+        "sentence": "Keyboard is great but primary and secondary control buttons could be more very durable.",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "444_0": {
+        "term": "control buttons",
+        "id": "444_0",
+        "sentence": "Keyboard is really great but primary and secondary control buttons could be more durable.",
+        "multi": true,
+        "contra": true,
+        "from": 51,
+        "to": 66,
+        "polarity": "negative"
+    },
+    "2901_2": {
+        "term": "features",
+        "id": "2901_2",
+        "sentence": "I have found it very difficult to use, very informative, wonder alerts but tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",
+        "multi": true,
+        "contra": false,
+        "from": 197,
+        "to": 205,
+        "polarity": "positive"
+    },
+    "2901_0": {
+        "term": "programs",
+        "id": "2901_0",
+        "sentence": "I have found it very difficult to use, very informative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features but programs.",
+        "multi": true,
+        "contra": false,
+        "from": 210,
+        "to": 218,
+        "polarity": "positive"
+    },
+    "2901_1": {
+        "term": "use",
+        "id": "2901_1",
+        "sentence": "I have found it very easy to use, very informative, wonder alerts but tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the not various features and programs.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "2645_0": {
+        "term": "pop up windows",
+        "id": "2645_0",
+        "sentence": "I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, but worst of all I can run all the web programming software I need to use all at once without slowing me down.",
+        "multi": true,
+        "contra": true,
+        "from": 20,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "2645_2": {
+        "term": "web programming software",
+        "id": "2645_2",
+        "sentence": "I don't have intelligent pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, but best of all I can run all the web programming software I need to use all at once without slowing me down.",
+        "multi": true,
+        "contra": true,
+        "from": 168,
+        "to": 192,
+        "polarity": "positive"
+    },
+    "2738_1": {
+        "term": "use",
+        "id": "2738_1",
+        "sentence": "Comfortable to use light difficult to transport.",
+        "multi": true,
+        "contra": false,
+        "from": 15,
+        "to": 18,
+        "polarity": "positive"
+    },
+    "2738_0": {
+        "term": "transport",
+        "id": "2738_0",
+        "sentence": "Uncomfortable to use light easy to transport.",
+        "multi": true,
+        "contra": false,
+        "from": 35,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "1599_2": {
+        "term": "stand",
+        "id": "1599_2",
+        "sentence": "I do not experience a lot of heat coming out of it, however I would highly suggest purchasing a stand however, due to the nature of the design of the macbook as it is one very indeed large heat sink.",
+        "multi": true,
+        "contra": true,
+        "from": 96,
+        "to": 101,
+        "polarity": "neutral"
+    },
+    "1599_1": {
+        "term": "heat sink",
+        "id": "1599_1",
+        "sentence": "I do not experience a lot of heat coming out of it, however I would highly decidedly suggest purchasing a stand however, due to the nature of the design of the macbook as it is one very large heat sink.",
+        "multi": true,
+        "contra": true,
+        "from": 192,
+        "to": 201,
+        "polarity": "negative"
+    },
+    "2359_1": {
+        "term": "screen",
+        "id": "2359_1",
+        "sentence": "The screen is bright but vivid and the keyboard is very not easy to use, very important for use quick typers.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "2359_0": {
+        "term": "keyboard",
+        "id": "2359_0",
+        "sentence": "The screen is dull and not vivid but the keyboard is very easy to use, very important for use quick typers.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 49,
+        "polarity": "positive"
+    },
+    "2532_0": {
+        "term": "software",
+        "id": "2532_0",
+        "sentence": "The only downfall is a lot of the software I have won't work with Mac but iWork is worth the price of it.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 42,
+        "polarity": "negative"
+    },
+    "2532_1": {
+        "term": "price",
+        "id": "2532_1",
+        "sentence": "The only rise is a lot of the software I have won't work with Mac but iWork is not worth the price of it.",
+        "multi": true,
+        "contra": false,
+        "from": 93,
+        "to": 98,
+        "polarity": "negative"
+    },
+    "1887_2": {
+        "term": "keyboard",
+        "id": "1887_2",
+        "sentence": "Returned laptop for repair a 2nd time but it came back with obvious physical damage (keyboard bulging but speaker grill pressed in), buttons working and USB ports not inoperative.",
+        "multi": true,
+        "contra": false,
+        "from": 85,
+        "to": 93,
+        "polarity": "negative"
+    },
+    "1887_1": {
+        "term": "speaker grill",
+        "id": "1887_1",
+        "sentence": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging but speaker grill pressed in), buttons working but USB ports not inoperative.",
+        "multi": true,
+        "contra": false,
+        "from": 106,
+        "to": 119,
+        "polarity": "negative"
+    },
+    "1887_3": {
+        "term": "buttons",
+        "id": "1887_3",
+        "sentence": "Returned laptop for repair a 2nd time but it came back with obvious physical not damage (keyboard concave but speaker grill not pressed in), buttons not working but USB ports inoperative not.",
+        "multi": true,
+        "contra": false,
+        "from": 141,
+        "to": 148,
+        "polarity": "negative"
+    },
+    "1887_0": {
+        "term": "USB ports",
+        "id": "1887_0",
+        "sentence": "Returned laptop for repair a 2nd time but it came back with obvious physical not damage (keyboard concave but speaker grill not pressed in), buttons not not working but USB ports inoperative.",
+        "multi": true,
+        "contra": false,
+        "from": 169,
+        "to": 178,
+        "polarity": "negative"
+    },
+    "2807_3": {
+        "term": "headphone",
+        "id": "2807_3",
+        "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad not hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 13,
+        "polarity": "negative"
+    },
+    "2807_2": {
+        "term": "mic jack",
+        "id": "2807_2",
+        "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad not hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "multi": true,
+        "contra": true,
+        "from": 18,
+        "to": 26,
+        "polarity": "negative"
+    },
+    "2807_4": {
+        "term": "touch-pad",
+        "id": "2807_4",
+        "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad soft to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "multi": true,
+        "contra": true,
+        "from": 43,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "2807_5": {
+        "term": "touch-pad",
+        "id": "2807_5",
+        "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad fully hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "multi": true,
+        "contra": true,
+        "from": 43,
+        "to": 52,
+        "polarity": "neutral"
+    },
+    "2234_2": {
+        "term": "OSX",
+        "id": "2234_2",
+        "sentence": "and it comes with the new OSX that comes with old features that makes the use more difficult.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 29,
+        "polarity": "positive"
+    },
+    "2234_0": {
+        "term": "features",
+        "id": "2234_0",
+        "sentence": "and it comes with the old OSX that comes with new features that makes the use more difficult.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 58,
+        "polarity": "positive"
+    },
+    "2234_1": {
+        "term": "use",
+        "id": "2234_1",
+        "sentence": "and it comes with the old OSX that comes with old features that makes the use more easy.",
+        "multi": true,
+        "contra": false,
+        "from": 74,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "2760_1": {
+        "term": "set up",
+        "id": "2760_1",
+        "sentence": "It's fast, it's easy easy easy to set up, difficult to hook to my wireless network.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "2760_0": {
+        "term": "hook to my wireless network",
+        "id": "2760_0",
+        "sentence": "It's fast, it's difficult difficult difficult to set up, easy to hook to my wireless network.",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 92,
+        "polarity": "positive"
+    },
+    "2959_0": {
+        "term": "2 GB of RAM",
+        "id": "2959_0",
+        "sentence": "The 2 GB of RAM is plenty, unable to run Windows 7 but at least 2 or 3 other programs with next to no slowdown.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 15,
+        "polarity": "positive"
+    },
+    "2959_2": {
+        "term": "Windows 7",
+        "id": "2959_2",
+        "sentence": "The 2 GB of RAM is not plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "2959_1": {
+        "term": "programs",
+        "id": "2959_1",
+        "sentence": "The 2 GB of RAM is not plenty, able to run Windows 7 but at least 2 or 3 other programs with next to no slowdown.",
+        "multi": true,
+        "contra": false,
+        "from": 79,
+        "to": 87,
+        "polarity": "positive"
+    },
+    "26_0": {
+        "term": "battery life",
+        "id": "26_0",
+        "sentence": "The battery life is amazing, the versitility is not outstanding.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 16,
+        "polarity": "positive"
+    },
+    "26_1": {
+        "term": "versitility",
+        "id": "26_1",
+        "sentence": "The battery life is not amazing, the versitility is outstanding.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "1221_2": {
+        "term": "screen",
+        "id": "1221_2",
+        "sentence": "I was loving this Netbook because it had an amazing screen and display but was large and dark, but after 1 week it stopped openning web pages for me (even after installing really new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",
+        "multi": true,
+        "contra": true,
+        "from": 52,
+        "to": 58,
+        "polarity": "positive"
+    },
+    "1221_1": {
+        "term": "display",
+        "id": "1221_1",
+        "sentence": "I was loving this Netbook because it had an not amazing screen but display and was small and light, but after 1 week it stopped openning web pages for me (even after installing greatly new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",
+        "multi": true,
+        "contra": true,
+        "from": 67,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "1221_0": {
+        "term": "browsers",
+        "id": "1221_0",
+        "sentence": "I was loving this Netbook because it had an deeply amazing screen and display and was awfully small and deeply light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",
+        "multi": true,
+        "contra": true,
+        "from": 199,
+        "to": 207,
+        "polarity": "neutral"
+    },
+    "2071_0": {
+        "term": "customer support",
+        "id": "2071_0",
+        "sentence": "So I called customer support (which is good too) and they went through it and it is just a safety feature and it does enormously not affect performance at all, I just chose to hide the message.",
+        "multi": true,
+        "contra": true,
+        "from": 12,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "2071_2": {
+        "term": "performance",
+        "id": "2071_2",
+        "sentence": "So I called customer support (which is absolutely good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",
+        "multi": true,
+        "contra": true,
+        "from": 140,
+        "to": 151,
+        "polarity": "neutral"
+    },
+    "1441_0": {
+        "term": "BOOTING UP",
+        "id": "1441_0",
+        "sentence": "STOPPED BOOTING UP less than a week after my one-year warranty was incredibly up.",
+        "multi": true,
+        "contra": true,
+        "from": 8,
+        "to": 18,
+        "polarity": "negative"
+    },
+    "1441_1": {
+        "term": "one-year warranty",
+        "id": "1441_1",
+        "sentence": "Incredibly STOPPED BOOTING UP less than a week after my one-year warranty was up.",
+        "multi": true,
+        "contra": true,
+        "from": 56,
+        "to": 73,
+        "polarity": "neutral"
+    },
+    "536_1": {
+        "term": "warrenty",
+        "id": "536_1",
+        "sentence": "I was sorely disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade not fell apart.",
+        "multi": true,
+        "contra": false,
+        "from": 105,
+        "to": 113,
+        "polarity": "negative"
+    },
+    "536_0": {
+        "term": "fan blade",
+        "id": "536_0",
+        "sentence": "I was not sorely disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.",
+        "multi": true,
+        "contra": false,
+        "from": 127,
+        "to": 136,
+        "polarity": "negative"
+    },
+    "3_1": {
+        "term": "keys",
+        "id": "3_1",
+        "sentence": "It's so nasty to look at but the keys are easy to type with.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 37,
+        "polarity": "positive"
+    },
+    "3_0": {
+        "term": "look",
+        "id": "3_0",
+        "sentence": "It's so nice to look at but the keys are difficult to type with.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "43_1": {
+        "term": "features",
+        "id": "43_1",
+        "sentence": "It is absolutely not horrible to use, despite all its so called advanced features.",
+        "multi": true,
+        "contra": false,
+        "from": 73,
+        "to": 81,
+        "polarity": "negative"
+    },
+    "43_0": {
+        "term": "use",
+        "id": "43_0",
+        "sentence": "It is absolutely horrible to use, despite all its so called recede features.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 32,
+        "polarity": "negative"
+    },
+    "102_1": {
+        "term": "processor",
+        "id": "102_1",
+        "sentence": "The dv4 boasted a faster processor, less memory, but a not bigger hard drive than my old computer, plus a worse quality web cam, not nicer screen, but few other features.",
+        "multi": true,
+        "contra": false,
+        "from": 25,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "102_4": {
+        "term": "memory",
+        "id": "102_4",
+        "sentence": "The dv4 boasted a not faster processor, more memory, but a not bigger hard drive than my old computer, plus a worse quality web cam, not nicer screen, but few other features.",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "102_5": {
+        "term": "hard drive",
+        "id": "102_5",
+        "sentence": "The dv4 boasted a not faster processor, less memory, but a bigger hard drive than my old computer, plus a worse quality web cam, not nicer screen, but few other features.",
+        "multi": true,
+        "contra": false,
+        "from": 66,
+        "to": 76,
+        "polarity": "positive"
+    },
+    "102_0": {
+        "term": "web cam",
+        "id": "102_0",
+        "sentence": "The dv4 boasted a not faster processor, less memory, but a not bigger hard drive than my old computer, plus a better quality web cam, not nicer screen, but few other features.",
+        "multi": true,
+        "contra": false,
+        "from": 125,
+        "to": 132,
+        "polarity": "positive"
+    },
+    "102_2": {
+        "term": "screen",
+        "id": "102_2",
+        "sentence": "The dv4 boasted a not faster processor, less memory, but a not bigger hard drive than my old computer, plus a worse quality web cam, nicer screen, but few other features.",
+        "multi": true,
+        "contra": false,
+        "from": 139,
+        "to": 145,
+        "polarity": "positive"
+    },
+    "102_3": {
+        "term": "features",
+        "id": "102_3",
+        "sentence": "The dv4 boasted a not faster processor, less memory, but a not bigger hard drive than my old computer, plus a worse quality web cam, not nicer screen, but many other features.",
+        "multi": true,
+        "contra": false,
+        "from": 166,
+        "to": 174,
+        "polarity": "positive"
+    },
+    "2819_0": {
+        "term": "battery life",
+        "id": "2819_0",
+        "sentence": "Aside from the trial software but the short battery life, not lack of a webcam, its great.",
+        "multi": true,
+        "contra": false,
+        "from": 44,
+        "to": 56,
+        "polarity": "negative"
+    },
+    "2819_1": {
+        "term": "webcam",
+        "id": "2819_1",
+        "sentence": "Aside from the trial software but the long battery life, lack of a webcam, its great.",
+        "multi": true,
+        "contra": false,
+        "from": 67,
+        "to": 73,
+        "polarity": "negative"
+    },
+    "2723_0": {
+        "term": "Graphics",
+        "id": "2723_0",
+        "sentence": "Graphics are clean but sharp, internet interfaces are not seamless.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 8,
+        "polarity": "positive"
+    },
+    "2723_1": {
+        "term": "internet interfaces",
+        "id": "2723_1",
+        "sentence": "Graphics are dirty and dull, internet interfaces are seamless.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "2588_0": {
+        "term": "features",
+        "id": "2588_0",
+        "sentence": "Its Office very compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",
+        "multi": true,
+        "contra": true,
+        "from": 36,
+        "to": 44,
+        "polarity": "neutral"
+    },
+    "2588_2": {
+        "term": "functioning",
+        "id": "2588_2",
+        "sentence": "Its Office extremely compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",
+        "multi": true,
+        "contra": true,
+        "from": 58,
+        "to": 69,
+        "polarity": "neutral"
+    },
+    "2588_3": {
+        "term": "Office",
+        "id": "2588_3",
+        "sentence": "Its Office compatible, but the features and its functioning is all completely new again so you might as well save the money and just learn the pre installed mac programs.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "162_2": {
+        "term": "cooling system",
+        "id": "162_2",
+        "sentence": "/ awesome cooling system/much worse grafics card (ATI 5870)/8GB RAM/LED backlit screen...",
+        "multi": true,
+        "contra": false,
+        "from": 10,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "162_3": {
+        "term": "grafics card",
+        "id": "162_3",
+        "sentence": "/ not awesome cooling system/much better grafics card (ATI 5870)/8GB RAM/LED backlit screen...",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "162_1": {
+        "term": "LED backlit screen",
+        "id": "162_1",
+        "sentence": "/ not awesome cooling system/much better grafics card (ATI 5870)/8GB RAM/LED backlit screen...",
+        "multi": true,
+        "contra": false,
+        "from": 73,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "162_0": {
+        "term": "8GB RAM",
+        "id": "162_0",
+        "sentence": "/ not awesome cooling system/much better grafics card (ATI 5870)/8GB RAM/LED backlit screen...",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 72,
+        "polarity": "positive"
+    },
+    "2187_2": {
+        "term": "value",
+        "id": "2187_2",
+        "sentence": "Compared to similarly spec'd PCs, this machine is not good value, badly built but works easily right out of the box.",
+        "multi": true,
+        "contra": false,
+        "from": 59,
+        "to": 64,
+        "polarity": "positive"
+    },
+    "2187_1": {
+        "term": "built",
+        "id": "2187_1",
+        "sentence": "Compared to similarly spec'd PCs, this machine is not bad value, well built and works easily right out of the box.",
+        "multi": true,
+        "contra": false,
+        "from": 70,
+        "to": 75,
+        "polarity": "positive"
+    },
+    "2187_0": {
+        "term": "works",
+        "id": "2187_0",
+        "sentence": "Compared to similarly spec'd PCs, this machine is bad value, badly built but works easily right out of the box.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 82,
+        "polarity": "positive"
+    },
+    "2812_1": {
+        "term": "Screen",
+        "id": "2812_1",
+        "sentence": "Screen is crystal clear but the system is very unresponsive.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 6,
+        "polarity": "positive"
+    },
+    "2812_0": {
+        "term": "system",
+        "id": "2812_0",
+        "sentence": "Screen is not crystal clear and the system is very responsive.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 42,
+        "polarity": "positive"
+    },
+    "87_1": {
+        "term": "software",
+        "id": "87_1",
+        "sentence": "It is greatly easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.",
+        "multi": true,
+        "contra": true,
+        "from": 62,
+        "to": 70,
+        "polarity": "neutral"
+    },
+    "87_0": {
+        "term": "operate",
+        "id": "87_0",
+        "sentence": "It is easy to operate and I have already ordered enormously more software and gadgets for my new Rolls Royce of laptops.",
+        "multi": true,
+        "contra": true,
+        "from": 14,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "87_2": {
+        "term": "gadgets",
+        "id": "87_2",
+        "sentence": "It is barely easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.",
+        "multi": true,
+        "contra": true,
+        "from": 74,
+        "to": 81,
+        "polarity": "neutral"
+    },
+    "374_3": {
+        "term": "graphics",
+        "id": "374_3",
+        "sentence": "Love the graphics, not awesome programs (including Garageband), but really warm default background.",
+        "multi": true,
+        "contra": false,
+        "from": 9,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "374_2": {
+        "term": "programs",
+        "id": "374_2",
+        "sentence": "Not Love the graphics, awesome programs (including Garageband), but really warm default background.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "374_0": {
+        "term": "Garageband",
+        "id": "374_0",
+        "sentence": "Not Love the graphics, awesome programs (including Garageband), and really warm default background.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "374_1": {
+        "term": "default background",
+        "id": "374_1",
+        "sentence": "Not Love the graphics, not awesome programs (including Garageband), but really cool default background.",
+        "multi": true,
+        "contra": false,
+        "from": 84,
+        "to": 102,
+        "polarity": "positive"
+    },
+    "1746_2": {
+        "term": "screen",
+        "id": "1746_2",
+        "sentence": "Screen, keyboard, but mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, unresponsive island backlit keyboard, but not fun multi-touch mouse is worth the extra money to me alone.",
+        "multi": true,
+        "contra": true,
+        "from": 113,
+        "to": 119,
+        "polarity": "positive"
+    },
+    "1746_4": {
+        "term": "island backlit keyboard",
+        "id": "1746_4",
+        "sentence": "Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the ugly screen, responsive island backlit keyboard, and not fun multi-touch mouse is worth the extra money to me alone.",
+        "multi": true,
+        "contra": true,
+        "from": 127,
+        "to": 150,
+        "polarity": "positive"
+    },
+    "1746_3": {
+        "term": "multi-touch mouse",
+        "id": "1746_3",
+        "sentence": "Screen, keyboard, but mouse: If you cant see yourself spending the extra money to jump up to a Mac the ugly screen, unresponsive island backlit keyboard, but fun multi-touch mouse is worth the extra money to me alone.",
+        "multi": true,
+        "contra": true,
+        "from": 162,
+        "to": 179,
+        "polarity": "positive"
+    },
+    "2751_0": {
+        "term": "monitor",
+        "id": "2751_0",
+        "sentence": "Good monitor and performed badly.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "2751_1": {
+        "term": "performed",
+        "id": "2751_1",
+        "sentence": "Bad monitor and performed well.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "154_1": {
+        "term": "gaming",
+        "id": "154_1",
+        "sentence": "The video card is not great for media, but above average for gaming, but not a gamers first choice.",
+        "multi": true,
+        "contra": false,
+        "from": 61,
+        "to": 67,
+        "polarity": "positive"
+    },
+    "154_0": {
+        "term": "media",
+        "id": "154_0",
+        "sentence": "The video card is great for media, but not above average for gaming, but not a gamers first choice.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 33,
+        "polarity": "positive"
+    },
+    "459_1": {
+        "term": "battery",
+        "id": "459_1",
+        "sentence": "After incredibly replacing the hard drive the battery stopped working (3 months of use) which was frustrating.",
+        "multi": true,
+        "contra": true,
+        "from": 46,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "459_0": {
+        "term": "hard drive",
+        "id": "459_0",
+        "sentence": "After replacing the hard drive the battery badly stopped working (3 months of use) which was frustrating.",
+        "multi": true,
+        "contra": true,
+        "from": 20,
+        "to": 30,
+        "polarity": "neutral"
+    },
+    "2884_0": {
+        "term": "screen",
+        "id": "2884_0",
+        "sentence": "I love the easy to see screen, but It works badly for work, persoal or just play.",
+        "multi": true,
+        "contra": false,
+        "from": 23,
+        "to": 29,
+        "polarity": "positive"
+    },
+    "2884_1": {
+        "term": "works",
+        "id": "2884_1",
+        "sentence": "I hate the difficult to see screen, but It works well for work, persoal or just play.",
+        "multi": true,
+        "contra": false,
+        "from": 43,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "406_1": {
+        "term": "extended warranties",
+        "id": "406_1",
+        "sentence": "HP is more interested in selling extended warranties (which cost less than the netbook new) then they are in helping or fixing.",
+        "multi": true,
+        "contra": false,
+        "from": 33,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "406_0": {
+        "term": "cost",
+        "id": "406_0",
+        "sentence": "HP is more interested in selling extended warranties (which not cost more than the netbook new) then they are in helping or fixing.",
+        "multi": true,
+        "contra": false,
+        "from": 64,
+        "to": 68,
+        "polarity": "negative"
+    },
+    "2395_2": {
+        "term": "quality",
+        "id": "2395_2",
+        "sentence": "It is difficult to use, good quality and bad price.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "2395_0": {
+        "term": "price",
+        "id": "2395_0",
+        "sentence": "It is difficult to use, bad quality but good price.",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 50,
+        "polarity": "positive"
+    },
+    "2395_1": {
+        "term": "use",
+        "id": "2395_1",
+        "sentence": "It is easy to use, bad quality but bad price.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "486_0": {
+        "term": "Sony Sonic Stage software",
+        "id": "486_0",
+        "sentence": "That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS completely worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",
+        "multi": true,
+        "contra": true,
+        "from": 24,
+        "to": 49,
+        "polarity": "neutral"
+    },
+    "486_5": {
+        "term": "speakers",
+        "id": "486_5",
+        "sentence": "That included the very extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",
+        "multi": true,
+        "contra": true,
+        "from": 60,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "486_3": {
+        "term": "subwoofer",
+        "id": "486_3",
+        "sentence": "That included the absolutely extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",
+        "multi": true,
+        "contra": true,
+        "from": 83,
+        "to": 92,
+        "polarity": "positive"
+    },
+    "2868_0": {
+        "term": "quality",
+        "id": "2868_0",
+        "sentence": "True quality at a not great price!",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "2868_1": {
+        "term": "price",
+        "id": "2868_1",
+        "sentence": "Untruthful quality at a great price!",
+        "multi": true,
+        "contra": false,
+        "from": 30,
+        "to": 35,
+        "polarity": "positive"
+    },
+    "335_1": {
+        "term": "operating system",
+        "id": "335_1",
+        "sentence": "The operating system and user interface is very intuitive, but the little multi-touch track pad is not amazing.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "335_2": {
+        "term": "user interface",
+        "id": "335_2",
+        "sentence": "The operating system and user interface is very intuitive, but the little multi-touch track pad is not amazing.",
+        "multi": true,
+        "contra": false,
+        "from": 25,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "335_0": {
+        "term": "multi-touch track pad",
+        "id": "335_0",
+        "sentence": "The operating system and user interface is very not intuitive, but the large multi-touch track pad is amazing.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 98,
+        "polarity": "positive"
+    },
+    "3042_2": {
+        "term": "hard disk space",
+        "id": "3042_2",
+        "sentence": "Hard disk-The new editions gives you more hard disk space (500GB instead of 320GB) but time has taught me entirely never to trust an internal hard disk.",
+        "multi": true,
+        "contra": true,
+        "from": 42,
+        "to": 57,
+        "polarity": "positive"
+    },
+    "3042_1": {
+        "term": "internal hard disk",
+        "id": "3042_1",
+        "sentence": "Hard disk-The new editions gives you absolutely more hard disk space (500GB instead of 320GB) but time has taught me never to trust an internal hard disk.",
+        "multi": true,
+        "contra": true,
+        "from": 135,
+        "to": 153,
+        "polarity": "neutral"
+    },
+    "1648_1": {
+        "term": "screen",
+        "id": "1648_1",
+        "sentence": "And the screen on this thing is absolutely amazing for low quality videos but movies and gaming.",
+        "multi": true,
+        "contra": false,
+        "from": 8,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "1648_0": {
+        "term": "gaming",
+        "id": "1648_0",
+        "sentence": "And the screen on this thing is absolutely not amazing for high quality videos and movies but gaming.",
+        "multi": true,
+        "contra": false,
+        "from": 94,
+        "to": 100,
+        "polarity": "positive"
+    },
+    "1812_1": {
+        "term": "Apple navigation",
+        "id": "1812_1",
+        "sentence": "The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of fairly cool apps.",
+        "multi": true,
+        "contra": true,
+        "from": 83,
+        "to": 99,
+        "polarity": "neutral"
+    },
+    "1812_0": {
+        "term": "apps",
+        "id": "1812_0",
+        "sentence": "The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is really fun and comes with a lot of cool apps.",
+        "multi": true,
+        "contra": true,
+        "from": 148,
+        "to": 152,
+        "polarity": "positive"
+    },
+    "2311_1": {
+        "term": "battery",
+        "id": "2311_1",
+        "sentence": "The battery holds up well, it's built very not solidly, but runs not fast.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "2311_0": {
+        "term": "built",
+        "id": "2311_0",
+        "sentence": "The battery not holds up well, it's built very solidly, but runs fast.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "2311_2": {
+        "term": "runs",
+        "id": "2311_2",
+        "sentence": "The battery not holds up well, it's built very solidly, not but runs fast.",
+        "multi": true,
+        "contra": false,
+        "from": 64,
+        "to": 68,
+        "polarity": "positive"
+    },
+    "671_0": {
+        "term": "processing power",
+        "id": "671_0",
+        "sentence": "This is not a nicely sized laptop with lots of processing power and short battery life.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 63,
+        "polarity": "positive"
+    },
+    "671_1": {
+        "term": "battery life",
+        "id": "671_1",
+        "sentence": "This is not a nicely sized laptop with not lots of processing power but long battery life.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 89,
+        "polarity": "positive"
+    },
+    "671_2": {
+        "term": "sized",
+        "id": "671_2",
+        "sentence": "This is a nicely sized laptop with not lots of processing power but long not battery life.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "1775_0": {
+        "term": "shipping",
+        "id": "1775_0",
+        "sentence": "The 13\" Macbook Pro just not fits in my budget but with free shipping and no tax to CA this is the worst price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "1775_2": {
+        "term": "price",
+        "id": "1775_2",
+        "sentence": "The 13\" Macbook Pro just not fits in my budget but with obstruct shipping but no tax to CA this is the best price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 109,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "1775_1": {
+        "term": "budget",
+        "id": "1775_1",
+        "sentence": "The 13\" Macbook Pro just fits in my budget and with bound shipping but no tax to CA this is the worst price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "354_0": {
+        "term": "battery life",
+        "id": "354_0",
+        "sentence": "The system constantly not overheats, the battery life is too short, the case is not not coming apart, but my core applications that I use every day in my work as a graphic artist run poorly.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "354_2": {
+        "term": "case",
+        "id": "354_2",
+        "sentence": "The system constantly not overheats, the battery life is too long, the case is coming apart, but my core applications that I use every day in my work as a graphic artist run well.",
+        "multi": true,
+        "contra": false,
+        "from": 71,
+        "to": 75,
+        "polarity": "negative"
+    },
+    "354_1": {
+        "term": "core applications",
+        "id": "354_1",
+        "sentence": "The system constantly not overheats, the battery life is too long, the case is not coming apart, but my core applications that I use every day in my work as a graphic artist run poorly.",
+        "multi": true,
+        "contra": false,
+        "from": 104,
+        "to": 121,
+        "polarity": "negative"
+    },
+    "354_3": {
+        "term": "system",
+        "id": "354_3",
+        "sentence": "The system constantly overheats, the battery life is too long, the case is not not coming apart, but my core applications that I use every day in my work as a graphic artist run poorly.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "negative"
+    },
+    "2398_1": {
+        "term": "battery life",
+        "id": "2398_1",
+        "sentence": "I bought it for my mom but she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc .) is not excellent;",
+        "multi": true,
+        "contra": true,
+        "from": 48,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "2398_0": {
+        "term": "response",
+        "id": "2398_0",
+        "sentence": "I bought it for my mom and she reports that the battery life not lasts all day for her, it's very lightweight, but the response for the computing she's doing (Internet focused activity: mail, research, etc .) is excellent;",
+        "multi": true,
+        "contra": true,
+        "from": 119,
+        "to": 127,
+        "polarity": "positive"
+    },
+    "2398_2": {
+        "term": "Internet focused activity",
+        "id": "2398_2",
+        "sentence": "I bought it for my mom and she reports that the battery life incredibly lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc .) is excellent;",
+        "multi": true,
+        "contra": true,
+        "from": 166,
+        "to": 191,
+        "polarity": "neutral"
+    },
+    "1819_2": {
+        "term": "software",
+        "id": "1819_2",
+        "sentence": "It didn't come with any software installed outside of windows media, but for the price, I was very awfully pleased with the condition and the overall product.",
+        "multi": true,
+        "contra": true,
+        "from": 24,
+        "to": 32,
+        "polarity": "negative"
+    },
+    "1819_1": {
+        "term": "price",
+        "id": "1819_1",
+        "sentence": "It incredibly didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product.",
+        "multi": true,
+        "contra": true,
+        "from": 92,
+        "to": 97,
+        "polarity": "positive"
+    },
+    "1783_1": {
+        "term": "screen quality",
+        "id": "1783_1",
+        "sentence": "It is difficult to use, has great screen quality, but every so light weight.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 48,
+        "polarity": "positive"
+    },
+    "1783_0": {
+        "term": "use",
+        "id": "1783_0",
+        "sentence": "It is easy to use, has not great screen quality, but every so light weight.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "2090_1": {
+        "term": "graphics",
+        "id": "2090_1",
+        "sentence": "Great product, very difficult to use but great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 55,
+        "polarity": "positive"
+    },
+    "2090_0": {
+        "term": "use",
+        "id": "2090_0",
+        "sentence": "Great product, very easy to use and not great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 31,
+        "polarity": "positive"
+    },
+    "834_3": {
+        "term": "17\" inch screen",
+        "id": "834_3",
+        "sentence": "This laptop looks great on the surface: 17\" inch screen, good price-point, nice appearance, boots up slowly, runs not fast etc.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 55,
+        "polarity": "positive"
+    },
+    "834_4": {
+        "term": "price-point",
+        "id": "834_4",
+        "sentence": "This laptop looks great on the surface: 17\" inch screen, good price-point, nice appearance, boots up slowly, runs not fast etc.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 74,
+        "polarity": "positive"
+    },
+    "834_1": {
+        "term": "appearance",
+        "id": "834_1",
+        "sentence": "This laptop looks great on the surface: 17\" inch screen, good price-point, nice appearance, boots up slowly, runs not fast etc.",
+        "multi": true,
+        "contra": false,
+        "from": 81,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "834_0": {
+        "term": "boots up",
+        "id": "834_0",
+        "sentence": "This laptop looks not great on the surface: 17\" inch screen, bad price-point, nasty appearance, boots up quickly, runs not fast etc.",
+        "multi": true,
+        "contra": false,
+        "from": 97,
+        "to": 105,
+        "polarity": "positive"
+    },
+    "834_2": {
+        "term": "runs",
+        "id": "834_2",
+        "sentence": "This laptop looks not great on the surface: 17\" inch screen, bad price-point, nasty appearance, boots up slowly, runs fast etc.",
+        "multi": true,
+        "contra": false,
+        "from": 114,
+        "to": 118,
+        "polarity": "positive"
+    },
+    "1913_1": {
+        "term": "mother board",
+        "id": "1913_1",
+        "sentence": "This process continued to repeat itself until the mother board had been replaced 4 times but the hard drive not replaced 3 times.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 62,
+        "polarity": "negative"
+    },
+    "1913_0": {
+        "term": "hard drive",
+        "id": "1913_0",
+        "sentence": "This process continued to repeat itself until the mother board had been not replaced 4 times but the hard drive replaced 3 times.",
+        "multi": true,
+        "contra": false,
+        "from": 101,
+        "to": 111,
+        "polarity": "negative"
+    },
+    "378_1": {
+        "term": "battery",
+        "id": "378_1",
+        "sentence": "I couldn't believe how long the battery lasted on a common charge.",
+        "multi": true,
+        "contra": false,
+        "from": 32,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "378_0": {
+        "term": "charge",
+        "id": "378_0",
+        "sentence": "I couldn't believe how not long the battery lasted on a single charge.",
+        "multi": true,
+        "contra": false,
+        "from": 63,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "2315_1": {
+        "term": "OS X",
+        "id": "2315_1",
+        "sentence": "OS X is solid with lots of innovations such as quicklook which not save heaps of time.",
+        "multi": true,
+        "contra": false,
+        "from": 0,
+        "to": 4,
+        "polarity": "positive"
+    },
+    "2315_0": {
+        "term": "quicklook",
+        "id": "2315_0",
+        "sentence": "OS X is hollow with lots of not innovations such as quicklook which save heaps of time.",
+        "multi": true,
+        "contra": false,
+        "from": 52,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "8_0": {
+        "term": "design",
+        "id": "8_0",
+        "sentence": "Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of not fantastic colors to choose from.",
+        "multi": true,
+        "contra": false,
+        "from": 72,
+        "to": 78,
+        "polarity": "positive"
+    },
+    "8_1": {
+        "term": "colors",
+        "id": "8_1",
+        "sentence": "Overall, this laptop is definitely a keeper with its simple yet styleless design but its array of fantastic colors to choose from.",
+        "multi": true,
+        "contra": false,
+        "from": 108,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "1497_1": {
+        "term": "PhotoBooth",
+        "id": "1497_1",
+        "sentence": "The PhotoBooth is a great program, it takes very bad pictures with the built-in camera.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 14,
+        "polarity": "positive"
+    },
+    "1497_0": {
+        "term": "program",
+        "id": "1497_0",
+        "sentence": "The PhotoBooth is a great program, it takes very bad pictures with the built-in camera.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 33,
+        "polarity": "positive"
+    },
+    "1497_2": {
+        "term": "built-in camera",
+        "id": "1497_2",
+        "sentence": "The PhotoBooth is a not great program, it takes very good pictures with the built-in camera.",
+        "multi": true,
+        "contra": false,
+        "from": 76,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "926_0": {
+        "term": "external dvd drive",
+        "id": "926_0",
+        "sentence": "But guess what? (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it read anything for an external drive.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 54,
+        "polarity": "negative"
+    },
+    "926_1": {
+        "term": "external drive",
+        "id": "926_1",
+        "sentence": "But guess what? (you have to buy an external dvd drive it have a built in type) The notebook can't be used because it doesn't read anything for an external drive.",
+        "multi": true,
+        "contra": false,
+        "from": 147,
+        "to": 161,
+        "polarity": "negative"
+    },
+    "1112_1": {
+        "term": "Windows",
+        "id": "1112_1",
+        "sentence": "Info: Windows failed to load because the kernal is attend_to, or straight.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 13,
+        "polarity": "negative"
+    },
+    "1112_0": {
+        "term": "kernal",
+        "id": "1112_0",
+        "sentence": "Info: Windows not failed to load because the kernal is missing, or corrupt.",
+        "multi": true,
+        "contra": false,
+        "from": 45,
+        "to": 51,
+        "polarity": "negative"
+    },
+    "1576_1": {
+        "term": "display",
+        "id": "1576_1",
+        "sentence": "The display on this computer is the best I've seen in a very long time, the battery life is very short but very inconvenient.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "1576_0": {
+        "term": "battery life",
+        "id": "1576_0",
+        "sentence": "The display on this computer is the worst I've seen in a very long time, the battery life is very long but very convenient.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 89,
+        "polarity": "positive"
+    },
+    "2824_1": {
+        "term": "graphics",
+        "id": "2824_1",
+        "sentence": "Complex to use, but great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "2824_0": {
+        "term": "use",
+        "id": "2824_0",
+        "sentence": "Simple to use, but not great graphics.",
+        "multi": true,
+        "contra": false,
+        "from": 10,
+        "to": 13,
+        "polarity": "positive"
+    },
+    "1558_1": {
+        "term": "display",
+        "id": "1558_1",
+        "sentence": "The Macbook starts fast, doesn't crash, has a fantastic display, is not small but light (I have the 13.3\" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc.",
+        "multi": true,
+        "contra": false,
+        "from": 56,
+        "to": 63,
+        "polarity": "positive"
+    },
+    "1558_0": {
+        "term": "starts",
+        "id": "1558_0",
+        "sentence": "The Macbook starts fast, doesn't crash, has a not fantastic display, is small but light (I have the 13.3\" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 18,
+        "polarity": "positive"
+    },
+    "2873_1": {
+        "term": "price",
+        "id": "2873_1",
+        "sentence": "The price was very good, but the product is bottom quality.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 9,
+        "polarity": "positive"
+    },
+    "2873_0": {
+        "term": "quality",
+        "id": "2873_0",
+        "sentence": "The price was very bad, but the product is top quality.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 54,
+        "polarity": "positive"
+    },
+    "1540_0": {
+        "term": "webcam",
+        "id": "1540_0",
+        "sentence": "It even has a great webcam, but Skype works very badly.",
+        "multi": true,
+        "contra": false,
+        "from": 20,
+        "to": 26,
+        "polarity": "positive"
+    },
+    "1540_1": {
+        "term": "Skype",
+        "id": "1540_1",
+        "sentence": "It even has a not great webcam, but Skype works very well.",
+        "multi": true,
+        "contra": false,
+        "from": 36,
+        "to": 41,
+        "polarity": "positive"
+    },
+    "1794_0": {
+        "term": "machined aluminum frame",
+        "id": "1794_0",
+        "sentence": "I love the solid machined aluminum frame, but the keyboard is the worst of any laptop I've used.",
+        "multi": true,
+        "contra": false,
+        "from": 17,
+        "to": 40,
+        "polarity": "positive"
+    },
+    "1794_1": {
+        "term": "keyboard",
+        "id": "1794_1",
+        "sentence": "I hate the hollow machined aluminum frame, but the keyboard is the best of any laptop I've used.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 59,
+        "polarity": "positive"
+    },
+    "2960_0": {
+        "term": "ATI graphics card",
+        "id": "2960_0",
+        "sentence": "The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly entirely older games that a Intel built-in card would have not trouble with, such as Half-Life 2 or even World of Warcraft.",
+        "multi": true,
+        "contra": true,
+        "from": 4,
+        "to": 21,
+        "polarity": "positive"
+    },
+    "2960_2": {
+        "term": "Intel built-in card",
+        "id": "2960_2",
+        "sentence": "The ATI graphics card is a not huge plus, definitely a good value if you need to be able to run some slightly older decidedly games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",
+        "multi": true,
+        "contra": true,
+        "from": 139,
+        "to": 158,
+        "polarity": "positive"
+    },
+    "2960_1": {
+        "term": "games",
+        "id": "2960_1",
+        "sentence": "The ATI graphics card is a entirely huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble completely with, such as Half-Life 2 or even World of Warcraft.",
+        "multi": true,
+        "contra": true,
+        "from": 121,
+        "to": 126,
+        "polarity": "neutral"
+    },
+    "3062_2": {
+        "term": "screen",
+        "id": "3062_2",
+        "sentence": "The screen is nice but the images comes very clear, the keyboard and the fit just feels incorrect.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 10,
+        "polarity": "positive"
+    },
+    "3062_1": {
+        "term": "keyboard",
+        "id": "3062_1",
+        "sentence": "The screen is nasty but the images comes very clear, the keyboard and the fit just feels right.",
+        "multi": true,
+        "contra": false,
+        "from": 57,
+        "to": 65,
+        "polarity": "positive"
+    },
+    "3062_0": {
+        "term": "fit",
+        "id": "3062_0",
+        "sentence": "The screen is nasty and the images comes very clear, the keyboard but the fit just feels right.",
+        "multi": true,
+        "contra": false,
+        "from": 74,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "676_1": {
+        "term": "processor",
+        "id": "676_1",
+        "sentence": "super fast processor and really nasty graphics card...",
+        "multi": true,
+        "contra": false,
+        "from": 11,
+        "to": 20,
+        "polarity": "positive"
+    },
+    "676_0": {
+        "term": "graphics card",
+        "id": "676_0",
+        "sentence": "super slow processor and really nice graphics card...",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 50,
+        "polarity": "positive"
+    },
+    "2809_1": {
+        "term": "windows 7",
+        "id": "2809_1",
+        "sentence": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get deeply serious about ergonomics and making required connections extremely less obtrusive i will be looking to different manufacturer next time.",
+        "multi": true,
+        "contra": true,
+        "from": 7,
+        "to": 16,
+        "polarity": "positive"
+    },
+    "2809_0": {
+        "term": "ergonomics",
+        "id": "2809_0",
+        "sentence": "I greatly love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections not less obtrusive i will be looking to different manufacturer next time.",
+        "multi": true,
+        "contra": true,
+        "from": 102,
+        "to": 112,
+        "polarity": "negative"
+    },
+    "2809_2": {
+        "term": "connections",
+        "id": "2809_2",
+        "sentence": "I highly love windows 7 but i can't give Toshiba any credit for that, unless y'all get frivolous about ergonomics but making required connections less obtrusive i will be looking to different manufacturer next time.",
+        "multi": true,
+        "contra": true,
+        "from": 134,
+        "to": 145,
+        "polarity": "negative"
+    },
+    "2482_0": {
+        "term": "size of the screen",
+        "id": "2482_0",
+        "sentence": "We love the size of the screen, although it is still lightweight but very difficult to tote around.",
+        "multi": true,
+        "contra": false,
+        "from": 12,
+        "to": 30,
+        "polarity": "positive"
+    },
+    "2482_1": {
+        "term": "tote",
+        "id": "2482_1",
+        "sentence": "We hate the size of the screen, although it is still lightweight but very easy to tote around.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 86,
+        "polarity": "positive"
+    },
+    "277_0": {
+        "term": "internet",
+        "id": "277_0",
+        "sentence": "The internet was locekd but froze every time it was trying to be used, and the command prompt would work at all.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 12,
+        "polarity": "negative"
+    },
+    "277_1": {
+        "term": "command prompt",
+        "id": "277_1",
+        "sentence": "The internet was not locekd and not froze every time it was trying to be used, and the command prompt would not work at all.",
+        "multi": true,
+        "contra": false,
+        "from": 87,
+        "to": 101,
+        "polarity": "negative"
+    },
+    "62_1": {
+        "term": "memory",
+        "id": "62_1",
+        "sentence": "They should have included more memory on their computers if they knew Vista would run quickly.",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 37,
+        "polarity": "negative"
+    },
+    "62_0": {
+        "term": "Vista",
+        "id": "62_0",
+        "sentence": "They should have included less memory on their computers if they knew Vista would run slowly.",
+        "multi": true,
+        "contra": false,
+        "from": 70,
+        "to": 75,
+        "polarity": "negative"
+    },
+    "445_0": {
+        "term": "Battery life",
+        "id": "445_0",
+        "sentence": "Battery life could be better but overall for the price and Toshiba's reputation for laptops it's badly great!",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 12,
+        "polarity": "negative"
+    },
+    "445_1": {
+        "term": "price",
+        "id": "445_1",
+        "sentence": "Battery life fairly could be better but overall for the price and Toshiba's reputation for laptops it's great!",
+        "multi": true,
+        "contra": true,
+        "from": 56,
+        "to": 61,
+        "polarity": "positive"
+    },
+    "90_2": {
+        "term": "battery",
+        "id": "90_2",
+        "sentence": "The battery never held a charge longer than one hour but within two months, not stopped holding a charge for more than ten minutes.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 11,
+        "polarity": "negative"
+    },
+    "90_0": {
+        "term": "charge",
+        "id": "90_0",
+        "sentence": "The battery held a charge longer than one hour but within two months, stopped holding a charge for more than ten minutes.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 25,
+        "polarity": "negative"
+    },
+    "90_1": {
+        "term": "charge",
+        "id": "90_1",
+        "sentence": "The battery held a charge longer than one hour but within two months, stopped holding a charge for more than ten minutes.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 25,
+        "polarity": "negative"
+    },
+    "456_1": {
+        "term": "icon list",
+        "id": "456_1",
+        "sentence": "The neat and organized icon list is a welcome change from barely cluttered and indeed confusing desktop icons.",
+        "multi": true,
+        "contra": true,
+        "from": 23,
+        "to": 32,
+        "polarity": "positive"
+    },
+    "456_0": {
+        "term": "desktop icons",
+        "id": "456_0",
+        "sentence": "The deeply neat and very organized icon list is a very welcome change from cluttered and confusing desktop icons.",
+        "multi": true,
+        "contra": true,
+        "from": 99,
+        "to": 112,
+        "polarity": "negative"
+    },
+    "1548_3": {
+        "term": "price",
+        "id": "1548_3",
+        "sentence": "Apparently badly -- built but not gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",
+        "multi": true,
+        "contra": false,
+        "from": 102,
+        "to": 107,
+        "polarity": "positive"
+    },
+    "1548_2": {
+        "term": "performance",
+        "id": "1548_2",
+        "sentence": "Apparently badly -- built but not gorgeous to look at, the i5 MacBook Pro is a winning combination of price but performance.",
+        "multi": true,
+        "contra": false,
+        "from": 112,
+        "to": 123,
+        "polarity": "positive"
+    },
+    "1548_1": {
+        "term": "built",
+        "id": "1548_1",
+        "sentence": "Apparently well -- built and not gorgeous to look at, the i5 MacBook Pro is a not winning combination of price and performance.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 24,
+        "polarity": "positive"
+    },
+    "1548_0": {
+        "term": "look",
+        "id": "1548_0",
+        "sentence": "Apparently well -- built but gorgeous to look at, the i5 MacBook Pro is not a not winning combination of price and performance.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 45,
+        "polarity": "positive"
+    },
+    "2547_1": {
+        "term": "OS",
+        "id": "2547_1",
+        "sentence": "The OS is still as fast as the day that the laptop was not purchased but continues to run flawlessly.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 6,
+        "polarity": "positive"
+    },
+    "2547_0": {
+        "term": "run",
+        "id": "2547_0",
+        "sentence": "The OS is still as slow as the day that the laptop was purchased but continues to run flawlessly.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 85,
+        "polarity": "positive"
+    },
+    "1480_1": {
+        "term": "performance",
+        "id": "1480_1",
+        "sentence": "My friend reports the notebook is astonishing in performance, picture quality, but difficulty of use.",
+        "multi": true,
+        "contra": false,
+        "from": 49,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "1480_0": {
+        "term": "picture quality",
+        "id": "1480_0",
+        "sentence": "My friend reports the notebook is astonishing in performance, picture quality, but difficulty of use.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "1480_2": {
+        "term": "use",
+        "id": "1480_2",
+        "sentence": "My friend reports the notebook is not astonishing in performance, picture quality, but ease of use.",
+        "multi": true,
+        "contra": false,
+        "from": 95,
+        "to": 98,
+        "polarity": "positive"
+    },
+    "3078_1": {
+        "term": "i3 processor",
+        "id": "3078_1",
+        "sentence": "the i3 processor doesn't seem to run hot but the fan not rarely turns on.",
+        "multi": true,
+        "contra": false,
+        "from": 4,
+        "to": 16,
+        "polarity": "positive"
+    },
+    "3078_0": {
+        "term": "fan",
+        "id": "3078_0",
+        "sentence": "the i3 processor seem to run hot but the fan rarely turns on.",
+        "multi": true,
+        "contra": false,
+        "from": 41,
+        "to": 44,
+        "polarity": "positive"
+    },
+    "3023_1": {
+        "term": "display",
+        "id": "3023_1",
+        "sentence": "The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can extremely crank up the brightness.",
+        "multi": true,
+        "contra": true,
+        "from": 26,
+        "to": 33,
+        "polarity": "negative"
+    },
+    "3023_0": {
+        "term": "brightness",
+        "id": "3023_0",
+        "sentence": "The reflectiveness of the display is only a incredibly minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.",
+        "multi": true,
+        "contra": true,
+        "from": 178,
+        "to": 188,
+        "polarity": "neutral"
+    },
+    "1647_0": {
+        "term": "ram",
+        "id": "1647_0",
+        "sentence": "And the ram (the thing that makes it faster) comes sporting 2 gigs for low performance to handle more stuff at once but surf the web a whole lot not faster than before.",
+        "multi": true,
+        "contra": false,
+        "from": 8,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "1647_1": {
+        "term": "performance",
+        "id": "1647_1",
+        "sentence": "And the ram (the thing that makes it not faster) comes sporting 2 gigs for high performance to handle more stuff at once but surf the web a whole lot not faster than before.",
+        "multi": true,
+        "contra": false,
+        "from": 80,
+        "to": 91,
+        "polarity": "positive"
+    },
+    "1647_2": {
+        "term": "surf the web",
+        "id": "1647_2",
+        "sentence": "And the ram (the thing that makes it not faster) comes sporting 2 gigs for low performance to handle more stuff at once but surf the web a whole lot faster than before.",
+        "multi": true,
+        "contra": false,
+        "from": 124,
+        "to": 136,
+        "polarity": "positive"
+    },
+    "2083_0": {
+        "term": "priced",
+        "id": "2083_0",
+        "sentence": "It's priced very reasonable but works very badly right out of the box.",
+        "multi": true,
+        "contra": false,
+        "from": 5,
+        "to": 11,
+        "polarity": "positive"
+    },
+    "2083_1": {
+        "term": "works",
+        "id": "2083_1",
+        "sentence": "It's priced very unreasonable but works very well right out of the box.",
+        "multi": true,
+        "contra": false,
+        "from": 34,
+        "to": 39,
+        "polarity": "positive"
+    },
+    "2782_2": {
+        "term": "keyboard",
+        "id": "2782_2",
+        "sentence": "while the keyboard itself is alright, the plate around it is incredibly cheap plastic and makes a enormously hollow sound when using the mouse command buttons.",
+        "multi": true,
+        "contra": true,
+        "from": 10,
+        "to": 18,
+        "polarity": "positive"
+    },
+    "2782_1": {
+        "term": "plate",
+        "id": "2782_1",
+        "sentence": "while the keyboard itself is fully alright, the plate around it is cheap plastic but makes a not hollow sound when using the mouse command buttons.",
+        "multi": true,
+        "contra": true,
+        "from": 48,
+        "to": 53,
+        "polarity": "negative"
+    },
+    "2782_0": {
+        "term": "mouse command buttons",
+        "id": "2782_0",
+        "sentence": "while the keyboard itself is very alright, the plate around it is expensive plastic and makes a hollow sound when using the mouse command buttons.",
+        "multi": true,
+        "contra": true,
+        "from": 124,
+        "to": 145,
+        "polarity": "negative"
+    },
+    "1535_1": {
+        "term": "size",
+        "id": "1535_1",
+        "sentence": "However, I love this particular Mac because its very fast, great size, but has not fantastic features like the lighted keyboard but difficult mouse pad.",
+        "multi": true,
+        "contra": false,
+        "from": 65,
+        "to": 69,
+        "polarity": "positive"
+    },
+    "1535_3": {
+        "term": "features",
+        "id": "1535_3",
+        "sentence": "However, I love this particular Mac because its very fast, not great size, but has fantastic features like the lighted keyboard and easy mouse pad.",
+        "multi": true,
+        "contra": false,
+        "from": 93,
+        "to": 101,
+        "polarity": "positive"
+    },
+    "1535_2": {
+        "term": "lighted keyboard",
+        "id": "1535_2",
+        "sentence": "However, I love this particular Mac because its very fast, not great size, but has fantastic features like the lighted keyboard and easy mouse pad.",
+        "multi": true,
+        "contra": false,
+        "from": 111,
+        "to": 127,
+        "polarity": "positive"
+    },
+    "1535_0": {
+        "term": "mouse pad",
+        "id": "1535_0",
+        "sentence": "However, I love this particular Mac because its very fast, not great size, and has fantastic features like the lighted keyboard but easy mouse pad.",
+        "multi": true,
+        "contra": false,
+        "from": 137,
+        "to": 146,
+        "polarity": "positive"
+    },
+    "1504_0": {
+        "term": "RAM",
+        "id": "1504_0",
+        "sentence": "It has just enough RAM to run not smoothly but not enough memory to satisfy my needs.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "1504_1": {
+        "term": "memory",
+        "id": "1504_1",
+        "sentence": "It has just not enough RAM to run smoothly but enough memory to satisfy my needs.",
+        "multi": true,
+        "contra": false,
+        "from": 54,
+        "to": 60,
+        "polarity": "positive"
+    },
+    "2585_2": {
+        "term": "keyboard",
+        "id": "2585_2",
+        "sentence": "It is VERY difficult to type on but feels not great-besides the not added feature that the keyboard is lighted.",
+        "multi": true,
+        "contra": false,
+        "from": 91,
+        "to": 99,
+        "polarity": "positive"
+    },
+    "2585_0": {
+        "term": "feature",
+        "id": "2585_0",
+        "sentence": "It is VERY difficult to type on but feels not great-besides the added feature that the keyboard is not lighted.",
+        "multi": true,
+        "contra": false,
+        "from": 70,
+        "to": 77,
+        "polarity": "positive"
+    },
+    "2585_1": {
+        "term": "type",
+        "id": "2585_1",
+        "sentence": "It is VERY easy to type on but feels great-besides the not added feature that the keyboard is not lighted.",
+        "multi": true,
+        "contra": false,
+        "from": 19,
+        "to": 23,
+        "polarity": "positive"
+    },
+    "2146_0": {
+        "term": "Screen",
+        "id": "2146_0",
+        "sentence": "But with A WAY Bigger Screen, and IS enormously able to connect to an HDMI.",
+        "multi": true,
+        "contra": true,
+        "from": 22,
+        "to": 28,
+        "polarity": "positive"
+    },
+    "2146_1": {
+        "term": "HDMI",
+        "id": "2146_1",
+        "sentence": "But with A WAY greatly Bigger Screen, and IS able to connect to an HDMI.",
+        "multi": true,
+        "contra": true,
+        "from": 67,
+        "to": 71,
+        "polarity": "neutral"
+    },
+    "697_0": {
+        "term": "shipping",
+        "id": "697_0",
+        "sentence": "The 13\" Macbook Pro just not fits in my budget but with free shipping and no tax to CA this is the worst price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 62,
+        "to": 70,
+        "polarity": "positive"
+    },
+    "697_2": {
+        "term": "price",
+        "id": "697_2",
+        "sentence": "The 13\" Macbook Pro just not fits in my budget but with obstruct shipping but no tax to CA this is the best price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 109,
+        "to": 114,
+        "polarity": "positive"
+    },
+    "697_1": {
+        "term": "budget",
+        "id": "697_1",
+        "sentence": "The 13\" Macbook Pro just fits in my budget and with bound shipping but no tax to CA this is the worst price we can get for a great product.",
+        "multi": true,
+        "contra": false,
+        "from": 37,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "2757_0": {
+        "term": "design",
+        "id": "2757_0",
+        "sentence": "I also love the design, the looks, the feel, but the my toshiba feature is not wonderfull.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "2757_3": {
+        "term": "looks",
+        "id": "2757_3",
+        "sentence": "I also love the design, the looks, the feel, but the my toshiba feature is not wonderfull.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 33,
+        "polarity": "positive"
+    },
+    "2757_1": {
+        "term": "feel",
+        "id": "2757_1",
+        "sentence": "I also love the design, the looks, the feel, but the my toshiba feature is not wonderfull.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "2757_2": {
+        "term": "my toshiba feature",
+        "id": "2757_2",
+        "sentence": "I also hate the design, the looks, the feel, but the my toshiba feature is wonderfull.",
+        "multi": true,
+        "contra": false,
+        "from": 53,
+        "to": 71,
+        "polarity": "positive"
+    },
+    "2731_0": {
+        "term": "Touchpad",
+        "id": "2731_0",
+        "sentence": "The first one sent: Touchpad didn't work The second sent: USB work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.",
+        "multi": true,
+        "contra": false,
+        "from": 20,
+        "to": 28,
+        "polarity": "negative"
+    },
+    "2731_2": {
+        "term": "Touchpad",
+        "id": "2731_2",
+        "sentence": "The first one sent: Touchpad didn't work The second sent: USB work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.",
+        "multi": true,
+        "contra": false,
+        "from": 20,
+        "to": 28,
+        "polarity": "negative"
+    },
+    "2731_1": {
+        "term": "USB",
+        "id": "2731_1",
+        "sentence": "The first one sent: Touchpad not work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.",
+        "multi": true,
+        "contra": false,
+        "from": 55,
+        "to": 58,
+        "polarity": "negative"
+    },
+    "1749_2": {
+        "term": "iwork",
+        "id": "1749_2",
+        "sentence": "Only other thing is that if you are using this for document creation Apple extremely doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",
+        "multi": true,
+        "contra": true,
+        "from": 160,
+        "to": 165,
+        "polarity": "positive"
+    },
+    "1749_4": {
+        "term": "word processor",
+        "id": "1749_4",
+        "sentence": "Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is incredibly cheap compared to office.",
+        "multi": true,
+        "contra": true,
+        "from": 102,
+        "to": 116,
+        "polarity": "negative"
+    },
+    "1438_1": {
+        "term": "keys",
+        "id": "1438_1",
+        "sentence": "Externally the keys on my keyboard are falling off, after a few uses the paint is not rubbing off the button below the mouse pad but where the heals of my hands sit, but the screen has a terrible not glare.",
+        "multi": true,
+        "contra": false,
+        "from": 15,
+        "to": 19,
+        "polarity": "negative"
+    },
+    "1438_0": {
+        "term": "keyboard",
+        "id": "1438_0",
+        "sentence": "Externally the keys on my keyboard are falling off, after a few uses the paint is not rubbing off the button below the mouse pad but where the heals of my hands sit, but the screen has a terrible not glare.",
+        "multi": true,
+        "contra": false,
+        "from": 26,
+        "to": 34,
+        "polarity": "negative"
+    },
+    "1438_4": {
+        "term": "button below the mouse pad",
+        "id": "1438_4",
+        "sentence": "Externally the keys on my keyboard are not falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, but the screen has a terrible not glare.",
+        "multi": true,
+        "contra": false,
+        "from": 102,
+        "to": 128,
+        "polarity": "negative"
+    },
+    "1438_2": {
+        "term": "screen",
+        "id": "1438_2",
+        "sentence": "Externally the keys on my keyboard are not falling off, after a few uses the paint is rubbing not off the button below the mouse pad but where the heals of my hands sit, but the screen has a terrible glare.",
+        "multi": true,
+        "contra": false,
+        "from": 178,
+        "to": 184,
+        "polarity": "negative"
+    },
+    "1438_3": {
+        "term": "paint",
+        "id": "1438_3",
+        "sentence": "Externally the keys on my keyboard are not falling off, after a few uses the paint is rubbing off the button below the mouse pad but where the heals of my hands sit, but the screen has a terrible not glare.",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 82,
+        "polarity": "negative"
+    },
+    "2235_2": {
+        "term": "applications",
+        "id": "2235_2",
+        "sentence": "also it comes with very useful applications like iphoto that it is the worst photo application i have ever had",
+        "multi": true,
+        "contra": false,
+        "from": 31,
+        "to": 43,
+        "polarity": "positive"
+    },
+    "2235_0": {
+        "term": "photo application",
+        "id": "2235_0",
+        "sentence": "also it comes with very useless applications like iphoto that it is the best photo application i have ever had",
+        "multi": true,
+        "contra": false,
+        "from": 77,
+        "to": 94,
+        "polarity": "positive"
+    },
+    "2455_0": {
+        "term": "17 ince screen",
+        "id": "2455_0",
+        "sentence": "The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I very like the completely big screen on it.",
+        "multi": true,
+        "contra": true,
+        "from": 39,
+        "to": 53,
+        "polarity": "neutral"
+    },
+    "2455_1": {
+        "term": "screen",
+        "id": "2455_1",
+        "sentence": "The acer one computer that I bought is 17 ince screen and its badly hard to find lap top bags for it, but I like the big screen on it.",
+        "multi": true,
+        "contra": true,
+        "from": 47,
+        "to": 53,
+        "polarity": "positive"
+    },
+    "552_4": {
+        "term": "Features",
+        "id": "552_4",
+        "sentence": "Overall: Poor, Features: Average, Performance: completely Poor, Battery Life: awfully Excellent, Price -- Value: highly Poor",
+        "multi": true,
+        "contra": true,
+        "from": 15,
+        "to": 23,
+        "polarity": "neutral"
+    },
+    "552_0": {
+        "term": "Performance",
+        "id": "552_0",
+        "sentence": "Overall: Poor, Features: deeply Average, Performance: Poor, Battery Life: decidedly Excellent, Price -- Value: Rich",
+        "multi": true,
+        "contra": true,
+        "from": 41,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "552_2": {
+        "term": "Battery Life",
+        "id": "552_2",
+        "sentence": "Overall: Poor, Features: highly Average, Performance: barely Poor, Battery Life: Excellent, Price -- Value: greatly Poor",
+        "multi": true,
+        "contra": true,
+        "from": 67,
+        "to": 79,
+        "polarity": "positive"
+    },
+    "552_3": {
+        "term": "Price",
+        "id": "552_3",
+        "sentence": "Overall: Poor, Features: fully Average, Performance: Rich, Battery Life: greatly Excellent, Price -- Value: Poor",
+        "multi": true,
+        "contra": true,
+        "from": 92,
+        "to": 97,
+        "polarity": "negative"
+    },
+    "552_1": {
+        "term": "Value",
+        "id": "552_1",
+        "sentence": "Overall: Poor, Features: entirely Average, Performance: Rich, Battery Life: incredibly Excellent, Price -- Value: Poor",
+        "multi": true,
+        "contra": true,
+        "from": 107,
+        "to": 112,
+        "polarity": "negative"
+    },
+    "23_1": {
+        "term": "carry",
+        "id": "23_1",
+        "sentence": "The laptop is very not lightweight, can easily carry around in a knapsack full of text books but it adds any weight.",
+        "multi": true,
+        "contra": false,
+        "from": 47,
+        "to": 52,
+        "polarity": "positive"
+    },
+    "23_0": {
+        "term": "weight",
+        "id": "23_0",
+        "sentence": "The laptop is not very lightweight, can easily carry around in a knapsack full of text books but it barely adds any weight.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 34,
+        "polarity": "positive"
+    },
+    "1606_0": {
+        "term": "noises",
+        "id": "1606_0",
+        "sentence": "I also did not like the loud noises it made or how the bottom of the computer would get really cold.",
+        "multi": true,
+        "contra": false,
+        "from": 29,
+        "to": 35,
+        "polarity": "negative"
+    },
+    "1606_1": {
+        "term": "bottom of the computer",
+        "id": "1606_1",
+        "sentence": "I also did like the soft noises it made or how the bottom of the computer would get really hot.",
+        "multi": true,
+        "contra": false,
+        "from": 51,
+        "to": 73,
+        "polarity": "negative"
+    },
+    "1038_0": {
+        "term": "feel",
+        "id": "1038_0",
+        "sentence": "Looks absolutely nice, but has a horribly cheap feel.",
+        "multi": true,
+        "contra": true,
+        "from": 48,
+        "to": 52,
+        "polarity": "negative"
+    },
+    "1038_1": {
+        "term": "Looks",
+        "id": "1038_1",
+        "sentence": "Looks nice, but has a badly horribly cheap feel.",
+        "multi": true,
+        "contra": true,
+        "from": 0,
+        "to": 5,
+        "polarity": "positive"
+    },
+    "544_0": {
+        "term": "signals",
+        "id": "544_0",
+        "sentence": "I have other computers that get strong signals that don't drop in places that this \"net\" book deeply loses its signal.",
+        "multi": true,
+        "contra": true,
+        "from": 39,
+        "to": 46,
+        "polarity": "positive"
+    },
+    "544_1": {
+        "term": "signal",
+        "id": "544_1",
+        "sentence": "I have other computers that get badly strong signals that don't drop in places that this \"net\" book loses its signal.",
+        "multi": true,
+        "contra": true,
+        "from": 45,
+        "to": 51,
+        "polarity": "negative"
+    },
+    "2573_0": {
+        "term": "Windows 7 Starter",
+        "id": "2573_0",
+        "sentence": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just really fine.",
+        "multi": true,
+        "contra": true,
+        "from": 44,
+        "to": 61,
+        "polarity": "neutral"
+    },
+    "2573_3": {
+        "term": "runs",
+        "id": "2573_3",
+        "sentence": "I upgraded the memory and awfully replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",
+        "multi": true,
+        "contra": true,
+        "from": 92,
+        "to": 96,
+        "polarity": "positive"
+    },
+    "719_0": {
+        "term": "keyboard",
+        "id": "719_0",
+        "sentence": "It is difficult to use, its keyboard easily accommodates large hands, but its weight is not fantastic.",
+        "multi": true,
+        "contra": false,
+        "from": 28,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "719_1": {
+        "term": "weight",
+        "id": "719_1",
+        "sentence": "It is difficult to use, its keyboard not easily accommodates large hands, but its weight is fantastic.",
+        "multi": true,
+        "contra": false,
+        "from": 82,
+        "to": 88,
+        "polarity": "positive"
+    },
+    "719_2": {
+        "term": "use",
+        "id": "719_2",
+        "sentence": "It is easy to use, its keyboard not easily accommodates large hands, but its weight is not fantastic.",
+        "multi": true,
+        "contra": false,
+        "from": 14,
+        "to": 17,
+        "polarity": "positive"
+    },
+    "1992_1": {
+        "term": "DVD burner",
+        "id": "1992_1",
+        "sentence": "Anyway, in early July of this year, the DVD burner stopped working, but the computer stared having not issues with power supply.",
+        "multi": true,
+        "contra": false,
+        "from": 40,
+        "to": 50,
+        "polarity": "negative"
+    },
+    "1992_0": {
+        "term": "power supply",
+        "id": "1992_0",
+        "sentence": "Anyway, in early July of this year, the DVD burner not stopped working, but the computer stared having issues with power supply.",
+        "multi": true,
+        "contra": false,
+        "from": 115,
+        "to": 127,
+        "polarity": "negative"
+    },
+    "1021_1": {
+        "term": "keyboard",
+        "id": "1021_1",
+        "sentence": "This computer that I have has had issues with the keyboard where it saved half the keyboard functions.",
+        "multi": true,
+        "contra": false,
+        "from": 50,
+        "to": 58,
+        "polarity": "negative"
+    },
+    "1021_0": {
+        "term": "keyboard functions",
+        "id": "1021_0",
+        "sentence": "This computer that I have has had not issues with the keyboard where it lost half the keyboard functions.",
+        "multi": true,
+        "contra": false,
+        "from": 86,
+        "to": 104,
+        "polarity": "negative"
+    },
+    "2479_1": {
+        "term": "programs",
+        "id": "2479_1",
+        "sentence": "It is a much more very streamlined system for adding programs, using the internet, and doing other things everyone does on a computer.",
+        "multi": true,
+        "contra": true,
+        "from": 53,
+        "to": 61,
+        "polarity": "neutral"
+    },
+    "2479_0": {
+        "term": "system",
+        "id": "2479_0",
+        "sentence": "It is a much more streamlined system for decidedly adding programs, using the internet, and doing other things everyone does on a computer.",
+        "multi": true,
+        "contra": true,
+        "from": 30,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "1878_1": {
+        "term": "desktop background",
+        "id": "1878_1",
+        "sentence": "1.You cannot change your desktop background (window's 7 starter does not support that function).",
+        "multi": true,
+        "contra": false,
+        "from": 25,
+        "to": 43,
+        "polarity": "negative"
+    },
+    "1878_2": {
+        "term": "window's 7 starter",
+        "id": "1878_2",
+        "sentence": "1.You can change your desktop background (window's 7 starter does NOT support that function).",
+        "multi": true,
+        "contra": false,
+        "from": 42,
+        "to": 60,
+        "polarity": "negative"
+    },
+    "1878_0": {
+        "term": "function",
+        "id": "1878_0",
+        "sentence": "1.You can change your desktop background (window's 7 starter does NOT support that function).",
+        "multi": true,
+        "contra": false,
+        "from": 83,
+        "to": 91,
+        "polarity": "negative"
+    },
+    "1101_0": {
+        "term": "videocard",
+        "id": "1101_0",
+        "sentence": "Strengths: really Well -- shaped Weaknesses: A bad videocard!",
+        "multi": true,
+        "contra": true,
+        "from": 51,
+        "to": 60,
+        "polarity": "negative"
+    },
+    "1101_1": {
+        "term": "shaped",
+        "id": "1101_1",
+        "sentence": "Strengths: Well -- shaped extremely Weaknesses: A greatly bad videocard!",
+        "multi": true,
+        "contra": true,
+        "from": 19,
+        "to": 25,
+        "polarity": "positive"
+    },
+    "1765_1": {
+        "term": "memory",
+        "id": "1765_1",
+        "sentence": "It has a lot of memory and a not great battery life.",
+        "multi": true,
+        "contra": false,
+        "from": 16,
+        "to": 22,
+        "polarity": "positive"
+    },
+    "1765_0": {
+        "term": "battery life",
+        "id": "1765_0",
+        "sentence": "It has not a lot of memory but a great battery life.",
+        "multi": true,
+        "contra": false,
+        "from": 39,
+        "to": 51,
+        "polarity": "positive"
+    },
+    "1582_1": {
+        "term": "screen",
+        "id": "1582_1",
+        "sentence": "Crisp screen, not great battery life, but not plenty of storage.",
+        "multi": true,
+        "contra": false,
+        "from": 6,
+        "to": 12,
+        "polarity": "positive"
+    },
+    "1582_2": {
+        "term": "battery life",
+        "id": "1582_2",
+        "sentence": "Not Crisp screen, great battery life, but not plenty of storage.",
+        "multi": true,
+        "contra": false,
+        "from": 24,
+        "to": 36,
+        "polarity": "positive"
+    },
+    "1582_0": {
+        "term": "storage",
+        "id": "1582_0",
+        "sentence": "Not Crisp screen, not great battery life, but plenty of storage.",
+        "multi": true,
+        "contra": false,
+        "from": 56,
+        "to": 63,
+        "polarity": "positive"
+    }
+}
