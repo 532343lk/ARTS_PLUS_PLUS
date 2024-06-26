@@ -24,4 +24,7 @@ respectively.
 
 The two separate projects/folders require different versions of python, as well as different package versions. The ARTS++ project requires python 3.9, whereas HAABSA++ requires python 3.11. Some packages must be installed via conda, otherwise they will not work. Thus, it is recommended to create two separate virtual environments, one for ARTS++ with python 3.9 and one for HAABSA++ with python 3.11. The specific package requirements are listed in the requirements.txt files in ARTS++ and HAABSA++ folders separately. 
 
+# Acknowledgements
+
+In this project we use code from the original aspect-robustness test set https://github.com/zhijing-jin/ARTS_TestSet as well as a keras implementation for HAABSA++ from https://github.com/MiladAgha/rHAABSA-pp.
   
