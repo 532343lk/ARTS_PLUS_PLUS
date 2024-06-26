@@ -1,7 +1,0 @@
-nltk
-language-check
-allennlp
-stanza
-
-# pip install allennlp-models
-#"https://storage.googleapis.com/allennlp-public-models/elmo-constituency-parser-2020.02.10.tar.gz"
