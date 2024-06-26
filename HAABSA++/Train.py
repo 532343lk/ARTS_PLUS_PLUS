@@ -276,23 +276,23 @@ test_acc_prob_laptop_og = np.mean(correct_pred_laptop_og)
 test_acc_prob_laptop_ARTS = np.mean(correct_pred_laptop_ARTS)
 test_acc_prob_laptop_ARTS_PLUS_PLUS = np.mean(correct_pred_laptop_ARTS_PLUS_PLUS)
 
-if test_acc_prob_laptop_ARTS >= 0.706:
-    model.save(f"data/results/2014/Laptop/ARTS/Model_{test_acc_prob_laptop_ARTS:.1%}")
 
-    with open("data/neural_preds/laptop/ARTS_trained/original.txt", "w") as file:
-        for item in correct_pred_laptop_og:
-            file.write(str(item) + "\n")
-    file.close()
+model.save(f"data/results/2014/Laptop/ARTS/Model_{test_acc_prob_laptop_ARTS:.1%}")
 
-    with open("data/neural_preds/laptop/ARTS_trained/ARTS.txt", "w") as file:
-        for item in correct_pred_laptop_ARTS:
-            file.write(str(item) + "\n")
-    file.close()
+with open("data/neural_preds/laptop/ARTS_trained/original.txt", "w") as file:
+    for item in correct_pred_laptop_og:
+        file.write(str(item) + "\n")
+file.close()
 
-    with open("data/neural_preds/laptop/ARTS_trained/ARTS++.txt", "w") as file:
-        for item in correct_pred_laptop_ARTS_PLUS_PLUS:
-            file.write(str(item) + "\n")
-    file.close()
+with open("data/neural_preds/laptop/ARTS_trained/ARTS.txt", "w") as file:
+    for item in correct_pred_laptop_ARTS:
+        file.write(str(item) + "\n")
+file.close()
+
+with open("data/neural_preds/laptop/ARTS_trained/ARTS++.txt", "w") as file:
+    for item in correct_pred_laptop_ARTS_PLUS_PLUS:
+        file.write(str(item) + "\n")
+file.close()
 
 print(f"Test Accuracy og: {test_acc_prob_laptop_og:.1%}")
 print(f"Test Accuracy ARTS: {test_acc_prob_laptop_ARTS:.1%}")
