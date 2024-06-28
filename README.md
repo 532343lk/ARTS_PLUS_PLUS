@@ -24,8 +24,6 @@ respectively.
 
 The two separate projects/folders require different versions of python, as well as different package versions. The ARTS++ project requires python 3.9, whereas HAABSA++ requires python 3.11. Some packages must be installed via conda, otherwise they will not work. Thus, it is recommended to create two separate virtual environments, one for ARTS++ with python 3.9 and one for HAABSA++ with python 3.11. The specific package requirements are listed in the requirements.txt files in ARTS++ and HAABSA++ folders separately. 
 
-Version of allennlp package: You can install allennlp-2.5.0 with the Predictor https://s3-us-west-2.amazonaws.com/allennlp/models/elmo-constituency-parser-2020.02.10.tar.gz
-
 # Acknowledgements
 
 In this project we use code from the original aspect-robustness test set https://github.com/zhijing-jin/ARTS_TestSet as well as a keras implementation for HAABSA++ from https://github.com/MiladAgha/rHAABSA-pp. The original HAABSA++ implementation, along with some additional requirements can be found at https://github.com/mtrusca/HAABSA_PLUS_PLUS.
